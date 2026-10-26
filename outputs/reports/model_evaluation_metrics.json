@@ -1,0 +1,67 @@
+{
+  "selected_model": "Random Forest",
+  "validation_metrics": {
+    "val_mae_sec": 0.5,
+    "val_rmse_sec": 5.474,
+    "val_r2": 0.99928,
+    "val_medae_sec": 0.261
+  },
+  "test_metrics": {
+    "test_mae_sec": 0.365,
+    "test_rmse_sec": 1.036,
+    "test_r2": 0.99987,
+    "test_medae_sec": 0.272,
+    "test_mape_percent": 0.39,
+    "test_inference_latency_ms_per_sample": 0.006
+  },
+  "baseline_comparison": {
+    "baseline_model": "DummyRegressor (Training Mean)",
+    "baseline_test_mae_sec": 63.813,
+    "baseline_test_rmse_sec": 92.281,
+    "baseline_test_r2": -0.00578,
+    "mae_reduction_percent": 99.43,
+    "rmse_reduction_percent": 98.88
+  },
+  "top_features": [
+    {
+      "feature": "segment_dist_km",
+      "importance": 0.9990643560671125
+    },
+    {
+      "feature": "remaining_stops",
+      "importance": 9.684680132345002e-05
+    },
+    {
+      "feature": "stop_sequence",
+      "importance": 9.638491247001672e-05
+    },
+    {
+      "feature": "route_tortuosity",
+      "importance": 8.468415791837814e-05
+    },
+    {
+      "feature": "next_stop_lat",
+      "importance": 8.204469560743074e-05
+    },
+    {
+      "feature": "corridor_degree_sum",
+      "importance": 7.582277824497963e-05
+    },
+    {
+      "feature": "total_route_distance_km",
+      "importance": 5.306474115011821e-05
+    },
+    {
+      "feature": "dist_from_delhi_center_km",
+      "importance": 4.394234361077963e-05
+    },
+    {
+      "feature": "dest_dist_from_delhi_center_km",
+      "importance": 4.0423071051692445e-05
+    },
+    {
+      "feature": "sequence_ratio",
+      "importance": 3.990930117845488e-05
+    }
+  ]
+}

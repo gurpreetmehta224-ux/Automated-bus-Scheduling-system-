@@ -1,0 +1,73 @@
+{
+  "dataset_statistics": {
+    "total_rows": 99286,
+    "total_columns": 19,
+    "unique_routes": 2403,
+    "unique_trips": 2403,
+    "unique_stops": 10559,
+    "unique_stop_names": 3962,
+    "consecutive_duplicate_rows": 587,
+    "missing_values_count": 15046
+  },
+  "spatial_bounding_box": {
+    "min_latitude": 28.416651,
+    "max_latitude": 28.871866,
+    "min_longitude": 76.84277166,
+    "max_longitude": 77.414551,
+    "network_center_lat": 28.64567777122837,
+    "network_center_lon": 77.15590878021916
+  },
+  "route_metrics": {
+    "min_stops_per_route": 2,
+    "max_stops_per_route": 197,
+    "mean_stops_per_route": 41.32,
+    "median_stops_per_route": 42.0,
+    "min_route_distance_km": 0.87,
+    "max_route_distance_km": 184.41,
+    "mean_route_distance_km": 23.62,
+    "median_route_distance_km": 22.6,
+    "min_trip_duration_min": 3.48,
+    "max_trip_duration_min": 736.4,
+    "mean_trip_duration_min": 94.41,
+    "median_trip_duration_min": 90.33,
+    "mean_scheduled_speed_kmh": 15.01
+  },
+  "top_5_busiest_hubs": [
+    {
+      "stop_id": 488,
+      "stop_name": "NajafGarh Delhi Gate",
+      "unique_routes": 102,
+      "total_visits": 102
+    },
+    {
+      "stop_id": 10225,
+      "stop_name": "Jahangir Puri Metro Station",
+      "unique_routes": 101,
+      "total_visits": 113
+    },
+    {
+      "stop_id": 149,
+      "stop_name": "Health Centre",
+      "unique_routes": 99,
+      "total_visits": 99
+    },
+    {
+      "stop_id": 233,
+      "stop_name": "Police Station NajafGarh",
+      "unique_routes": 95,
+      "total_visits": 95
+    },
+    {
+      "stop_id": 10221,
+      "stop_name": "Adarsh Nagar / Bharola Village",
+      "unique_routes": 86,
+      "total_visits": 103
+    }
+  ],
+  "peak_activity_summary": {
+    "busiest_dispatch_hour": 11,
+    "max_hourly_dispatches": 445,
+    "busiest_active_hour": 12,
+    "max_active_trips_simultaneous": 571
+  }
+}

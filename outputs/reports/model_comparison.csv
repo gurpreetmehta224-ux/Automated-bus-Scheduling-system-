@@ -1,0 +1,6 @@
+model_name,train_time_sec,val_pred_time_sec,val_mae_sec,val_rmse_sec,val_r2,val_medae_sec
+Random Forest,12.185,0.085,0.5,5.474,0.99928,0.261
+HistGradientBoosting,0.856,0.016,3.835,76.534,0.85903,0.429
+XGBoost,3.508,0.017,4.778,67.885,0.88909,0.517
+LightGBM,0.877,0.034,5.084,70.479,0.88045,0.819
+DummyRegressor (Mean Baseline),0.041,0.0,67.36,203.863,-0.00024,50.413

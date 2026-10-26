@@ -1,0 +1,19 @@
+{
+  "dataset_trips": 2403,
+  "unlinked_fleet_required": 2403,
+  "linked_fleet_required": 868,
+  "buses_saved": 1535,
+  "fleet_reduction_percent": 63.88,
+  "unlinked_fleet_duty_hours": 3781.1,
+  "linked_fleet_duty_hours": 5306.7,
+  "total_in_service_driving_hours": 3781.1,
+  "total_turnaround_hours": 383.8,
+  "total_deadhead_hours": 189.9,
+  "total_idle_hours": 951.9,
+  "linked_fleet_utilization_percent": 71.25,
+  "avg_trips_per_bus": 2.77,
+  "max_trips_per_bus": 6,
+  "avg_duty_hours_per_bus": 6.11,
+  "max_duty_hours_cap": 8.0,
+  "min_turnaround_minutes_buffer": 15.0
+}

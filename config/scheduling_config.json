@@ -1,0 +1,36 @@
+{
+  "_comment": "Module 5 Bus Scheduling and Route Optimization Configuration. All parameters labeled ASSUMPTION are engineering models and NOT official DTC operational rules.",
+  "turnaround_and_recovery": {
+    "min_turnaround_time_minutes": 15.0,
+    "description": "ASSUMPTION — NOT FROM DTC DATA: Mandatory buffer between consecutive trips for vehicle turnaround, passenger clearance, and driver rest.",
+    "is_assumption": true
+  },
+  "duty_duration_constraints": {
+    "max_duty_duration_hours": 8.0,
+    "description": "ASSUMPTION — NOT FROM DTC DATA: Maximum single-shift elapsed vehicle duty duration (from first trip start to last trip end).",
+    "is_assumption": true,
+    "max_continuous_driving_hours": 4.5,
+    "description_continuous": "ASSUMPTION — NOT FROM DTC DATA: Maximum continuous driving duration without minimum 30-minute layover break.",
+    "is_continuous_assumption": true
+  },
+  "deadhead_repositioning": {
+    "deadhead_speed_kmh": 20.0,
+    "description": "ASSUMPTION — NOT FROM DTC DATA: Assumed average empty bus deadhead speed between different terminal stops across Delhi.",
+    "is_assumption": true,
+    "max_deadhead_distance_km": 15.0,
+    "description_distance": "ASSUMPTION — NOT FROM DTC DATA: Maximum allowable empty deadhead repositioning distance between trip endpoints for trip linking.",
+    "is_distance_assumption": true
+  },
+  "headway_and_service_window": {
+    "service_day_start_hour": 5.0,
+    "service_day_end_hour": 23.5,
+    "min_headway_minutes": 10.0,
+    "max_headway_minutes": 30.0,
+    "description": "ASSUMPTION — NOT FROM DTC DATA: Operational service boundaries and standard urban headway ranges."
+  },
+  "ml_runtime_uncertainty": {
+    "delay_uncertainty_buffer": 1.05,
+    "description": "ASSUMPTION — NOT FROM DTC DATA: Safety multiplier applied to ML segment runtime predictions to account for stochastic traffic delay (e.g. 1.05 = 5% buffer).",
+    "is_assumption": true
+  }
+}

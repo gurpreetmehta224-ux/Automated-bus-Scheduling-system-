@@ -1,0 +1,31 @@
+hour,display_hour,period_type,dispatches_started,active_trips,stop_arrivals
+0,00:00,Late Night / Past Midnight (GTFS 24h+),27,27,406
+1,01:00,Late Night / Past Midnight (GTFS 24h+),1,28,579
+2,02:00,Late Night / Past Midnight (GTFS 24h+),3,22,306
+3,03:00,Late Night / Past Midnight (GTFS 24h+),2,11,187
+4,04:00,Early Morning,9,14,174
+5,05:00,Early Morning,116,125,1744
+6,06:00,Early Morning,121,232,3623
+7,07:00,Morning Peak,233,399,5743
+8,08:00,Morning Peak,273,558,10315
+9,09:00,Morning Peak,78,461,8681
+10,10:00,Morning Peak,57,290,4318
+11,11:00,Midday Off-Peak,445,561,7242
+12,12:00,Midday Off-Peak,96,571,11936
+13,13:00,Midday Off-Peak,77,444,6127
+14,14:00,Midday Off-Peak,121,280,4207
+15,15:00,Midday Off-Peak,63,214,3473
+16,16:00,Evening Peak,75,190,2806
+17,17:00,Evening Peak,56,188,3131
+18,18:00,Evening Peak,174,296,4379
+19,19:00,Evening Peak,118,335,5891
+20,20:00,Night,56,274,4527
+21,21:00,Night,103,236,2924
+22,22:00,Night,68,204,3696
+23,23:00,Night,31,142,1987
+24,24:00,Late Night / Past Midnight (GTFS 24h+),0,41,498
+25,25:00,Late Night / Past Midnight (GTFS 24h+),0,16,164
+26,26:00,Late Night / Past Midnight (GTFS 24h+),0,9,108
+27,27:00,Late Night / Past Midnight (GTFS 24h+),0,6,88
+28,28:00,Late Night / Past Midnight (GTFS 24h+),0,3,21
+29,29:00,Late Night / Past Midnight (GTFS 24h+),0,1,5

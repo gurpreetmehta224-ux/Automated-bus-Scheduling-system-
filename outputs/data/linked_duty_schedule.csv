@@ -1,0 +1,869 @@
+bus_id,duty_start_str,duty_start_sec,duty_end_str,duty_end_sec,total_duty_hours,driving_hours,turnaround_hours,deadhead_hours,idle_hours,trips_completed,first_start_stop,last_end_stop,routes_served_chain
+DTC_BUS_0001,00:20:00,1200,08:15:36,29736.0,7.93,2.62,0.5,0.78,4.03,3,Anand Vihar ISBT Main Road,D Block Mangol Puri (T),5917 -> 10306 -> 518
+DTC_BUS_0002,00:20:00,1200,07:24:08,26648.0,7.07,4.88,0.5,0.54,1.15,3,Anand Vihar ISBT Terminal,Shivaji Stadium Terminal,5918 -> 5838 -> 10275
+DTC_BUS_0003,00:20:00,1200,07:19:16,26356.0,6.99,4.86,0.5,0.47,1.16,3,Wazirpur DTC Depot / Netaji Subhash Palace,BBM Cluster Depot,5919 -> 6000 -> 1128
+DTC_BUS_0004,00:20:00,1200,07:40:24,27624.0,7.34,3.09,0.5,0.49,3.27,3,IGI Airport Terminal 2 (Air India Office),Babarpur Ext / Maujpur Metro Station,5920 -> 5109 -> 26
+DTC_BUS_0005,00:20:00,1200,08:02:50,28970.0,7.71,3.78,0.5,0.34,3.09,3,Mayur Vihar Ph III Paper Market,Shivaji Stadium Terminal,5921 -> 10579 -> 5772
+DTC_BUS_0006,00:20:00,1200,08:09:58,29398.0,7.83,3.54,0.5,0.71,3.09,3,Dwarka Sec 3/4,Uttam Nagar Terminal,5922 -> 10307 -> 11
+DTC_BUS_0007,00:20:00,1200,07:02:09,25329.0,6.7,3.18,0.25,0.58,2.69,2,Rohini Sec11 (Aggarwal Sabha),Harsh Vihar Terminal,5923 -> 5108
+DTC_BUS_0008,00:20:00,1200,07:54:36,28476.0,7.58,4.08,0.5,0.8,2.2,3,Karol Bagh Terminal,Kair Village,5924 -> 10571 -> 1621
+DTC_BUS_0009,00:20:00,1200,08:03:28,29008.0,7.72,4.41,0.5,0.37,2.44,3,Gurugram ISBT,Old Delhi Railway Station,5925 -> 5107 -> 1057
+DTC_BUS_0010,00:30:00,1800,07:07:16,25636.0,6.62,3.03,0.25,0.39,2.96,2,Safiabad Border,Azadpur Terminal,1461 -> 5999
+DTC_BUS_0011,00:30:00,1800,08:29:16,30556.0,7.99,5.1,0.5,0.22,2.17,3,Mori Gate Terminal,Mahipal Pur Crossing NH-8,5452 -> 10257 -> 10484
+DTC_BUS_0012,00:30:00,1800,08:13:54,29634.0,7.73,4.65,0.5,0.73,1.85,3,New Delhi Railway Station Gate 2,Hari Nagar Shaheed Pawan Sahni Chowk,5453 -> 5837 -> 5030
+DTC_BUS_0013,00:30:00,1800,07:38:25,27505.0,7.14,5.21,0.75,0.21,0.97,4,Kashmere Gate City bus Terminal,Aya Nagar Xing,5457 -> 5451 -> 1798 -> 5207
+DTC_BUS_0014,00:30:00,1800,08:25:29,30329.0,7.92,6.65,0.5,0.58,0.2,3,Uttam Nagar Terminal,Old Delhi Railway Station (Fatehpuri),5458 -> 5115 -> 5569
+DTC_BUS_0015,00:30:00,1800,08:20:52,30052.0,7.85,5.65,0.5,0.71,0.98,3,Punjabi Bagh Terminal,New Delhi Railway Station Gate 2,5459 -> 5959 -> 1547
+DTC_BUS_0016,00:30:00,1800,08:29:40,30580.0,7.99,3.85,0.75,0.78,2.62,4,ISBT Kashmere Gate (Lothian Road),Uttam Nagar Terminal,5460 -> 10664 -> 5977 -> 10455
+DTC_BUS_0017,00:30:00,1800,07:52:46,28366.0,7.38,5.82,0.5,0.43,0.63,3,AIIMS,Nehru Place Terminal,5461 -> 5456 -> 10265
+DTC_BUS_0018,00:30:00,1800,08:11:58,29518.0,7.7,3.86,0.5,0.78,2.55,3,Avantika Sec 1,Dwarka Sec 22 Cluster Depot,5462 -> 5270 -> 10522
+DTC_BUS_0019,00:30:00,1800,08:00:16,28816.0,7.5,3.12,0.5,0.93,2.96,3,Ishpat Bhawan,Pandwala Kalan (T),5463 -> 1541 -> 10049
+DTC_BUS_0020,00:30:00,1800,07:31:32,27092.0,7.03,3.93,0.5,0.47,2.13,3,Rohini Sec 22 Terminal,Old Delhi Railway Station (T),5464 -> 1171 -> 5626
+DTC_BUS_0021,00:30:00,1800,07:16:44,26204.0,6.78,2.87,0.5,0.72,2.69,3,Shivaji Stadium Terminal,Safiabad Border,5465 -> 855 -> 67
+DTC_BUS_0022,00:30:00,1800,08:20:03,30003.0,7.83,4.84,0.5,0.69,1.8,3,Uttam Nagar,Kushak Nallah Depot,5911 -> 90 -> 10434
+DTC_BUS_0023,00:30:00,1800,07:56:40,28600.0,7.44,5.77,0.5,0.38,0.79,3,Uttam Nagar,Jhingola Village,5912 -> 5454 -> 1752
+DTC_BUS_0024,00:30:00,1800,07:30:45,27045.0,7.01,3.65,0.5,0.39,2.48,3,Rohini Sec 22 Terminal,Old Delhi Railway Station (Terminal),5913 -> 1970 -> 10175
+DTC_BUS_0025,00:30:00,1800,08:19:07,29947.0,7.82,6.55,0.75,0.26,0.25,4,Tikri Border Metro Station,Jhatikra Village,5914 -> 5455 -> 811 -> 5314
+DTC_BUS_0026,00:45:00,2700,08:37:27,31047.0,7.87,6.09,0.75,0.42,0.61,4,ISBT Nityanand Marg,Rajghat Depot,5915 -> 5450 -> 816 -> 1157
+DTC_BUS_0027,00:45:00,2700,07:40:20,27620.0,6.92,4.55,0.25,0.02,2.11,2,Sultanpuri Terminal,Q-Block Mangolpuri,5916 -> 281
+DTC_BUS_0028,01:55:00,6900,08:16:59,29819.0,6.37,4.89,0.75,0.53,0.19,4,Kapashera Border,Nangloi Metro Station,5910 -> 5116 -> 437 -> 10276
+DTC_BUS_0029,04:50:00,17400,12:33:29,45209.0,7.72,5.02,0.75,0.65,1.3,4,Dhansa Border (T),New Delhi Railway Station Gate 2,603 -> 10583 -> 844 -> 5595
+DTC_BUS_0030,04:59:00,17940,12:28:37,44917.0,7.49,3.37,0.75,0.55,2.83,4,Mundhela Khurd Village,Satyapuram Jharoda,1926 -> 432 -> 136 -> 10584
+DTC_BUS_0031,05:05:00,18300,12:44:14,45854.0,7.65,5.49,0.75,0.09,1.33,4,Jonti Border,B-Block Yamuna Vihar,1770 -> 10230 -> 10180 -> 10191
+DTC_BUS_0032,05:05:00,18300,12:33:27,45207.0,7.47,4.29,0.5,0.29,2.39,3,Bawana Sec 5 Cluster Depot,Nehru Vihar Terminal,2051 -> 2091 -> 10375
+DTC_BUS_0033,05:12:00,18720,12:48:27,46107.0,7.61,7.02,0.5,0.0,0.08,3,Safiabad Border,Nehru Place Terminal,1038 -> 5362 -> 5292
+DTC_BUS_0034,05:12:00,18720,13:09:23,47363.0,7.96,6.22,0.5,0.42,0.82,3,Rani Khera Depot I,Badarpur Border (T),1572 -> 401 -> 5445
+DTC_BUS_0035,05:12:00,18720,12:53:03,46383.0,7.68,5.57,1.0,0.87,0.24,5,Kair Depot,Mehrauli Terminal,10570 -> 1790 -> 1047 -> 5510 -> 1665
+DTC_BUS_0036,05:25:00,19500,12:58:17,46697.0,7.55,4.42,0.5,0.03,2.61,3,Ghoga Village,Harsh Vihar Terminal,5516 -> 10190 -> 5119
+DTC_BUS_0037,05:25:00,19500,13:20:40,48040.0,7.93,5.62,0.75,0.18,1.37,4,Tikri Khurd,Shivaji Stadium Terminal,5526 -> 5102 -> 10633 -> 5854
+DTC_BUS_0038,05:26:00,19560,12:52:36,46356.0,7.44,5.59,0.5,0.28,1.07,3,Badarpur Border (T),Ibrahimpur Village,10487 -> 5762 -> 10319
+DTC_BUS_0039,05:30:00,19800,12:23:41,44621.0,6.89,5.47,0.5,0.01,0.92,3,Sannoth Village,Ghuman Hera Depot 1,387 -> 10266 -> 10643
+DTC_BUS_0040,05:30:00,19800,12:41:05,45665.0,7.18,4.2,0.25,0.0,2.73,2,Qamruddin Nagar Terminal,Kamla Market / Ajmeri Gate,445 -> 5666
+DTC_BUS_0041,05:30:00,19800,09:39:42,34782.0,4.16,3.72,0.25,0.04,0.15,2,Lado Sarai(Firni Road),Harewali Gaon,712 -> 333
+DTC_BUS_0042,05:30:00,19800,12:00:17,43217.0,6.5,4.54,0.75,0.14,1.08,4,Bawana Sec 1 Cluster Depot,Sarojini Nagar Depot,980 -> 982 -> 5858 -> 5021
+DTC_BUS_0043,05:30:00,19800,13:09:35,47375.0,7.66,4.98,0.75,0.09,1.84,4,Ghoga Village,Mukherji Nagar Baandh,1090 -> 1336 -> 1264 -> 1379
+DTC_BUS_0044,05:30:00,19800,09:10:33,33033.0,3.68,2.65,0.5,0.31,0.22,3,Dichau Kalan Depot,Ghuman Hera Depot 1,1321 -> 971 -> 768
+DTC_BUS_0045,05:30:00,19800,11:52:43,42763.0,6.38,3.31,0.5,0.25,2.32,3,Indraprastha Depot,Kair Depot,1427 -> 10363 -> 10422
+DTC_BUS_0046,05:30:00,19800,12:58:34,46714.0,7.48,5.21,0.5,0.47,1.3,3,Anand Vihar ISBT Terminal,GTK Depot,1584 -> 478 -> 1791
+DTC_BUS_0047,05:30:00,19800,12:17:28,44248.0,6.79,4.62,0.75,0.54,0.88,4,Hari Nagar Depot,Bawana Sec 5 Cluster Depot,1796 -> 1563 -> 1434 -> 10426
+DTC_BUS_0048,05:30:00,19800,13:09:37,47377.0,7.66,6.06,0.75,0.55,0.3,4,Indraprastha Depot,Azadpur Terminal,2082 -> 10314 -> 5071 -> 5504
+DTC_BUS_0049,05:30:00,19800,12:21:08,44468.0,6.85,3.54,0.75,1.02,1.55,4,Jama Masjid,ISBT Anand Vihar Terminal,5005 -> 1908 -> 668 -> 5417
+DTC_BUS_0050,05:30:00,19800,13:21:25,48085.0,7.86,4.94,0.75,0.39,1.78,4,Nizamuddin Railway Station,Mayur Vihar Phase III (T) Paper Market,5165 -> 10621 -> 10618 -> 5715
+DTC_BUS_0051,05:30:00,19800,13:02:56,46976.0,7.55,5.77,0.75,0.24,0.8,4,Old Delhi Railway Station (T) H C Sen Marg,Raghubir Nagar F Block,5447 -> 5719 -> 5392 -> 1655
+DTC_BUS_0052,05:30:00,19800,12:58:33,46713.0,7.48,4.14,0.5,0.41,2.42,3,Badli Railway Staion,Inderlok Metro Station,5488 -> 254 -> 10210
+DTC_BUS_0053,05:30:00,19800,13:08:52,47332.0,7.65,5.78,0.5,0.13,1.24,3,Lampur Border,Old Delhi Railway Station,5543 -> 5047 -> 5555
+DTC_BUS_0054,05:30:00,19800,12:57:40,46660.0,7.46,5.69,0.75,0.2,0.82,4,Noida Sec 43 Police Chowki,Noida Sec 43 Police Chowki,5600 -> 10166 -> 2114 -> 5133
+DTC_BUS_0055,05:30:00,19800,13:26:26,48386.0,7.94,5.83,0.5,0.1,1.51,3,D Block Janak Puri (Pankha Road),Babarpur Ext / Maujpur Crossing,5739 -> 869 -> 772
+DTC_BUS_0056,05:30:00,19800,12:41:45,45705.0,7.2,4.72,0.5,0.46,1.52,3,Mangla Puri Xing,IGI Airport Terminal 2 (Air India Office),5740 -> 719 -> 10214
+DTC_BUS_0057,05:30:00,19800,11:54:40,42880.0,6.41,5.59,0.5,0.29,0.03,3,Badu Sarai Village,Dwarka Sec 22 Cluster Depot,5741 -> 10157 -> 10081
+DTC_BUS_0058,05:30:00,19800,13:22:22,48142.0,7.87,6.74,0.75,0.1,0.28,4,Singhu Border GT Road,Kendriya Terminal (Church Road),10189 -> 486 -> 10196 -> 5618
+DTC_BUS_0059,05:30:00,19800,12:35:27,45327.0,7.09,4.07,0.5,0.23,2.3,3,Wazirpur JJ Colony,Qamruddin Nagar Terminal,10199 -> 5562 -> 1687
+DTC_BUS_0060,05:30:00,19800,12:21:33,44493.0,6.86,5.16,0.75,0.42,0.54,4,Ibrahimpur Village,Badli Railway Staion,10258 -> 1516 -> 431 -> 5022
+DTC_BUS_0061,05:30:00,19800,11:47:13,42433.0,6.29,4.72,0.5,0.31,0.75,3,Old Delhi Railway Station (T) H C Sen Marg,C 9 Vasant Kunj,10259 -> 5478 -> 5256
+DTC_BUS_0062,05:30:00,19800,12:34:23,45263.0,7.07,5.03,0.75,0.61,0.68,4,Dhaula Kuan (Ring Road),BBM Cluster Depot,10260 -> 10207 -> 10372 -> 837
+DTC_BUS_0063,05:30:00,19800,12:22:02,44522.0,6.87,4.7,0.25,0.0,1.91,2,Minto Road Terminal,Mori Gate Terminal,10261 -> 5720
+DTC_BUS_0064,05:30:00,19800,12:44:41,45881.0,7.24,4.9,0.5,0.37,1.48,3,Gurugram ISBT,Anand Parvat Terminal,10262 -> 554 -> 5596
+DTC_BUS_0065,05:30:00,19800,12:49:09,46149.0,7.32,4.48,0.5,0.76,1.58,3,Old Delhi Railway Station,Rani Khera Depot 1,10263 -> 5345 -> 10492
+DTC_BUS_0066,05:30:00,19800,13:11:39,47499.0,7.69,5.61,1.0,0.27,0.81,5,New Seema Puri Depot Cluster,Bharthal Village,10264 -> 1143 -> 1895 -> 10085 -> 10333
+DTC_BUS_0067,05:30:00,19800,12:41:14,45674.0,7.19,4.87,0.75,0.54,1.03,4,Inderlok Metro Station,Badli Village,10335 -> 5619 -> 1188 -> 10212
+DTC_BUS_0068,05:30:00,19800,13:27:02,48422.0,7.95,5.62,0.5,0.02,1.81,3,Uttam Nagar Terminal,ISBT Nityanand Marg,10336 -> 1850 -> 121
+DTC_BUS_0069,05:30:00,19800,13:15:49,47749.0,7.76,4.66,1.0,0.51,1.59,5,Uttam Nagar Terminal,Nehru Place Terminal,10337 -> 10557 -> 10387 -> 10632 -> 10192
+DTC_BUS_0070,05:30:00,19800,13:29:03,48543.0,7.98,4.35,1.0,0.32,2.32,5,Nand Nagari Terminal,Bawana Sec 1 Cluster Depot,10352 -> 1262 -> 5072 -> 989 -> 834
+DTC_BUS_0071,05:30:00,19800,12:47:01,46021.0,7.28,3.85,0.5,0.85,2.08,3,Mundka Village (Metro Station),Kendriya Terminal (Church Road),10471 -> 5173 -> 155
+DTC_BUS_0072,05:30:00,19800,13:19:37,47977.0,7.83,4.5,1.0,0.3,2.03,5,ISBT Nityanand Marg,New Delhi Railway Station Gate 2,10472 -> 623 -> 2143 -> 150 -> 10079
+DTC_BUS_0073,05:30:00,19800,13:15:16,47716.0,7.75,5.88,0.75,0.71,0.41,4,Lampur Border,Harsh Vihar Terminal,10473 -> 5871 -> 1081 -> 10641
+DTC_BUS_0074,05:30:00,19800,12:57:57,46677.0,7.47,5.7,0.75,0.64,0.38,4,Central Secretariat Metro Station,JLN Stadium / Sunehri Pulla Depot,10474 -> 10277 -> 5882 -> 10517
+DTC_BUS_0075,05:32:00,19920,12:45:47,45947.0,7.23,5.45,0.75,0.07,0.96,4,Kendriya Terminal (Church Road),N D R Station G No 2,10468 -> 1020 -> 441 -> 5679
+DTC_BUS_0076,05:35:00,20100,12:46:04,45964.0,7.18,5.61,0.75,0.28,0.54,4,Uttam Nagar,Dhaula Kuan,41 -> 10217 -> 1042 -> 10028
+DTC_BUS_0077,05:35:00,20100,12:47:37,46057.0,7.21,4.68,0.75,0.28,1.5,4,Indraprastha Depot,Mori Gate Terminal,611 -> 10516 -> 5349 -> 159
+DTC_BUS_0078,05:35:00,20100,13:14:13,47653.0,7.65,3.93,0.5,1.0,2.22,3,BBM Cluster Depot,Q Block Mangol Puri Terminal,1406 -> 10668 -> 5385
+DTC_BUS_0079,05:35:00,20100,13:21:32,48092.0,7.78,5.18,0.5,0.22,1.88,3,Badarpur Border (T),IGI Airport Terminal 3,1756 -> 10318 -> 5434
+DTC_BUS_0080,05:35:00,20100,13:19:23,47963.0,7.74,5.08,0.75,0.17,1.73,4,Indraprastha Depot,ISBT Anand Vihar,1774 -> 10356 -> 5183 -> 5655
+DTC_BUS_0081,05:35:00,20100,13:06:10,47170.0,7.52,5.47,0.5,0.12,1.43,3,Ghuman Hera Depot 1,ISBT Sarai Kale Khan,1839 -> 54 -> 5587
+DTC_BUS_0082,05:35:00,20100,12:36:55,45415.0,7.03,3.92,0.5,0.1,2.51,3,Rajghat Depot,mundka metro station,1847 -> 10104 -> 5371
+DTC_BUS_0083,05:35:00,20100,12:36:01,45361.0,7.02,5.3,0.5,0.41,0.81,3,Old Delhi Railway Station (T),Badarpur Village,5059 -> 1234 -> 5172
+DTC_BUS_0084,05:35:00,20100,12:34:38,45278.0,6.99,4.71,0.5,0.35,1.43,3,Azadpur Terminal,Mayur Vihar Ph 1 Terminal,5076 -> 5827 -> 5094
+DTC_BUS_0085,05:35:00,20100,12:47:20,46040.0,7.21,4.31,0.5,0.12,2.28,3,Nehru Place,Madhu Vihar,5149 -> 8 -> 5298
+DTC_BUS_0086,05:35:00,20100,13:16:27,47787.0,7.69,5.18,0.5,0.11,1.9,3,Nehru Place Terminal,New Seema Puri Depot Cluster,5150 -> 775 -> 1512
+DTC_BUS_0087,05:35:00,20100,13:25:18,48318.0,7.84,5.78,0.75,0.42,0.89,4,Anand Parvat Terminal,Gh12 P Vihar,5184 -> 10366 -> 10195 -> 5355
+DTC_BUS_0088,05:35:00,20100,12:40:33,45633.0,7.09,5.55,0.75,0.28,0.52,4,Mehrauli Terminal,Hiran Kudna Crossing,5279 -> 10460 -> 10041 -> 10520
+DTC_BUS_0089,05:35:00,20100,12:50:21,46221.0,7.26,4.83,0.5,0.37,1.56,3,Karampura Terminal,Mehrauli Terminal,5365 -> 169 -> 5197
+DTC_BUS_0090,05:35:00,20100,12:52:14,46334.0,7.29,3.55,0.5,0.65,2.59,3,Old Delhi Railway Station (T),Hari Nagar Shaheed Pawan Sahni Chowk,5366 -> 780 -> 1085
+DTC_BUS_0091,05:35:00,20100,12:51:33,46293.0,7.28,3.83,0.5,0.1,2.84,3,Nangloi Metro Station,Ambedkar Nagar Terminal / DIPSAR,5582 -> 5564 -> 5166
+DTC_BUS_0092,05:35:00,20100,13:07:43,47263.0,7.55,4.95,0.75,0.29,1.56,4,Sabhapur Village,Mangla Puri Terminal,5583 -> 5026 -> 1136 -> 5758
+DTC_BUS_0093,05:35:00,20100,13:04:49,47089.0,7.5,4.79,0.5,0.59,1.62,3,Badarpur Border (T),Bahadur Garh,5627 -> 5361 -> 10377
+DTC_BUS_0094,05:35:00,20100,13:20:36,48036.0,7.76,5.51,0.75,0.48,1.02,4,Badarpur Border (T),Wazirpur Depot,5652 -> 321 -> 1419 -> 10494
+DTC_BUS_0095,05:35:00,20100,12:37:57,45477.0,7.05,3.57,0.5,0.46,2.52,3,Pushpa Bhawan,Janak Setu,5677 -> 2110 -> 10098
+DTC_BUS_0096,05:35:00,20100,13:29:35,48575.0,7.91,6.35,1.0,0.27,0.29,5,Sultanpuri Terminal,Bawana Sec 5 Cluster Depot,5820 -> 10622 -> 5853 -> 5053 -> 632
+DTC_BUS_0097,05:35:00,20100,12:53:00,46380.0,7.3,5.44,0.5,0.15,1.21,3,Qamruddin Nagar Terminal,Tikri Border Metro Station,10193 -> 499 -> 1251
+DTC_BUS_0098,05:35:00,20100,13:27:53,48473.0,7.88,6.19,0.75,0.35,0.59,4,Tilak Nagar,Hamidpur Village,10256 -> 796 -> 1571 -> 5056
+DTC_BUS_0099,05:35:00,20100,12:01:05,43265.0,6.43,4.79,0.5,0.23,0.92,3,Nand Nagari Terminal,Inder Puri JJ Colony,10666 -> 5080 -> 5530
+DTC_BUS_0100,05:35:00,20100,13:23:14,48194.0,7.8,4.48,0.5,0.12,2.7,3,DDA Flats Kalkaji,Singhu Border GT Road,10667 -> 10604 -> 5058
+DTC_BUS_0101,05:36:00,20160,13:09:59,47399.0,7.57,3.85,0.75,0.59,2.38,4,Safiabad Border,Palika Kendra,861 -> 10403 -> 1002 -> 5886
+DTC_BUS_0102,05:40:00,20400,13:38:37,49117.0,7.98,6.26,0.75,0.38,0.59,4,Bawana Sec 1 Cluster Depot,Dwarka Sec 22 Cluster Depot,673 -> 527 -> 5196 -> 10597
+DTC_BUS_0103,05:40:00,20400,12:55:12,46512.0,7.25,4.33,0.5,0.02,2.41,3,Okhla Extension (Abul Fazl Encalve),New Delhi Railway Station Gate 2,5624 -> 5179 -> 5646
+DTC_BUS_0104,05:44:00,20640,12:00:17,43217.0,6.27,5.03,0.5,0.2,0.54,3,Azadpur Terminal,Mundka Village Crossing,5978 -> 1944 -> 5420
+DTC_BUS_0105,05:45:00,20700,13:15:49,47749.0,7.51,4.84,0.5,0.0,2.17,3,Raghubir Nagar F Block,Tikri Border Metro Station,5162 -> 1973 -> 5370
+DTC_BUS_0106,05:45:00,20700,13:03:17,46997.0,7.3,4.87,0.5,0.4,1.54,3,Bhalaswa Crossing,Jheel Terminal,5180 -> 5070 -> 10108
+DTC_BUS_0107,05:45:00,20700,13:39:00,49140.0,7.9,6.72,0.25,0.0,0.93,2,Narela Terminal,IGI Airport Terminal 2 (Air India Office),5262 -> 5958
+DTC_BUS_0108,05:45:00,20700,12:48:04,46084.0,7.05,5.19,0.5,0.37,0.98,3,Tilak Nagar Terminal,Madangir DDA Flats,5330 -> 5756 -> 5446
+DTC_BUS_0109,05:45:00,20700,12:29:35,44975.0,6.74,5.11,0.5,0.01,1.13,3,Katewara Village,Mehrauli Terminal,5503 -> 1996 -> 367
+DTC_BUS_0110,05:45:00,20700,12:56:12,46572.0,7.19,4.82,0.5,0.28,1.59,3,Bawana Sec 5 Cluster Depot,Q Block Mangol Puri Terminal,10625 -> 2045 -> 5106
+DTC_BUS_0111,05:45:00,20700,13:20:33,48033.0,7.59,4.78,0.5,0.0,2.31,3,Mangla Puri Terminal,ISBT Anand Vihar,10626 -> 10034 -> 5656
+DTC_BUS_0112,05:47:00,20820,13:10:27,47427.0,7.39,6.56,0.5,0.17,0.16,3,Rani Khera Depot I,Badli Railway Staion,1940 -> 5879 -> 5023
+DTC_BUS_0113,05:47:00,20820,13:06:43,47203.0,7.33,6.46,0.5,0.28,0.09,3,Rani Khera Depot 1,NajafGarh Terminal,10551 -> 247 -> 1365
+DTC_BUS_0114,05:47:00,20820,12:34:59,45299.0,6.8,5.51,0.75,0.25,0.29,4,Shahstri Park DMRC Depot,Old Delhi Railway Station (Terminal),10552 -> 1776 -> 336 -> 1088
+DTC_BUS_0115,05:48:00,20880,13:08:14,47294.0,7.34,5.56,0.5,0.2,1.07,3,Rani Khera Depot I,Nehru Place Terminal,730 -> 10268 -> 5957
+DTC_BUS_0116,05:48:00,20880,13:25:02,48302.0,7.62,5.43,0.5,0.09,1.59,3,Uttam Nagar,Mayur Vihar Ph III Paper Market,5276 -> 414 -> 5156
+DTC_BUS_0117,05:48:00,20880,12:00:05,43205.0,6.2,4.98,0.5,0.44,0.28,3,Uttam Nagar,Bawana Sec 1 Cluster Depot,5277 -> 5073 -> 10450
+DTC_BUS_0118,05:48:00,20880,11:51:35,42695.0,6.06,3.46,0.75,0.0,1.84,4,Ramdev Chowk Narela Terminal,Ghoga Village,10444 -> 10457 -> 10464 -> 10657
+DTC_BUS_0119,05:48:00,20880,13:37:30,49050.0,7.83,5.83,0.5,0.1,1.4,3,Kair Village,Anand Vihar ISBT Terminal,10624 -> 10384 -> 443
+DTC_BUS_0120,05:53:00,21180,13:25:45,48345.0,7.55,6.99,0.25,0.2,0.1,2,Rani Khera Depot III,Old Delhi Railway Station (T),248 -> 5568
+DTC_BUS_0121,05:53:00,21180,13:26:27,48387.0,7.56,4.71,0.5,0.24,2.11,3,Bawana Sec 1 Cluster Depot,Uttam Nagar Terminal,665 -> 49 -> 1050
+DTC_BUS_0122,05:58:00,21480,12:24:34,44674.0,6.44,5.01,0.75,0.29,0.4,4,Bawana Sec 5 Cluster Depot,BBM Cluster Depot,421 -> 5542 -> 655 -> 1854
+DTC_BUS_0123,05:58:00,21480,13:22:59,48179.0,7.42,5.12,0.75,0.1,1.45,4,Badarpur Border (T),Hamdard Nagar / Sangam Vihar,5628 -> 10316 -> 5635 -> 5168
+DTC_BUS_0124,05:58:00,21480,12:58:14,46694.0,7.0,4.67,0.5,0.0,1.83,3,Nand Nagari Terminal,Ghuman Hera Depot 2,5905 -> 1118 -> 10574
+DTC_BUS_0125,06:00:00,21600,13:58:58,50338.0,7.98,4.59,1.25,0.25,1.9,6,Rewla Khanpur Depot,Galib Pur Village,2150 -> 235 -> 1412 -> 311 -> 1720 -> 142
+DTC_BUS_0126,06:00:00,21600,13:38:08,49088.0,7.64,6.43,0.75,0.11,0.34,4,Najafgarh Terminal,IGI Airport Terminal 2 (Air India Office),10308 -> 315 -> 840 -> 394
+DTC_BUS_0127,06:03:00,21780,13:07:50,47270.0,7.08,3.67,0.5,0.75,2.16,3,Kair Depot,Kair Village,1416 -> 219 -> 783
+DTC_BUS_0128,06:05:00,21900,13:30:31,48631.0,7.43,5.07,0.5,0.14,1.71,3,Uttam Nagar,Narela Terminal,1689 -> 5364 -> 10378
+DTC_BUS_0129,06:05:00,21900,13:01:03,46863.0,6.93,5.9,0.5,0.16,0.37,3,ISBT Kashmere Gate Terminal,Bharthal Village,5066 -> 5528 -> 1326
+DTC_BUS_0130,06:05:00,21900,12:23:18,44598.0,6.3,6.31,0.0,0.0,0.0,1,Anand Vihar ISBT Terminal,Narela Terminal,5067
+DTC_BUS_0131,06:06:00,21960,13:19:35,47975.0,7.23,4.69,0.75,0.04,1.74,4,Shivaji Stadium Terminal,Nizamuddin Railway Station,238 -> 5611 -> 5083 -> 5536
+DTC_BUS_0132,06:07:00,22020,13:03:38,47018.0,6.94,3.51,0.5,0.28,2.65,3,Uttam Nagar Terminal,ISBT Kashmere Gate,10518 -> 5240 -> 10213
+DTC_BUS_0133,06:08:00,22080,13:45:35,49535.0,7.63,3.31,0.5,0.89,2.93,3,Rewla Khanpur Depot,Sunehari Pulla Depot / Jawahar Lal Nehru Stadium Terminal,316 -> 2044 -> 1492
+DTC_BUS_0134,06:09:00,22140,13:51:07,49867.0,7.7,5.97,0.75,0.64,0.35,4,Najafgarh Terminal,Old Delhi Railway Station,78 -> 784 -> 721 -> 5522
+DTC_BUS_0135,06:09:00,22140,13:37:43,49063.0,7.48,5.61,0.5,0.13,1.24,3,Qamruddin Nagar Terminal,ISBT Anand Vihar,161 -> 5629 -> 5481
+DTC_BUS_0136,06:09:00,22140,12:37:05,45425.0,6.47,3.6,0.75,0.49,1.62,4,Najafgarh Terminal,West Enclave / Sansad Vihar (T),959 -> 2108 -> 1706 -> 5384
+DTC_BUS_0137,06:09:00,22140,13:31:03,48663.0,7.37,5.55,0.5,0.48,0.84,3,Najafgarh Terminal,ISBT Nityanand Marg,1257 -> 1265 -> 5777
+DTC_BUS_0138,06:09:00,22140,13:31:56,48716.0,7.38,4.38,0.5,0.32,2.18,3,Indraprastha Depot,Old Delhi Railway Station (T),2083 -> 5032 -> 5524
+DTC_BUS_0139,06:09:00,22140,12:55:27,46527.0,6.77,6.77,0.0,0.0,0.0,1,Sultanpuri Terminal,Safdarjung Terminal,10070
+DTC_BUS_0140,06:09:00,22140,13:31:48,48708.0,7.38,4.2,0.25,0.26,2.67,2,Lajpat Nagar Ring Road,IGI Airport Terminal 2 (Air India Office),10312 -> 10610
+DTC_BUS_0141,06:09:00,22140,13:06:25,47185.0,6.96,3.04,0.5,0.19,3.22,3,Rajghat Depot,Uttam Nagar Terminal,10656 -> 338 -> 5802
+DTC_BUS_0142,06:13:00,22380,12:31:12,45072.0,6.3,6.3,0.0,0.0,0.0,1,Uttam Nagar Terminal,Uttam Nagar Terminal,10066
+DTC_BUS_0143,06:19:00,22740,13:53:30,50010.0,7.58,5.4,1.25,0.24,0.68,6,Majlis Park DMRC Depot,Harsh Vihar Terminal,10456 -> 839 -> 1622 -> 1158 -> 2087 -> 10291
+DTC_BUS_0144,06:19:00,22740,13:00:13,46813.0,6.69,4.0,0.75,0.49,1.45,4,Kushak Nallah Depot,GTK Depot,10514 -> 10425 -> 711 -> 350
+DTC_BUS_0145,06:20:00,22800,13:33:28,48808.0,7.22,4.23,0.5,0.43,2.07,3,Neelwal Village,Okhla Extension (Abul Fazl Encalve),574 -> 2057 -> 5124
+DTC_BUS_0146,06:20:00,22800,12:45:30,45930.0,6.42,4.13,0.25,0.08,1.97,2,Ghoga Village,Hauz Khas,5511 -> 5252
+DTC_BUS_0147,06:24:00,23040,13:25:01,48301.0,7.02,5.08,0.5,0.34,1.1,3,Ambedkar Nagar Depot,Gurugram ISBT,5707 -> 1272 -> 10252
+DTC_BUS_0148,06:25:00,23100,13:10:58,47458.0,6.77,4.51,0.5,0.61,1.15,3,Madhu Vihar,Shivaji Stadium Terminal,1164 -> 1754 -> 1151
+DTC_BUS_0149,06:25:00,23100,14:22:50,51770.0,7.96,6.2,0.5,0.36,0.91,3,Nehru Place Terminal,Lampur Border,5647 -> 10412 -> 5051
+DTC_BUS_0150,06:30:00,23400,13:51:50,49910.0,7.36,5.84,0.5,0.47,0.55,3,Mubarak Pur Dabas,Jahangirpuri A-Block,5828 -> 10179 -> 5773
+DTC_BUS_0151,06:30:00,23400,13:10:39,47439.0,6.68,5.01,0.5,0.01,1.16,3,Najafgarh Terminal,Punjabi Bagh Terminal,5829 -> 10245 -> 5018
+DTC_BUS_0152,06:32:00,23520,14:03:28,50608.0,7.52,4.5,1.0,0.15,1.88,5,OKHLA DEPOT,Dichau Kalan Depot,461 -> 1176 -> 5063 -> 5406 -> 864
+DTC_BUS_0153,06:32:00,23520,13:02:01,46921.0,6.5,3.07,0.5,0.27,2.67,3,OKHLA DEPOT,Badarpur Border (T),1219 -> 5000 -> 5466
+DTC_BUS_0154,06:32:00,23520,13:44:01,49441.0,7.2,4.32,0.5,0.61,1.77,3,Ambedkar Nagar Depot,Raja Puri,10441 -> 5225 -> 5897
+DTC_BUS_0155,06:35:00,23700,12:18:54,44334.0,5.73,4.47,0.75,0.37,0.14,4,Yamuna Vihar Cluster Depot,Madhuvan Chowk,215 -> 1672 -> 10269 -> 10174
+DTC_BUS_0156,06:35:00,23700,13:04:32,47072.0,6.49,5.45,0.75,0.14,0.15,4,New Delhi Railway Station Gate 2,Uttam Nagar Terminal,420 -> 10499 -> 5213 -> 5744
+DTC_BUS_0157,06:35:00,23700,12:41:15,45675.0,6.1,4.11,0.5,0.16,1.33,3,Bawana Sec 1 Cluster Depot,Mayur Vihar Ph III Paper Market,1315 -> 473 -> 5093
+DTC_BUS_0158,06:35:00,23700,14:10:04,51004.0,7.58,5.99,0.75,0.22,0.62,4,Dhaula Kuan (Ring Road),Dichau Kalan School,5215 -> 5379 -> 10600 -> 677
+DTC_BUS_0159,06:35:00,23700,13:09:14,47354.0,6.57,4.51,0.5,0.01,1.55,3,Uttam Nagar,ARSD College / Dhaula Kuan,5757 -> 5158 -> 46
+DTC_BUS_0160,06:35:00,23700,13:39:05,49145.0,7.07,4.93,0.5,0.03,1.61,3,Raghubir Nagar F Block,Dhaula Kuan,5795 -> 5095 -> 5248
+DTC_BUS_0161,06:35:00,23700,15:49:55,56995.0,9.25,9.25,0.0,0.0,0.0,1,Sarang Pur Village,NajafGarh Terminal,5796
+DTC_BUS_0162,06:35:00,23700,14:21:05,51665.0,7.77,5.49,1.0,0.07,1.21,5,Dwarka More Metro Station (Terminal),Bawana Soap Factory,10231 -> 390 -> 5386 -> 10409 -> 10535
+DTC_BUS_0163,06:35:00,23700,12:28:55,44935.0,5.9,3.89,0.5,0.19,1.32,3,Pandwala Kalan (T),Kair Village,10232 -> 5324 -> 710
+DTC_BUS_0164,06:35:00,23700,12:46:39,45999.0,6.19,4.38,0.5,0.0,1.31,3,Jhingola Village,Shivaji Stadium Terminal,10288 -> 10311 -> 5840
+DTC_BUS_0165,06:35:00,23700,13:02:14,46934.0,6.45,5.46,0.5,0.39,0.11,3,Uttri Pitam Pura,Nangloi Metro Station,10289 -> 5415 -> 176
+DTC_BUS_0166,06:35:00,23700,14:19:53,51593.0,7.75,5.66,0.75,0.28,1.05,4,Gurugram ISBT,Uttam Nagar Terminal,10357 -> 5567 -> 258 -> 5241
+DTC_BUS_0167,06:35:00,23700,14:04:51,50691.0,7.5,4.92,0.75,0.05,1.78,4,Inderpuri A-Block,Harsh Vihar Terminal,10358 -> 5698 -> 5099 -> 560
+DTC_BUS_0168,06:35:00,23700,14:01:22,50482.0,7.44,6.02,0.75,0.02,0.66,4,West Enclave / Sansad Vihar (T),Uttam Nagar Terminal,10359 -> 1907 -> 5418 -> 1307
+DTC_BUS_0169,06:35:00,23700,14:13:26,51206.0,7.64,5.52,0.25,0.01,1.86,2,Gurugram ISBT,IGI Airport Terminal 2 (Air India Office),10360 -> 5220
+DTC_BUS_0170,06:35:00,23700,12:56:22,46582.0,6.36,5.3,0.5,0.24,0.31,3,Mori Gate Terminal,Hamdard Nagar / Sangam Vihar,10361 -> 598 -> 613
+DTC_BUS_0171,06:35:00,23700,13:03:19,46999.0,6.47,3.89,0.5,0.25,1.82,3,Vasant Kunj Enclave B Block,Rithala Village,10362 -> 10414 -> 5413
+DTC_BUS_0172,06:35:00,23700,13:01:28,46888.0,6.44,3.53,0.5,0.18,2.24,3,Q Block Mangolpuri,Tilak Nagar Terminal,10466 -> 5320 -> 5787
+DTC_BUS_0173,06:36:00,23760,13:14:59,47699.0,6.65,5.36,0.5,0.0,0.78,3,Ghuman Hera Depot 1,Kendriya Terminal (Pt. Pant Marg),741 -> 647 -> 5588
+DTC_BUS_0174,06:36:00,23760,13:44:09,49449.0,7.14,4.25,0.25,0.0,2.64,2,Bawana Sec 5 Cluster Depot,Nand Nagari Terminal,1349 -> 10280
+DTC_BUS_0175,06:39:00,23940,13:32:30,48750.0,6.89,5.96,0.5,0.02,0.41,3,Shahbad Dairy Block A,ISBT Anand Vihar,5523 -> 256 -> 10249
+DTC_BUS_0176,06:39:00,23940,14:14:26,51266.0,7.59,6.27,0.75,0.16,0.41,4,ARSD College (Dhaula Kuan),Uttam Nagar Terminal,10452 -> 1010 -> 2018 -> 5283
+DTC_BUS_0177,06:39:00,23940,13:22:48,48168.0,6.73,6.01,0.5,0.0,0.22,3,Harewali Gaon,Uttam Nagar Terminal,10453 -> 5160 -> 5743
+DTC_BUS_0178,06:40:00,24000,14:33:30,52410.0,7.89,4.78,0.5,0.59,2.02,3,ISBT Kashmere Gate Terminal,Dwarka Sec 22 Cluster Depot,217 -> 10486 -> 1185
+DTC_BUS_0179,06:40:00,24000,13:58:28,50308.0,7.31,4.79,0.25,0.0,2.27,2,Azadpur Terminal,Azadpur Terminal,5036 -> 1028
+DTC_BUS_0180,06:40:00,24000,13:50:12,49812.0,7.17,3.82,0.25,0.39,2.71,2,ISBT Kashmere Gate Terminal,Narela Terminal,5082 -> 427
+DTC_BUS_0181,06:40:00,24000,14:39:30,52770.0,7.99,6.0,0.75,0.23,1.01,4,Shikar Pur Crossing,Chauhan Patti (Terminal),5791 -> 5214 -> 5631 -> 375
+DTC_BUS_0182,06:40:00,24000,12:58:31,46711.0,6.31,5.1,0.5,0.08,0.62,3,Natthupura Terminal,Punjabi Bagh Terminal (Rohtak Road),5823 -> 10246 -> 151
+DTC_BUS_0183,06:41:00,24060,13:50:14,49814.0,7.15,4.79,0.25,0.23,1.88,2,New Delhi Railway Station Gate 2,Delhi Secretariat,893 -> 10243
+DTC_BUS_0184,06:44:00,24240,13:14:27,47667.0,6.51,4.85,0.5,0.0,1.16,3,Rohini Sec 23 (Green Hill Aptt.),Old Delhi Railway Station (T),148 -> 709 -> 1206
+DTC_BUS_0185,06:44:00,24240,13:16:59,47819.0,6.55,3.34,0.25,0.38,2.58,2,Kendriya Terminal (Pt. Pant Marg),Old Delhi Railway Station (T),5389 -> 714
+DTC_BUS_0186,06:45:00,24300,14:09:26,50966.0,7.41,4.68,0.75,0.57,1.41,4,Nizamuddin Railway Station,NHAI Building/ Dwarka Sec-10 Metro Station,960 -> 742 -> 5423 -> 10077
+DTC_BUS_0187,06:45:00,24300,14:06:18,50778.0,7.36,6.84,0.25,0.17,0.1,2,IP Power House (ITO Ring Road),Anand Vihar ISBT Terminal,1678 -> 10553
+DTC_BUS_0188,06:45:00,24300,14:24:00,51840.0,7.65,5.75,0.75,0.43,0.71,4,Azadpur Terminal,Dwarka Sec 22 Cluster Depot,5031 -> 5517 -> 638 -> 10449
+DTC_BUS_0189,06:45:00,24300,12:58:22,46702.0,6.22,3.12,0.25,0.1,2.75,2,dwarika sec-14 metro stn.,DDA Flats Kalkaji,5888 -> 5171
+DTC_BUS_0190,06:50:00,24600,12:48:03,46083.0,5.97,2.65,0.75,0.71,1.86,4,Dwarka Sec 22 Cluster Depot,Dhaula Kuan,340 -> 702 -> 581 -> 917
+DTC_BUS_0191,06:50:00,24600,13:15:49,47749.0,6.43,3.27,0.25,0.0,2.91,2,IGI Airport Terminal 2 (Air India Office),Dhaula Kuan (Ring Road),799 -> 5204
+DTC_BUS_0192,06:50:00,24600,14:20:18,51618.0,7.5,4.36,0.75,0.38,2.02,4,Bawana Sec 1 Cluster Depot,Rani Khera Depot II,1063 -> 1818 -> 1550 -> 10556
+DTC_BUS_0193,06:50:00,24600,14:24:03,51843.0,7.57,3.95,0.25,0.51,2.85,2,Rani Khera Depot 1,Old Delhi Railway Station,1288 -> 5498
+DTC_BUS_0194,06:50:00,24600,13:40:07,49207.0,6.84,5.76,0.5,0.18,0.4,3,Rewla Khanpur Depot,Nangloi Metro Station,1652 -> 10595 -> 949
+DTC_BUS_0195,06:50:00,24600,14:35:23,52523.0,7.76,5.96,0.75,0.48,0.56,4,Dichau Kalan Depot,Inderpuri (Krishi Kunj),2117 -> 274 -> 5163 -> 1859
+DTC_BUS_0196,06:50:00,24600,14:04:58,50698.0,7.25,5.56,0.5,0.48,0.71,3,Tilak Nagar Terminal,Mangla Puri Terminal,5315 -> 5691 -> 220
+DTC_BUS_0197,06:50:00,24600,14:48:47,53327.0,7.98,5.91,0.75,0.33,0.99,4,Jheel Terminal,Shivaji Stadium Terminal,5316 -> 10244 -> 5352 -> 10126
+DTC_BUS_0198,06:50:00,24600,13:30:03,48603.0,6.67,4.3,0.25,0.0,2.12,2,Anand Vihar ISBT Terminal,Badarpur Border (T),5448 -> 5736
+DTC_BUS_0199,06:50:00,24600,12:46:54,46014.0,5.95,4.46,0.5,0.27,0.72,3,Badli Railway Staion,Anand Vihar ISBT Terminal,5489 -> 472 -> 1891
+DTC_BUS_0200,06:50:00,24600,13:16:15,47775.0,6.44,3.28,0.25,0.02,2.88,2,Badarpur Border (T),Badarpur Border (T),5642 -> 5185
+DTC_BUS_0201,06:50:00,24600,13:53:44,50024.0,7.06,5.12,0.75,0.02,1.17,4,Madanpur Khadar JJ Colony,Indraprastha Cluster Depot,5654 -> 5934 -> 5931 -> 2097
+DTC_BUS_0202,06:50:00,24600,13:33:17,48797.0,6.72,5.2,0.5,0.0,1.01,3,bakkar wala flat,West Enclave / Sansad Vihar (T),5859 -> 879 -> 5019
+DTC_BUS_0203,06:50:00,24600,14:22:09,51729.0,7.54,5.72,1.25,0.03,0.53,6,Hamdard Nagar / Sangam Vihar,Dilshad Garden Depot Cluster,10379 -> 1744 -> 5558 -> 1511 -> 573 -> 1435
+DTC_BUS_0204,06:50:00,24600,14:05:57,50757.0,7.27,6.24,0.5,0.39,0.13,3,Kirbi Place,Sultanpuri Terminal,10608 -> 5729 -> 10613
+DTC_BUS_0205,06:52:00,24720,13:26:49,48409.0,6.58,3.84,0.5,0.12,2.12,3,IGI Airport Terminal 2 (Air India Office),Kair Village,5953 -> 954 -> 758
+DTC_BUS_0206,06:52:00,24720,14:19:57,51597.0,7.47,5.54,0.5,0.04,1.39,3,Bawana Depot Sec 1 Crossing,Badu sarai Village,5954 -> 10 -> 50
+DTC_BUS_0207,06:52:00,24720,13:18:32,47912.0,6.44,5.08,0.5,0.19,0.67,3,IGI Airport Terminal 2 (Air India Office),Old Delhi Railway Station (T),5955 -> 10617 -> 1639
+DTC_BUS_0208,06:54:00,24840,14:38:42,52722.0,7.75,4.22,0.5,0.12,2.9,3,Najafgarh Terminal,Q-Block Mangolpuri,25 -> 5387 -> 10536
+DTC_BUS_0209,06:54:00,24840,12:32:37,45157.0,5.64,3.78,0.25,0.0,1.62,2,Old Delhi Railway Station,Rohini Sec 16 (Maharaja Aggarsen Dharam Sthal),5033 -> 1225
+DTC_BUS_0210,06:58:00,25080,12:23:39,44619.0,5.43,4.57,0.5,0.02,0.35,3,NHAI Building/ Dwarka Sec-10 Metro Station,Mori Gate Terminal,10143 -> 5687 -> 745
+DTC_BUS_0211,06:58:00,25080,13:23:59,48239.0,6.43,4.83,0.5,0.23,0.87,3,Old Delhi Railway Station (T),Ramzan Pur Village,10623 -> 626 -> 5002
+DTC_BUS_0212,06:59:00,25140,14:47:36,53256.0,7.81,5.83,0.5,0.51,0.97,3,Rewla Khanpur Depot,DSIDC Bawana/ Dhakewala,347 -> 1313 -> 5436
+DTC_BUS_0213,07:00:00,25200,13:11:50,47510.0,6.2,3.93,0.25,0.27,1.74,2,Daulat Pur Village,Badarpur Border (T),625 -> 10092
+DTC_BUS_0214,07:00:00,25200,12:25:57,44757.0,5.43,3.19,0.25,0.0,1.99,2,Dichau Kalan School,Mayur Vihar Phase 2 (T),858 -> 5145
+DTC_BUS_0215,07:00:00,25200,13:54:42,50082.0,6.91,5.77,0.25,0.0,0.89,2,Satyapuram Jharoda,Ghoga Village,892 -> 5045
+DTC_BUS_0216,07:00:00,25200,13:09:53,47393.0,6.16,5.24,0.5,0.0,0.43,3,ISBT Kashmere Gate Terminal,Jai Mata Market Tri Nagar Terminal,5290 -> 639 -> 5012
+DTC_BUS_0217,07:00:00,25200,13:03:58,47038.0,6.07,5.42,0.5,0.05,0.1,3,Nand Nagari Terminal,Galib Pur Village,5604 -> 599 -> 1851
+DTC_BUS_0218,07:00:00,25200,13:06:12,47172.0,6.1,3.27,0.25,0.43,2.16,2,Vivek Vihar Terminal,New Delhi Railway Station Gate 2,5605 -> 5889
+DTC_BUS_0219,07:00:00,25200,14:02:53,50573.0,7.05,4.98,0.75,0.15,1.17,4,Daulatpur,Q Block Mangol Puri Terminal,10039 -> 1484 -> 1147 -> 5307
+DTC_BUS_0220,07:04:00,25440,13:02:13,46933.0,5.97,5.0,0.5,0.16,0.32,3,Najafgarh Terminal,Anand Vihar ISBT Terminal,213 -> 1179 -> 705
+DTC_BUS_0221,07:04:00,25440,12:38:10,45490.0,5.57,4.33,0.25,0.0,0.99,2,Rani Khera Depot III,Old Delhi Railway Station (T),345 -> 294
+DTC_BUS_0222,07:04:00,25440,13:18:24,47904.0,6.24,3.66,0.25,0.01,2.32,2,Anand Vihar ISBT Terminal,D Block Janak Puri,652 -> 5809
+DTC_BUS_0223,07:04:00,25440,12:32:09,45129.0,5.47,2.1,0.5,0.5,2.38,3,Madhu Vihar,Inderlok Metro Station,1401 -> 10652 -> 1602
+DTC_BUS_0224,07:04:00,25440,14:11:08,51068.0,7.12,5.15,1.0,0.25,0.72,5,Nanak Heri Village,Ghuman Hera Depot 1,1433 -> 804 -> 1580 -> 391 -> 10562
+DTC_BUS_0225,07:04:00,25440,12:44:55,45895.0,5.68,4.59,0.5,0.2,0.4,3,Anand Vihar ISBT Terminal,Tilak Nagar Crossing (Najafgarh Road),1675 -> 5964 -> 5774
+DTC_BUS_0226,07:04:00,25440,14:23:21,51801.0,7.32,4.56,0.5,0.74,1.52,3,Rohini Sec 23 (Green Hill Aptt.),Old Delhi Railway Station (Fatehpuri),1722 -> 1627 -> 5468
+DTC_BUS_0227,07:04:00,25440,13:28:06,48486.0,6.4,4.74,0.5,0.01,1.15,3,C-9 Vasant Kunj,Narela Terminal,10032 -> 5952 -> 5044
+DTC_BUS_0228,07:04:00,25440,14:48:10,53290.0,7.74,4.42,0.75,0.28,2.28,4,Mundka Village (Metro Station),BBM Cluster Depot,10116 -> 285 -> 1594 -> 10589
+DTC_BUS_0229,07:04:00,25440,13:58:15,50295.0,6.9,5.11,0.5,0.1,1.19,3,West Enclave / Sansad Vihar (T),Q-Block Mangolpuri,10391 -> 479 -> 5956
+DTC_BUS_0230,07:04:00,25440,14:17:26,51446.0,7.22,3.92,0.75,0.38,2.18,4,Rewla Khanpur Depot,Rani Khera Depot 1,10404 -> 1555 -> 1807 -> 10478
+DTC_BUS_0231,07:04:00,25440,12:23:16,44596.0,5.32,4.46,0.5,0.01,0.35,3,Kirbi Place,Mayur Vihar Phase 2 (T),10496 -> 172 -> 5128
+DTC_BUS_0232,07:10:00,25800,13:38:57,49137.0,6.48,3.6,0.25,0.62,2.02,2,Inderlok Metro Station,Sunehari Pulla Depot / Jawahar Lal Nehru Stadium Terminal,5357 -> 5863
+DTC_BUS_0233,07:15:00,26100,13:35:21,48921.0,6.34,3.34,0.25,0.13,2.62,2,Karampura Terminal,bhati mines,5818 -> 5969
+DTC_BUS_0234,07:15:00,26100,12:56:54,46614.0,5.7,3.33,0.25,0.06,2.06,2,bhati mines,Mori Gate Terminal,5987 -> 5625
+DTC_BUS_0235,07:22:00,26520,11:17:09,40629.0,3.92,3.55,0.25,0.0,0.12,2,Mangla Puri Terminal,Jonti Border,520 -> 1892
+DTC_BUS_0236,07:22:00,26520,13:33:20,48800.0,6.19,4.27,0.5,0.1,1.32,3,Rani Khera Depot III,Majra Dabas Village,1482 -> 1825 -> 5368
+DTC_BUS_0237,07:22:00,26520,14:02:39,50559.0,6.68,5.08,0.5,0.27,0.83,3,Bawana Sec 5 Cluster Depot,Ghoga Village,1758 -> 30 -> 506
+DTC_BUS_0238,07:22:00,26520,14:41:50,52910.0,7.33,4.94,0.25,0.0,2.14,2,Rani Khera Depot I,NajafGarh Terminal,2122 -> 5264
+DTC_BUS_0239,07:22:00,26520,12:43:54,45834.0,5.37,3.23,0.5,0.17,1.47,3,West Enclave / Sansad Vihar (T),Kendriya Terminal (Church Road),5851 -> 1245 -> 903
+DTC_BUS_0240,07:22:00,26520,13:30:02,48602.0,6.13,5.19,0.5,0.22,0.22,3,Badarpur Border (T),New Delhi Railway Station Gate 2,10109 -> 134 -> 2098
+DTC_BUS_0241,07:22:00,26520,14:26:36,51996.0,7.08,4.82,0.75,0.45,1.06,4,Ghoga Village,Old Delhi Railway Station,10398 -> 37 -> 5087 -> 5512
+DTC_BUS_0242,07:22:00,26520,14:30:53,52253.0,7.15,4.5,0.5,0.16,1.99,3,Nand Nagari Terminal,New Seema Puri Depot Cluster,10462 -> 5904 -> 511
+DTC_BUS_0243,07:22:00,26520,12:29:51,44991.0,5.13,3.55,0.5,0.16,0.92,3,Hari Nagar Depot,Kendriya Terminal (Church Road),10509 -> 5210 -> 5728
+DTC_BUS_0244,07:22:00,26520,13:45:40,49540.0,6.39,4.99,0.75,0.43,0.22,4,Anand Vihar ISBT Terminal,ARSD College / Dhaula Kuan,10523 -> 5169 -> 5201 -> 1725
+DTC_BUS_0245,07:22:00,26520,15:06:06,54366.0,7.74,6.11,0.75,0.13,0.75,4,Kair Village,Daulat Pur Village,10655 -> 2031 -> 10420 -> 2001
+DTC_BUS_0246,07:26:00,26760,13:18:35,47915.0,5.88,3.62,0.25,0.15,1.86,2,Inder Puri JJ Colony,New Delhi Railway Station Gate 2,10163 -> 5639
+DTC_BUS_0247,07:27:00,26820,12:36:31,45391.0,5.16,2.34,0.25,0.0,2.56,2,Dwarka Sec 22 Cluster Depot,ISBT Sarai Kale Khan,10467 -> 5637
+DTC_BUS_0248,07:30:00,27000,14:41:54,52914.0,7.2,3.77,0.75,0.19,2.49,4,Mayur Vihar Phase 2 (T),Chauhan Patti (Terminal),5250 -> 5725 -> 5122 -> 222
+DTC_BUS_0249,07:30:00,27000,13:49:43,49783.0,6.33,4.18,0.25,0.0,1.89,2,Lakhi Ram Park (Rohini Sector-22),Nanak Heri Village,5704 -> 10324
+DTC_BUS_0250,07:30:00,27000,13:22:03,48123.0,5.87,4.11,0.25,0.0,1.5,2,Mangla Puri Xing,Mehrauli Terminal,5751 -> 1824
+DTC_BUS_0251,07:30:00,27000,12:18:38,44318.0,4.81,4.35,0.25,0.02,0.19,2,Katewara Village,Anand Vihar ISBT Terminal,5755 -> 1865
+DTC_BUS_0252,07:30:00,27000,12:23:40,44620.0,4.89,3.03,0.5,0.04,1.32,3,West Enclave / Sansad Vihar (T),Kendriya Terminal (Church Road),5855 -> 5146 -> 380
+DTC_BUS_0253,07:30:00,27000,12:38:58,45538.0,5.15,2.89,0.25,0.33,1.69,2,Rohini Sec15 E2,Sheikh Sarai Phase II,5864 -> 10211
+DTC_BUS_0254,07:30:00,27000,14:45:58,53158.0,7.27,6.47,0.5,0.25,0.05,3,Mubarak Pur Crossing,Uttam Nagar Terminal,10161 -> 5088 -> 5812
+DTC_BUS_0255,07:33:00,27180,14:53:14,53594.0,7.34,5.3,0.75,0.6,0.69,4,Rani Khera Depot II,Dwarka More Metro Station (Terminal),750 -> 5709 -> 319 -> 10057
+DTC_BUS_0256,07:33:00,27180,14:17:43,51463.0,6.75,3.97,0.25,0.36,2.16,2,Shivaji Stadium Terminal,ISBT Sarai Kale Khan,756 -> 5900
+DTC_BUS_0257,07:33:00,27180,12:46:59,46019.0,5.23,3.69,0.75,0.11,0.68,4,Chauhan Patti (Terminal),Lampur Border,761 -> 1018 -> 10418 -> 10581
+DTC_BUS_0258,07:33:00,27180,12:50:38,46238.0,5.29,3.03,0.25,0.06,1.95,2,Qamruddin Nagar Terminal,Kendriya Terminal (Church Road),1003 -> 616
+DTC_BUS_0259,07:33:00,27180,14:59:55,53995.0,7.45,3.7,0.5,0.35,2.89,3,Sultanpuri Terminal,Dwarka Sec-8 Metro Station,1062 -> 5422 -> 661
+DTC_BUS_0260,07:33:00,27180,13:27:19,48439.0,5.91,2.66,0.25,0.17,2.82,2,Tikri Border Metro Station,ISBT Bridge,1853 -> 5779
+DTC_BUS_0261,07:33:00,27180,13:18:59,47939.0,5.77,3.94,0.25,0.0,1.58,2,Nangali Jalib,Nangali Jalib,5326 -> 5793
+DTC_BUS_0262,07:33:00,27180,13:58:17,50297.0,6.42,3.46,0.5,0.08,2.38,3,Safdurjung Terminal,Mori Gate Terminal,10124 -> 10141 -> 10294
+DTC_BUS_0263,07:33:00,27180,12:41:46,45706.0,5.15,4.38,0.5,0.22,0.04,3,East Patel Nagar,NajafGarh Terminal,10537 -> 5291 -> 1473
+DTC_BUS_0264,07:33:00,27180,14:09:03,50943.0,6.6,4.23,0.75,0.61,1.02,4,Lampur Border,Shivaji Stadium Terminal,10590 -> 9 -> 2127 -> 455
+DTC_BUS_0265,07:34:00,27240,15:05:53,54353.0,7.53,3.95,1.0,0.08,2.51,5,Rani Khera Depot II,Ghoga Village,29 -> 1067 -> 5432 -> 10421 -> 10393
+DTC_BUS_0266,07:34:00,27240,14:46:41,53201.0,7.21,4.59,0.5,0.0,2.12,3,Jonti Border,Ghuman Hera Depot 1,189 -> 920 -> 10526
+DTC_BUS_0267,07:34:00,27240,13:38:09,49089.0,6.07,3.39,0.25,0.37,2.05,2,Inderlok Metro Station,ISBT Kashmere Gate Terminal,812 -> 5610
+DTC_BUS_0268,07:34:00,27240,15:12:35,54755.0,7.64,4.21,0.5,0.28,2.65,3,Badarpur Border (T),R-Block Rajendra Nagar,10015 -> 5712 -> 1983
+DTC_BUS_0269,07:34:00,27240,14:05:24,50724.0,6.52,3.33,0.25,0.0,2.94,2,GGS IP University,Uttam Nagar,10016 -> 2068
+DTC_BUS_0270,07:34:00,27240,12:48:55,46135.0,5.25,3.16,0.25,0.0,1.84,2,Sultanpuri Terminal,Okhla Village,10399 -> 5221
+DTC_BUS_0271,07:34:00,27240,13:08:14,47294.0,5.57,3.96,0.5,0.0,1.11,3,Kanjhawala Village,Anand Vihar ISBT Terminal,10410 -> 10645 -> 2132
+DTC_BUS_0272,07:38:00,27480,12:26:43,44803.0,4.81,2.41,0.25,0.25,1.9,2,Sarai Kale Khan ISBT,ISBT Bridge,5444 -> 5885
+DTC_BUS_0273,07:38:00,27480,13:22:30,48150.0,5.74,2.97,0.25,0.45,2.07,2,Karampura Terminal,Rohini Sec 16 (T),10295 -> 10376
+DTC_BUS_0274,07:38:00,27480,13:53:47,50027.0,6.26,3.48,0.25,0.14,2.38,2,East Patel Nagar,Anand Vihar ISBT Main Road,10445 -> 5750
+DTC_BUS_0275,07:45:00,27900,13:28:57,48537.0,5.73,4.11,0.5,0.15,0.97,3,E Block Jahangir Puri Terminal,Lado Sarai Firni Road,156 -> 10497 -> 1466
+DTC_BUS_0276,07:45:00,27900,12:53:50,46430.0,5.15,2.46,0.25,0.0,2.43,2,Kendriya Terminal (Church Road),Mori Gate Terminal,323 -> 5508
+DTC_BUS_0277,07:45:00,27900,14:38:35,52715.0,6.89,5.05,0.75,0.18,0.91,4,Shivaji Stadium Terminal,Dichau Kalan Depot,1153 -> 5006 -> 547 -> 1700
+DTC_BUS_0278,07:45:00,27900,13:27:15,48435.0,5.7,3.12,0.25,0.18,2.15,2,Uttam Nagar,Kamla Market / Ajmeri Gate,1731 -> 5891
+DTC_BUS_0279,07:45:00,27900,14:49:38,53378.0,7.08,5.07,0.5,0.26,1.25,3,Mangla Puri Terminal,IGI Airport Terminal 2 (Air India Office),2074 -> 5754 -> 681
+DTC_BUS_0280,07:45:00,27900,13:18:29,47909.0,5.56,3.02,0.25,0.35,1.93,2,Minto Road Terminal,ISBT Kashmere Gate (Lothian Road),5157 -> 5609
+DTC_BUS_0281,07:45:00,27900,14:18:28,51508.0,6.56,2.53,0.5,0.55,2.99,3,Safdurjung Terminal,Dichau Kalan Depot,5208 -> 469 -> 1180
+DTC_BUS_0282,07:45:00,27900,15:11:54,54714.0,7.45,3.4,0.5,0.55,3.01,3,Super Bazar,Rani Khera Depot III,5209 -> 10089 -> 1329
+DTC_BUS_0283,07:45:00,27900,14:16:56,51416.0,6.53,4.16,0.5,0.01,1.86,3,Nizamuddin Railway Station,Mehrauli Terminal,5394 -> 5841 -> 1901
+DTC_BUS_0284,07:45:00,27900,15:38:25,56305.0,7.89,4.75,0.5,0.13,2.51,3,Shalimar Bagh BH Block,Anand Vihar ISBT Terminal,5531 -> 5388 -> 6001
+DTC_BUS_0285,07:45:00,27900,12:42:45,45765.0,4.96,2.25,0.25,0.02,2.43,2,Chhatarpur Extension,Anand Parvat Terminal,5689 -> 5713
+DTC_BUS_0286,07:45:00,27900,14:21:18,51678.0,6.61,5.84,0.5,0.04,0.23,3,Alipur Garhi,Old Delhi Railway Station (Terminal),5690 -> 522 -> 757
+DTC_BUS_0287,07:45:00,27900,12:42:14,45734.0,4.95,4.4,0.25,0.01,0.3,2,Qamruddin Nagar Terminal,Dwarka More Metro Station (Terminal),5699 -> 5976
+DTC_BUS_0288,07:45:00,27900,14:46:51,53211.0,7.03,4.17,0.5,0.3,2.07,3,Inderlok Metro Station,Azadpur Terminal,5974 -> 5597 -> 5482
+DTC_BUS_0289,07:45:00,27900,14:50:22,53422.0,7.09,4.35,0.25,0.37,2.12,2,Bakkargarh Village,GTB Nagar,10203 -> 5896
+DTC_BUS_0290,07:45:00,27900,13:59:51,50391.0,6.25,4.85,0.5,0.12,0.77,3,Mangla Puri Terminal,Old Delhi Railway Station,10204 -> 5182 -> 5633
+DTC_BUS_0291,07:45:00,27900,13:05:08,47108.0,5.34,3.61,0.25,0.01,1.47,2,Katewara Village,Kanjhawala Village,10205 -> 98
+DTC_BUS_0292,07:45:00,27900,15:29:06,55746.0,7.74,4.89,0.75,0.08,2.01,4,Nehru Place Terminal,New Seema Puri Depot Cluster,10206 -> 1785 -> 10669 -> 1041
+DTC_BUS_0293,07:45:00,27900,12:47:02,46022.0,5.03,2.14,0.25,0.12,2.52,2,IGI Airport Terminal 2 (Air India Office),Inderlok,10208 -> 5765
+DTC_BUS_0294,07:45:00,27900,13:37:11,49031.0,5.87,4.31,0.5,0.21,0.86,3,Shahdara Terminal,Safdarjung Terminal,10209 -> 5202 -> 5640
+DTC_BUS_0295,07:45:00,27900,15:39:54,56394.0,7.92,3.81,0.5,0.36,3.25,3,ISBT Kashmiri Gate,Badarpur Border (T),10317 -> 5435 -> 286
+DTC_BUS_0296,07:45:00,27900,14:36:51,52611.0,6.86,5.49,0.75,0.23,0.39,4,Rithala Metro Station,Azadpur Terminal,10521 -> 5875 -> 5003 -> 10500
+DTC_BUS_0297,07:46:00,27960,14:35:53,52553.0,6.83,4.37,0.25,0.69,1.52,2,Rani Khera Depot III,Old Delhi Railway Station,65 -> 5499
+DTC_BUS_0298,07:46:00,27960,13:53:11,49991.0,6.12,3.67,0.25,0.28,1.92,2,Rani Khera Depot I,Mori Gate Terminal,1521 -> 1211
+DTC_BUS_0299,07:46:00,27960,13:47:05,49625.0,6.02,4.39,0.25,0.0,1.37,2,Safdurjung Terminal,Nehru Place Terminal,5238 -> 1596
+DTC_BUS_0300,07:46:00,27960,14:01:01,50461.0,6.25,3.95,0.25,0.0,2.05,2,Safdurjung Terminal,ISBT Anand Vihar,5239 -> 5696
+DTC_BUS_0301,07:46:00,27960,12:27:06,44826.0,4.68,4.12,0.25,0.0,0.31,2,ISBT Kashmere Gate,Delhi Sachivalaya (Rajghat Power House),5970 -> 1247
+DTC_BUS_0302,07:49:00,28140,13:03:22,47002.0,5.24,4.33,0.5,0.21,0.2,3,GTK Depot,Tikri Khurd,18 -> 1109 -> 225
+DTC_BUS_0303,07:49:00,28140,13:43:14,49394.0,5.9,3.41,0.25,0.06,2.18,2,Kendriya Terminal / Gurudwara Rakab Gunj,Gazipur Depot,899 -> 5753
+DTC_BUS_0304,07:49:00,28140,14:56:36,53796.0,7.13,3.17,0.5,0.64,2.82,3,Rani Khera Depot 1,Mehrauli Terminal,1241 -> 5265 -> 295
+DTC_BUS_0305,07:49:00,28140,15:38:59,56339.0,7.83,5.27,0.5,0.0,2.06,3,CPWD Colony Vasant Vihar,RK Puram Sec-1,1917 -> 5177 -> 5697
+DTC_BUS_0306,07:49:00,28140,12:52:13,46333.0,5.05,2.5,0.25,0.02,2.28,2,Dichau Kalan Depot,Jahangirpuri E-Block,1929 -> 1226
+DTC_BUS_0307,07:49:00,28140,14:02:47,50567.0,6.23,4.67,0.75,0.28,0.54,4,Kair Village,Sayed Nangloi,10461 -> 118 -> 529 -> 5218
+DTC_BUS_0308,07:50:00,28200,13:23:25,48205.0,5.56,3.35,0.25,0.0,1.96,2,Mehrauli Terminal,Lado Sarai Crossing,229 -> 5678
+DTC_BUS_0309,07:50:00,28200,14:28:47,52127.0,6.65,5.76,0.5,0.14,0.25,3,Karawal Nagar Terminal,Old Delhi Railway Station (T),619 -> 126 -> 1448
+DTC_BUS_0310,07:50:00,28200,15:37:39,56259.0,7.79,4.1,0.5,0.41,2.78,3,Uttam Nagar,NajafGarh Terminal,817 -> 5810 -> 2036
+DTC_BUS_0311,07:50:00,28200,12:46:57,46017.0,4.95,4.56,0.25,0.0,0.13,2,Ghuman Hera Village,Karawal Nagar Terminal,1043 -> 5121
+DTC_BUS_0312,07:50:00,28200,15:04:22,54262.0,7.24,3.6,0.75,0.49,2.41,4,Anand Vihar ISBT Terminal,Dwarka Sec 22 Cluster Depot,1238 -> 5299 -> 1239 -> 1106
+DTC_BUS_0313,07:50:00,28200,13:31:46,48706.0,5.7,4.16,0.5,0.27,0.77,3,Anand Vihar ISBT Terminal,KAIR WOMEN COLLEGE,1300 -> 10417 -> 5313
+DTC_BUS_0314,07:50:00,28200,15:29:24,55764.0,7.66,4.67,0.5,0.71,1.78,3,Uttam Nagar,Bawana Sec 1 Cluster Depot,1411 -> 440 -> 326
+DTC_BUS_0315,07:50:00,28200,14:35:37,52537.0,6.76,2.74,0.5,0.0,3.51,3,Ajmeri Gate / Kamla Market,Indraprastha Cluster Depot,5199 -> 5636 -> 1357
+DTC_BUS_0316,07:50:00,28200,15:42:11,56531.0,7.87,4.82,0.5,0.08,2.47,3,Safdurjung Terminal,Q Block Mangol Puri Terminal,5200 -> 5667 -> 5234
+DTC_BUS_0317,07:50:00,28200,15:17:39,55059.0,7.46,3.9,0.75,0.47,2.35,4,Madhu Vihar,Mori Gate Terminal,5267 -> 5902 -> 10475 -> 10402
+DTC_BUS_0318,07:50:00,28200,14:19:35,51575.0,6.49,4.66,0.5,0.66,0.68,3,Jheel Terminal,D Block Janak Puri,5382 -> 10611 -> 5811
+DTC_BUS_0319,07:50:00,28200,15:32:00,55920.0,7.7,4.48,0.5,0.08,2.64,3,New Delhi Railway Station Gate 2,Mori Gate Terminal,5449 -> 10282 -> 5561
+DTC_BUS_0320,07:50:00,28200,14:29:21,52161.0,6.66,4.15,0.25,0.0,2.26,2,E Block Jahangir Puri Terminal,Qutub Garh Village (T),5470 -> 1005
+DTC_BUS_0321,07:50:00,28200,15:17:12,55032.0,7.45,4.49,0.75,0.25,1.97,4,Ambedkar Nagar Sec-4 virat Cinema,Vasant Vihar Depot,5672 -> 10250 -> 5425 -> 1532
+DTC_BUS_0322,07:50:00,28200,15:39:05,56345.0,7.82,5.83,0.5,0.01,1.48,3,Lajpat Nagar Ring Road,Hamdard Nagar / Sangam Vihar,5877 -> 10001 -> 1489
+DTC_BUS_0323,07:50:00,28200,13:14:35,47675.0,5.41,3.78,0.5,0.5,0.63,3,Anand Vihar ISBT Main Road,ISBT Kashmere Gate Terminal,5884 -> 5243 -> 5901
+DTC_BUS_0324,07:50:00,28200,13:13:26,47606.0,5.39,3.38,0.25,0.1,1.66,2,IGI Airport Terminal 2 (Air India Office),Shivaji Stadium Terminal,5968 -> 5883
+DTC_BUS_0325,07:50:00,28200,15:25:54,55554.0,7.6,4.23,1.0,0.45,1.92,5,Keshav Nagar Mukti Ashram,Ghuman Hera Depot 2,10220 -> 10538 -> 10424 -> 10594 -> 10596
+DTC_BUS_0326,07:50:00,28200,14:56:19,53779.0,7.11,2.52,0.5,0.47,3.62,3,Najafgarh Dhansa More,NajafGarh Terminal,10221 -> 795 -> 10495
+DTC_BUS_0327,07:50:00,28200,14:23:29,51809.0,6.56,3.35,0.5,0.1,2.61,3,Kendriya Terminal (Church Road),Hari Nagar Depot,10222 -> 10325 -> 287
+DTC_BUS_0328,07:50:00,28200,15:15:28,54928.0,7.42,3.67,0.5,0.31,2.95,3,DDA Flats Kalkaji,Karampura Terminal,10223 -> 5416 -> 10463
+DTC_BUS_0329,07:50:00,28200,15:14:16,54856.0,7.4,4.66,0.5,0.26,1.99,3,Tilak Nagar Terminal,Narela Terminal,10224 -> 10014 -> 5730
+DTC_BUS_0330,07:50:00,28200,14:22:34,51754.0,6.54,3.76,0.5,0.19,2.09,3,Old Delhi Railway Station (T),Ramdev Chowk Narela Terminal,10227 -> 604 -> 2026
+DTC_BUS_0331,07:50:00,28200,15:46:08,56768.0,7.94,4.72,0.5,0.32,2.4,3,Kapashera Border,Shahbad Dairy,10228 -> 2006 -> 5342
+DTC_BUS_0332,07:50:00,28200,15:46:53,56813.0,7.95,5.05,0.5,0.0,2.4,3,Babarpur Extn,Badarpur Village,10270 -> 5096 -> 5189
+DTC_BUS_0333,07:50:00,28200,14:12:34,51154.0,6.38,4.56,0.25,0.12,1.44,2,Nehru Place Terminal,Narela Terminal,10271 -> 5346
+DTC_BUS_0334,07:50:00,28200,14:08:20,50900.0,6.31,5.88,0.25,0.02,0.16,2,West Enclave Terminal,Kapashera Border,10284 -> 1214
+DTC_BUS_0335,07:50:00,28200,12:35:17,45317.0,4.75,3.16,0.25,0.0,1.34,2,Mayur Vihar Phase III (T),Nizamuddin Railway Station,10303 -> 1551
+DTC_BUS_0336,07:50:00,28200,15:40:24,56424.0,7.84,5.54,0.75,0.17,1.38,4,Red Cross Road,Tikri Border,10304 -> 5137 -> 5575 -> 5319
+DTC_BUS_0337,07:50:00,28200,13:46:16,49576.0,5.94,3.82,0.5,0.19,1.43,3,Dichau Kalan Depot,IIT Gate,10386 -> 10634 -> 5294
+DTC_BUS_0338,07:50:00,28200,14:34:40,52480.0,6.74,5.02,0.5,0.0,1.23,3,Nizamuddin Railway Station,Sultanpuri Terminal,10660 -> 10007 -> 5236
+DTC_BUS_0339,07:50:00,28200,15:44:03,56643.0,7.9,6.07,0.75,0.03,1.04,4,Uttam Nagar,Raghubir Nagar F Block,10661 -> 1110 -> 5752 -> 5334
+DTC_BUS_0340,07:50:00,28200,15:35:50,56150.0,7.76,4.78,0.25,0.29,2.44,2,Kashmere Gate Metro Station Gate 4,Old Delhi Railway Station (T),10662 -> 5903
+DTC_BUS_0341,07:55:00,28500,15:46:42,56802.0,7.86,4.41,0.75,0.23,2.47,4,ISBT Kashmere Gate Terminal,Bawana Village Narela Road,5086 -> 5899 -> 45 -> 1121
+DTC_BUS_0342,07:59:00,28740,15:20:37,55237.0,7.36,3.96,0.5,0.14,2.76,3,Dilshad Garden Depot Cluster,PS Kamla Market,512 -> 1846 -> 5819
+DTC_BUS_0343,07:59:00,28740,12:45:07,45907.0,4.77,2.31,0.25,0.0,2.2,2,Mori Gate Terminal,PS Kamla Market,1117 -> 5565
+DTC_BUS_0344,07:59:00,28740,12:52:25,46345.0,4.89,3.07,0.25,0.24,1.33,2,Uttam Nagar,Mori Gate Terminal,1933 -> 5560
+DTC_BUS_0345,07:59:00,28740,13:53:05,49985.0,5.9,4.23,0.5,0.13,1.04,3,Uttam Nagar,Kapashera Border,2149 -> 5933 -> 1795
+DTC_BUS_0346,07:59:00,28740,14:09:01,50941.0,6.17,3.41,0.5,0.16,2.11,3,ISBT Nityanand Marg,Uttam Nagar Terminal,5057 -> 5816 -> 408
+DTC_BUS_0347,07:59:00,28740,08:18:42,29922.0,0.33,0.33,0.0,0.0,0.0,1,Galib Pur Village,Ghuman Hera Depot 1,10416
+DTC_BUS_0348,08:00:00,28800,12:57:14,46634.0,4.95,3.9,0.5,0.0,0.55,3,Shahdara Terminal,Kendriya Terminal (Church Road),1232 -> 366 -> 760
+DTC_BUS_0349,08:00:00,28800,15:11:58,54718.0,7.2,3.93,0.5,0.56,2.22,3,Dwarka Sec 13-3 Xing,Mayur Vihar Phase III (T) Paper Market,5278 -> 10513 -> 10501
+DTC_BUS_0350,08:05:00,29100,13:55:01,50101.0,5.83,2.69,0.5,0.15,2.49,3,Singhu Border GT Road,Jhingola Village,10437 -> 10543 -> 1168
+DTC_BUS_0351,08:05:00,29100,15:01:38,54098.0,6.94,3.45,0.5,0.09,2.9,3,Jheel Terminal,Dichau Kalan Depot,10438 -> 5381 -> 10482
+DTC_BUS_0352,08:05:00,29100,15:50:34,57034.0,7.76,4.51,0.5,0.12,2.63,3,Shahdara Terminal,Mori Gate Terminal,10439 -> 897 -> 10170
+DTC_BUS_0353,08:07:00,29220,15:25:38,55538.0,7.31,4.89,0.5,0.09,1.83,3,Munirka Village (T),Jahangirpuri E-Block,5257 -> 5015 -> 5350
+DTC_BUS_0354,08:07:00,29220,13:36:35,48995.0,5.49,3.65,0.5,0.13,1.21,3,Shalimar Bagh Desu Colony,Noida Sec 43 Police Chowki,5549 -> 731 -> 5007
+DTC_BUS_0355,08:10:00,29400,14:23:56,51836.0,6.23,5.36,0.5,0.15,0.22,3,Kalyan Puri Terminal,West Enclave / Sansad Vihar (T),10267 -> 5195 -> 5649
+DTC_BUS_0356,08:15:00,29700,13:11:00,47460.0,4.93,3.58,0.25,0.0,1.11,2,Anand Vihar ISBT Terminal,Old Delhi Railway Station (Fatehpuri),1486 -> 5836
+DTC_BUS_0357,08:15:00,29700,14:18:54,51534.0,6.07,3.8,0.5,0.29,1.47,3,Bhajanpura,Uttam Nagar Terminal,1735 -> 5566 -> 885
+DTC_BUS_0358,08:15:00,29700,13:50:15,49815.0,5.59,5.07,0.25,0.08,0.19,2,Mundhela Khurd Village,Mayur Vihar Ph III Paper Market,1750 -> 5011
+DTC_BUS_0359,08:15:00,29700,14:08:21,50901.0,5.89,2.73,0.25,0.54,2.37,2,Bawana Sec 1 Cluster Depot,Old Delhi Railway Station (Terminal),2112 -> 5513
+DTC_BUS_0360,08:15:00,29700,15:18:44,55124.0,7.06,4.45,0.5,0.05,2.06,3,Kendriya Terminal (Church Road),Qamruddin Nagar Terminal,5084 -> 5550 -> 1469
+DTC_BUS_0361,08:15:00,29700,15:46:41,56801.0,7.53,6.53,0.25,0.28,0.47,2,Kendriya Terminal (Church Road),Mori Gate Terminal,5085 -> 5552
+DTC_BUS_0362,08:15:00,29700,12:25:13,44713.0,4.17,2.71,0.25,0.0,1.21,2,Kendriya Terminal (Church Road),Karampura Terminal,5097 -> 5574
+DTC_BUS_0363,08:15:00,29700,16:10:28,58228.0,7.92,4.89,0.5,0.21,2.33,3,ISBT Kashmere Gate Terminal,NajafGarh Terminal,5103 -> 5229 -> 10171
+DTC_BUS_0364,08:15:00,29700,15:40:35,56435.0,7.43,5.11,0.5,0.25,1.56,3,ISBT Kashmere Gate Terminal,Hari Nagar Shaheed Pawan Sahni Chowk,5142 -> 5473 -> 605
+DTC_BUS_0365,08:15:00,29700,15:08:38,54518.0,6.89,5.03,0.5,0.3,1.07,3,ISBT Kashmere Gate Terminal,Nand Nagari Terminal,5143 -> 5593 -> 10670
+DTC_BUS_0366,08:15:00,29700,15:42:31,56551.0,7.46,4.37,0.5,0.31,2.27,3,Okhla Extension (Abul Fazl Encalve),Uttam Nagar Terminal,5186 -> 5734 -> 503
+DTC_BUS_0367,08:15:00,29700,15:47:33,56853.0,7.54,3.2,0.5,0.09,3.76,3,R K Puram Sec-1,Dwarka More Metro Station (Terminal),5222 -> 312 -> 10123
+DTC_BUS_0368,08:15:00,29700,13:50:06,49806.0,5.58,4.51,0.25,0.62,0.2,2,Mehrauli Terminal,Azadpur Terminal,5223 -> 10599
+DTC_BUS_0369,08:15:00,29700,13:55:47,50147.0,5.68,5.32,0.25,0.0,0.1,2,Safdurjung Terminal,Safdurjung Terminal,5224 -> 449
+DTC_BUS_0370,08:15:00,29700,13:24:58,48298.0,5.17,2.99,0.25,0.08,1.85,2,Kendriya Terminal (Church Road),R Block Rajendra Nagar,5226 -> 5659
+DTC_BUS_0371,08:15:00,29700,14:57:57,53877.0,6.72,4.02,0.75,0.59,1.35,4,New Seema Puri,C 4 Yamuna Vihar,5227 -> 10572 -> 10541 -> 2072
+DTC_BUS_0372,08:15:00,29700,13:15:48,47748.0,5.01,4.62,0.25,0.0,0.14,2,Sarai Kale Khan ISBT,ISBT Anand Vihar,5232 -> 5577
+DTC_BUS_0373,08:15:00,29700,16:00:42,57642.0,7.76,6.44,0.5,0.05,0.77,3,Mayur Vihar Phase 2 (T),Nehru Place,5249 -> 5154 -> 5660
+DTC_BUS_0374,08:15:00,29700,15:57:05,57425.0,7.7,5.6,0.5,0.23,1.37,3,ISBT Kashmere Gate Terminal,Nizamuddin Railway Station,5273 -> 5430 -> 5769
+DTC_BUS_0375,08:15:00,29700,15:54:08,57248.0,7.65,5.23,0.5,0.46,1.47,3,Delhi Sachivalaya (Rajghat Power House),Mubarakpur Dabas,5274 -> 5766 -> 10563
+DTC_BUS_0376,08:15:00,29700,14:33:55,52435.0,6.32,2.69,0.5,0.0,3.13,3,E Block Jahangir Puri Terminal,Jama Masjid,5471 -> 5017 -> 5483
+DTC_BUS_0377,08:15:00,29700,13:33:40,48820.0,5.31,4.69,0.25,0.04,0.33,2,Mayur Vihar Phase III (T) Paper Market,Noida Sector-32 Terminal,5477 -> 5010
+DTC_BUS_0378,08:15:00,29700,13:21:14,48074.0,5.1,3.25,0.25,0.01,1.6,2,Punjabi Bagh Terminal,Ambedkar Nagar Terminal / DIPSAR,5484 -> 5188
+DTC_BUS_0379,08:15:00,29700,12:25:33,44733.0,4.18,2.94,0.25,0.0,0.98,2,West Enclave / Sansad Vihar (T),Mori Gate Terminal,5485 -> 5570
+DTC_BUS_0380,08:15:00,29700,15:58:55,57535.0,7.73,5.25,0.75,0.29,1.44,4,Jai Mata Market Tri Nagar Terminal,ISBT Kashmere Gate Terminal,5486 -> 5328 -> 955 -> 585
+DTC_BUS_0381,08:15:00,29700,14:53:13,53593.0,6.64,3.72,0.25,0.06,2.6,2,Sarojini Nagar Depot,Qutab Garh,5487 -> 5412
+DTC_BUS_0382,08:15:00,29700,15:55:52,57352.0,7.68,4.09,0.5,0.08,3.01,3,Bajit Pur Crossing,Old Delhi Railway Station,5509 -> 5105 -> 5571
+DTC_BUS_0383,08:15:00,29700,13:13:16,47596.0,4.97,3.77,0.25,0.03,0.92,2,E Block Jahangir Puri Terminal,Uttam Nagar Terminal,5547 -> 178
+DTC_BUS_0384,08:15:00,29700,13:50:25,49825.0,5.59,4.34,0.5,0.28,0.47,3,Noida Sec 43 Police Chowki,Noida Sector-32 Terminal,5601 -> 10331 -> 5147
+DTC_BUS_0385,08:15:00,29700,13:24:35,48275.0,5.16,3.99,0.25,0.0,0.92,2,Badarpur Border (T),Badarpur Border (T),5644 -> 10229
+DTC_BUS_0386,08:15:00,29700,15:06:39,54399.0,6.86,4.55,0.5,0.15,1.66,3,Jaitpur Crossing,NHAI Building/ Dwarka Sec-10 Metro Station,5645 -> 5254 -> 1216
+DTC_BUS_0387,08:15:00,29700,13:30:26,48626.0,5.26,4.28,0.5,0.21,0.27,3,Okhla Village,Badarpur Border (T),5688 -> 5724 -> 5671
+DTC_BUS_0388,08:15:00,29700,12:23:26,44606.0,4.14,1.91,0.25,0.01,1.97,2,Poorvanchal Hostel,Trilokpuri 27/31 block,5718 -> 5127
+DTC_BUS_0389,08:15:00,29700,15:45:13,56713.0,7.5,5.79,0.75,0.0,0.96,4,Katewara Village,Mubarakpur Dabas,5842 -> 10339 -> 10364 -> 10502
+DTC_BUS_0390,08:15:00,29700,13:11:59,47519.0,4.95,3.88,0.25,0.0,0.82,2,Sultanpuri Terminal,Badarpur Border (T),5843 -> 1049
+DTC_BUS_0391,08:15:00,29700,12:58:29,46709.0,4.72,3.38,0.25,0.16,0.94,2,Tikri Border Metro Station,Hamdard Nagar / Sangam Vihar,5848 -> 5212
+DTC_BUS_0392,08:15:00,29700,14:27:39,52059.0,6.21,3.69,0.5,0.0,2.02,3,Q Block Mangolpuri,Rani Khera Depot II,5861 -> 5393 -> 1952
+DTC_BUS_0393,08:15:00,29700,15:40:41,56441.0,7.43,4.83,0.5,0.22,1.88,3,Mehrauli Terminal,Safdurjung Terminal,5965 -> 5347 -> 646
+DTC_BUS_0394,08:15:00,29700,13:30:00,48600.0,5.25,4.16,0.5,0.19,0.41,3,Q-Block Mangolpuri,Okhla Extension (Abul Fazl Encalve),5995 -> 5492 -> 5159
+DTC_BUS_0395,08:15:00,29700,14:28:24,52104.0,6.22,3.56,0.25,0.64,1.78,2,Mundka Village Metro Station,Delhi Gate,10006 -> 5764
+DTC_BUS_0396,08:15:00,29700,16:03:50,57830.0,7.81,5.28,0.5,0.3,1.73,3,Sultanpuri Terminal,Nizamuddin Railway Station,10045 -> 5300 -> 5770
+DTC_BUS_0397,08:15:00,29700,12:24:14,44654.0,4.15,3.06,0.25,0.0,0.84,2,Qutub Garh Village (T),Inderpuri (Krishi Kunj),10160 -> 5016
+DTC_BUS_0398,08:15:00,29700,14:15:28,51328.0,6.01,4.09,0.25,0.02,1.64,2,Shalimar Bagh Desu Cly,Uttam Nagar Terminal,10176 -> 5433
+DTC_BUS_0399,08:15:00,29700,13:38:24,49104.0,5.39,3.09,0.25,0.11,1.94,2,ISBT Nityanand Marg,Old Delhi Railway Station (Fatehpuri),10200 -> 5525
+DTC_BUS_0400,08:15:00,29700,12:59:53,46793.0,4.75,2.15,0.25,0.47,1.88,2,R K Puram Sec-1,Uttam Nagar Terminal,10226 -> 1961
+DTC_BUS_0401,08:15:00,29700,15:57:55,57475.0,7.72,5.56,0.5,0.38,1.27,3,Shivaji Stadium Terminal,Keshav Nagar Mukti Ashram,10285 -> 5429 -> 10559
+DTC_BUS_0402,08:15:00,29700,16:12:17,58337.0,7.95,4.59,0.75,0.24,2.37,4,Poorvanchal Hostel,Sunehari Pulla Depot / Jawahar Lal Nehru Stadium Terminal,10286 -> 5144 -> 877 -> 407
+DTC_BUS_0403,08:15:00,29700,16:03:18,57798.0,7.8,5.67,0.5,0.44,1.2,3,Badarpur Border (T),Mori Gate Terminal,10365 -> 798 -> 720
+DTC_BUS_0404,08:15:00,29700,13:02:10,46930.0,4.79,3.34,0.25,0.05,1.14,2,Nehru Place Terminal,Karol Bagh Terminal,10374 -> 5852
+DTC_BUS_0405,08:15:00,29700,16:12:26,58346.0,7.96,6.63,0.5,0.39,0.44,3,Mori Gate Terminal,Old Delhi Railway Station (T),10400 -> 5052 -> 669
+DTC_BUS_0406,08:15:00,29700,15:55:00,57300.0,7.67,5.18,0.75,0.19,1.55,4,Rohini Sec 22 Terminal,Uttam Nagar Terminal,10401 -> 10631 -> 5860 -> 5732
+DTC_BUS_0407,08:15:00,29700,12:35:34,45334.0,4.34,1.63,0.25,0.03,2.43,2,ISBT Nityanand Marg,Shivaji Stadium Terminal,10530 -> 5590
+DTC_BUS_0408,08:15:00,29700,16:03:42,57822.0,7.81,5.45,0.5,0.22,1.64,3,Bhati Mines (T),Harsh Vihar Terminal,10531 -> 5658 -> 10309
+DTC_BUS_0409,08:15:00,29700,13:38:00,49080.0,5.38,2.8,0.25,0.18,2.15,2,Harsh Vihar Terminal,Mehrauli,10542 -> 5476
+DTC_BUS_0410,08:15:00,29700,13:26:57,48417.0,5.2,2.78,0.25,0.28,1.89,2,Hastsal JJ Colony,New Delhi Railway Station Gate 2,10601 -> 5890
+DTC_BUS_0411,08:15:00,29700,14:17:05,51425.0,6.03,2.34,0.25,0.57,2.88,2,Ghuman Hera Depot 1,New Delhi Railway Station Gate 2,10653 -> 5892
+DTC_BUS_0412,08:20:00,30000,14:37:30,52650.0,6.29,5.1,0.5,0.27,0.42,3,SDM Court Kanjhawala,Mori Gate Terminal,5580 -> 10173 -> 1487
+DTC_BUS_0413,08:20:00,30000,15:35:39,56139.0,7.26,6.16,0.5,0.32,0.28,3,C 4 Yamuna Vihar,Lampur Border,5581 -> 651 -> 5731
+DTC_BUS_0414,08:22:00,30120,15:50:13,57013.0,7.47,5.77,0.25,0.3,1.15,2,Anand Vihar ISBT Terminal,Jahangir Puri Crossing,160 -> 5431
+DTC_BUS_0415,08:22:00,30120,16:08:03,58083.0,7.77,5.17,0.5,0.13,1.97,3,Bawana JJ Colony,Old Delhi Railway Station (T),233 -> 10578 -> 10558
+DTC_BUS_0416,08:22:00,30120,14:34:18,52458.0,6.21,5.71,0.25,0.18,0.07,2,Old Delhi Railway Station,NajafGarh Terminal,381 -> 5263
+DTC_BUS_0417,08:22:00,30120,15:43:21,56601.0,7.36,4.58,0.5,0.14,2.14,3,Kendriya Terminal (Church Road),Old Delhi Railway Station (Terminal),525 -> 5409 -> 841
+DTC_BUS_0418,08:22:00,30120,14:57:58,53878.0,6.6,5.12,0.5,0.15,0.83,3,Inderlok Metro Station,Bawana JJ Colony,561 -> 537 -> 759
+DTC_BUS_0419,08:22:00,30120,13:10:31,47431.0,4.81,2.68,0.25,0.0,1.88,2,New Seema Puri Depot Cluster,Virat Cinema Crossing,592 -> 5261
+DTC_BUS_0420,08:22:00,30120,13:11:00,47460.0,4.82,3.28,0.25,0.0,1.29,2,Ghuman Hera Cluster Depot 1,ISBT Kashmere Gate Terminal,674 -> 733
+DTC_BUS_0421,08:22:00,30120,14:41:54,52914.0,6.33,4.75,0.5,0.2,0.88,3,Kendriya Terminal (Church Road),New Delhi Railway Station Gate 2,697 -> 687 -> 1644
+DTC_BUS_0422,08:22:00,30120,15:00:59,54059.0,6.65,4.08,0.75,0.4,1.43,4,Uttam Nagar,Bawana Village,883 -> 5020 -> 10334 -> 68
+DTC_BUS_0423,08:22:00,30120,14:32:40,52360.0,6.18,4.43,0.75,0.45,0.55,4,Anand Vihar ISBT Terminal,Rajghat Depot,896 -> 5496 -> 5553 -> 1616
+DTC_BUS_0424,08:22:00,30120,13:05:43,47143.0,4.73,3.43,0.75,0.04,0.51,4,Uttam Nagar,Badarpur Border (T),1017 -> 10025 -> 866 -> 548
+DTC_BUS_0425,08:22:00,30120,14:34:44,52484.0,6.21,4.73,0.5,0.28,0.7,3,Kanjhawala Village,Safdurjung Terminal,1070 -> 10529 -> 5986
+DTC_BUS_0426,08:22:00,30120,14:37:49,52669.0,6.26,5.26,0.5,0.15,0.35,3,Anand Vihar ISBT Terminal,JAT KHOR,1156 -> 5335 -> 5038
+DTC_BUS_0427,08:22:00,30120,15:59:44,57584.0,7.63,5.51,1.0,0.26,0.85,5,Tara Apartments Terminal,Indraprastha Cluster Depot,1347 -> 5398 -> 5191 -> 10510 -> 978
+DTC_BUS_0428,08:22:00,30120,13:40:12,49212.0,5.3,4.62,0.5,0.14,0.05,3,Badarpur Border (T),Jai Mata Market Tri Nagar Terminal,1391 -> 1670 -> 5325
+DTC_BUS_0429,08:22:00,30120,14:29:19,52159.0,6.12,4.87,0.5,0.09,0.66,3,Harsh Vihar Terminal,New Delhi Railway Station Gate 2,1658 -> 5426 -> 5960
+DTC_BUS_0430,08:22:00,30120,15:57:41,57461.0,7.59,4.45,0.5,0.33,2.32,3,Uttam Nagar Terminal,New Delhi Railway Station Gate 2,1840 -> 5414 -> 10481
+DTC_BUS_0431,08:22:00,30120,14:52:41,53561.0,6.51,4.79,0.5,0.26,0.97,3,Kendriya Terminal (Church Road),Shivaji Stadium Terminal,1931 -> 10591 -> 5927
+DTC_BUS_0432,08:22:00,30120,13:53:35,50015.0,5.53,4.53,0.5,0.26,0.23,3,Bawana Sec 5 Cluster Depot,Taj Pur Kalan,1957 -> 1607 -> 5061
+DTC_BUS_0433,08:22:00,30120,15:48:04,56884.0,7.43,6.12,0.75,0.17,0.39,4,New Delhi Railway Station Gate 2,Bharthal Village,1966 -> 5421 -> 10127 -> 207
+DTC_BUS_0434,08:22:00,30120,15:55:44,57344.0,7.56,5.29,0.5,0.01,1.76,3,Kendriya Terminal (Pt. Pant Marg),Delhi Sachivalaya (Rajghat Power House),2007 -> 645 -> 231
+DTC_BUS_0435,08:22:00,30120,13:39:51,49191.0,5.3,4.17,0.25,0.17,0.71,2,Shivaji Stadium Terminal,Old Delhi Railway Station,2059 -> 5506
+DTC_BUS_0436,08:22:00,30120,14:56:19,53779.0,6.57,4.53,0.5,0.0,1.54,3,Badarpur Border (T),NajafGarh Terminal,2095 -> 593 -> 10480
+DTC_BUS_0437,08:22:00,30120,12:30:38,45038.0,4.14,3.86,0.25,0.02,0.01,2,Qutub Garh Village (T),Jahangirpuri K Block,2142 -> 5004
+DTC_BUS_0438,08:22:00,30120,15:25:57,55557.0,7.07,5.88,0.5,0.11,0.58,3,Old Delhi Railway Station,Dilshad Garden Depot Cluster,5027 -> 10549 -> 10503
+DTC_BUS_0439,08:22:00,30120,16:15:49,58549.0,7.9,5.48,0.75,0.27,1.4,4,Old Delhi Railway Station (T),Shivaji Stadium Terminal,5028 -> 10515 -> 1922 -> 809
+DTC_BUS_0440,08:22:00,30120,13:49:50,49790.0,5.46,4.23,0.5,0.19,0.54,3,Old Delhi Railway Station (T),Ramdev Chowk Narela Terminal,5029 -> 10415 -> 369
+DTC_BUS_0441,08:22:00,30120,13:13:50,47630.0,4.86,3.65,0.25,0.01,0.96,2,Punjabi Bagh Terminal,R-Block Rajendra Nagar,5181 -> 10154
+DTC_BUS_0442,08:22:00,30120,14:50:11,53411.0,6.47,5.19,0.5,0.27,0.51,3,RK Puram Sec-1,Lakhi Ram Park (Rohini Sector-22),5230 -> 5203 -> 5237
+DTC_BUS_0443,08:22:00,30120,11:50:29,42629.0,3.47,2.76,0.25,0.14,0.32,2,Tilak Nagar Jail Road,Karampura Terminal,5318 -> 10332
+DTC_BUS_0444,08:22:00,30120,13:17:36,47856.0,4.93,3.8,0.5,0.17,0.46,3,B2 Block Ashok Vihar Ph II,Nehru Place Terminal,5529 -> 793 -> 5275
+DTC_BUS_0445,08:22:00,30120,13:21:08,48068.0,4.99,3.99,0.25,0.06,0.68,2,Mayur Vihar Phase III (T) Paper Market,Noida Sec 62 (Eletronic City),5623 -> 5135
+DTC_BUS_0446,08:22:00,30120,14:59:27,53967.0,6.62,4.88,0.5,0.16,1.08,3,Mehrauli Terminal,Tikri Border Metro Station,5686 -> 5400 -> 476
+DTC_BUS_0447,08:22:00,30120,15:58:57,57537.0,7.62,6.87,0.5,0.0,0.24,3,Nehru Place Terminal,Dwarka Sec 16C/GGS IP University,5759 -> 1475 -> 998
+DTC_BUS_0448,08:22:00,30120,13:58:38,50318.0,5.61,3.59,0.5,0.17,1.35,3,E Block Jahangir Puri Terminal,Dichau Kalan Depot,5817 -> 5317 -> 4
+DTC_BUS_0449,08:22:00,30120,15:56:30,57390.0,7.58,3.83,1.0,0.8,1.95,5,Institutional Area Vasant Kunj,Police Station Begumpur,5981 -> 10573 -> 5599 -> 10305 -> 10546
+DTC_BUS_0450,08:22:00,30120,14:41:35,52895.0,6.33,5.36,0.5,0.37,0.09,3,Najafgarh Terminal,H-3 Vikas Puri,5982 -> 1303 -> 5242
+DTC_BUS_0451,08:22:00,30120,13:07:23,47243.0,4.76,2.81,0.5,0.05,1.4,3,Nehru Place Terminal,Okhla Extension (Abul Fazl Encalve),5983 -> 10406 -> 5653
+DTC_BUS_0452,08:22:00,30120,15:52:56,57176.0,7.52,4.64,0.75,0.28,1.85,4,Tehkhand Depot DTC,Old Delhi Railway Station,10019 -> 10427 -> 290 -> 10279
+DTC_BUS_0453,08:22:00,30120,15:08:27,54507.0,6.77,4.36,0.5,0.16,1.75,3,Badarpur Border (T),Peera Garhi Depot,10024 -> 10184 -> 1534
+DTC_BUS_0454,08:22:00,30120,15:37:11,56231.0,7.25,4.24,0.5,0.17,2.34,3,Sultanpuri Terminal,Inder Puri JJ Colony,10074 -> 5598 -> 5131
+DTC_BUS_0455,08:22:00,30120,12:53:21,46401.0,4.52,2.01,0.25,0.04,2.22,2,Anand Vihar ISBT Terminal,Mayur Vihar Ph III Paper Market,10088 -> 5042
+DTC_BUS_0456,08:22:00,30120,12:56:19,46579.0,4.57,3.56,0.25,0.0,0.76,2,Rohini Sec 16 (T),New Delhi Railway Station Gate 2,10122 -> 807
+DTC_BUS_0457,08:22:00,30120,16:12:14,58334.0,7.84,6.65,0.75,0.21,0.22,4,Gurudwara Rakab Gunj,IGI Airport Terminal 2 (Air India Office),10388 -> 5255 -> 234 -> 10172
+DTC_BUS_0458,08:22:00,30120,13:38:46,49126.0,5.28,4.89,0.25,0.0,0.14,2,Harewali Border,Katevara Village,10389 -> 10155
+DTC_BUS_0459,08:22:00,30120,15:51:00,57060.0,7.48,5.52,0.5,0.21,1.25,3,NHAI Building/ Dwarka Sec-10 Metro Station,Shahbad Dairy,10394 -> 1346 -> 10063
+DTC_BUS_0460,08:22:00,30120,14:35:23,52523.0,6.22,4.93,0.75,0.14,0.39,4,Rewla Khanpur Depot,Indraprastha Cluster Depot,10419 -> 746 -> 5963 -> 1116
+DTC_BUS_0461,08:22:00,30120,12:29:01,44941.0,4.12,2.77,0.5,0.13,0.71,3,Burari Crossing,Kendriya Terminal (Church Road),10428 -> 10630 -> 5589
+DTC_BUS_0462,08:22:00,30120,16:15:45,58545.0,7.9,5.42,0.75,0.16,1.57,4,Rajghat Depot,Azadpur Terminal,10527 -> 10130 -> 5407 -> 5545
+DTC_BUS_0463,08:22:00,30120,16:18:31,58711.0,7.94,4.08,0.75,0.04,3.07,4,Bawana Sec 5 Cluster Depot,Gokul Puri,10528 -> 2093 -> 5494 -> 1256
+DTC_BUS_0464,08:22:00,30120,15:27:22,55642.0,7.09,3.74,0.5,0.28,2.57,3,Mangol Puri Y Block,Nehru Place Terminal,10533 -> 10504 -> 5702
+DTC_BUS_0465,08:22:00,30120,14:41:52,52912.0,6.33,3.08,0.5,0.19,2.56,3,Rithala Village,Hamdard Nagar / Sangam Vihar,10539 -> 5192 -> 141
+DTC_BUS_0466,08:22:00,30120,14:42:35,52955.0,6.34,2.51,0.5,0.64,2.7,3,Dichau Kalan Depot,Bawana Village Chowk,10545 -> 10548 -> 1663
+DTC_BUS_0467,08:22:00,30120,13:02:56,46976.0,4.68,2.23,0.25,0.1,2.1,2,Rani Khera Depot II,Shivaji Stadium Terminal,10619 -> 5880
+DTC_BUS_0468,08:23:00,30180,13:40:48,49248.0,5.3,3.37,0.25,0.7,0.97,2,Dhaula Kuan ARSD College,Dera Kalan Terminal,778 -> 676
+DTC_BUS_0469,08:23:00,30180,16:22:41,58961.0,7.99,6.62,0.5,0.02,0.85,3,Uttam Nagar,Anand Vihar ISBT Terminal,875 -> 1420 -> 2061
+DTC_BUS_0470,08:23:00,30180,14:43:19,52999.0,6.34,3.3,0.25,0.0,2.78,2,Dichau Kalan Depot,Delhi Sectt.,1965 -> 5768
+DTC_BUS_0471,08:23:00,30180,15:52:56,57176.0,7.5,5.19,1.0,0.23,1.07,5,A Block Dilshad Garden Bloomfield Public School,Nand Nagari Terminal,10477 -> 1327 -> 5594 -> 672 -> 693
+DTC_BUS_0472,08:24:00,30240,13:06:01,47161.0,4.7,2.42,0.25,0.28,1.75,2,New Delhi Railway Station Gate 2,Old Delhi Railway Station (Fatehpuri),377 -> 5778
+DTC_BUS_0473,08:24:00,30240,16:13:30,58410.0,7.83,4.58,0.5,0.18,2.56,3,R Block Rajendra Nagar,Kair Village,876 -> 10326 -> 2016
+DTC_BUS_0474,08:24:00,30240,14:42:35,52955.0,6.31,5.21,0.25,0.18,0.67,2,Tikri Border Metro Station,NajafGarh Terminal,927 -> 1742
+DTC_BUS_0475,08:24:00,30240,15:22:47,55367.0,6.98,5.94,0.75,0.0,0.29,4,Ekta Apartment Paschim Vihar,Uttam Nagar Terminal,1072 -> 10112 -> 2140 -> 727
+DTC_BUS_0476,08:24:00,30240,15:46:46,56806.0,7.38,4.77,0.5,0.21,1.9,3,Mayur Vihar Phase III (T) Paper Market,Kendriya Terminal (Church Road),1786 -> 10114 -> 5856
+DTC_BUS_0477,08:24:00,30240,16:16:29,58589.0,7.87,4.52,0.5,0.01,2.84,3,Swaroop Nagar GT Road,Dwarka Sec-6 Telephone Exchange,1941 -> 5228 -> 5980
+DTC_BUS_0478,08:24:00,30240,15:59:42,57582.0,7.59,4.58,0.75,0.22,2.05,4,Katewara Village,Rani Khera Depot III,1948 -> 269 -> 10508 -> 10615
+DTC_BUS_0479,08:24:00,30240,13:58:09,50289.0,5.57,4.66,0.5,0.14,0.27,3,Nehru Place Terminal,Kendriya Terminal (Church Road),1985 -> 808 -> 5693
+DTC_BUS_0480,08:24:00,30240,15:11:35,54695.0,6.79,4.65,0.5,0.27,1.37,3,Tilak Nagar Jail Road,Shivaji Stadium Terminal,5331 -> 951 -> 5821
+DTC_BUS_0481,08:24:00,30240,16:17:20,58640.0,7.89,5.75,0.75,0.21,1.18,4,Tilak Nagar Terminal,Anand Vihar ISBT Terminal,5332 -> 744 -> 12 -> 5839
+DTC_BUS_0482,08:24:00,30240,12:30:19,45019.0,4.11,3.53,0.25,0.0,0.32,2,Delhi Gate / Ambedkar Stadium Terminal,ISBT Nityanand Marg,5333 -> 5814
+DTC_BUS_0483,08:24:00,30240,15:33:32,56012.0,7.16,4.62,0.5,0.14,1.9,3,Satyapuram Jharoda,Tilak Nagar Terminal,5785 -> 1979 -> 10023
+DTC_BUS_0484,08:24:00,30240,13:40:43,49243.0,5.28,4.55,0.25,0.01,0.47,2,Qamruddin Nagar Terminal,ISBT Anand Vihar,10253 -> 5657
+DTC_BUS_0485,08:24:00,30240,15:58:48,57528.0,7.58,6.3,0.75,0.14,0.39,4,Uttam Nagar Terminal,Tikri Border Metro Station,10254 -> 5081 -> 10593 -> 284
+DTC_BUS_0486,08:24:00,30240,16:00:12,57612.0,7.6,6.81,0.5,0.02,0.28,3,Majra Dabas Village,Gurugram ISBT,10255 -> 5695 -> 5928
+DTC_BUS_0487,08:24:00,30240,15:50:14,57014.0,7.44,5.42,0.5,0.38,1.13,3,Hari Nagar Depot,Azadpur Terminal,10566 -> 10498 -> 5898
+DTC_BUS_0488,08:24:00,30240,16:02:33,57753.0,7.64,5.97,0.75,0.11,0.82,4,Ghuman Hera Cluster Depot 1,Rajghat Gandhi Darshan,10663 -> 570 -> 806 -> 5826
+DTC_BUS_0489,08:25:00,30300,16:24:28,59068.0,7.99,5.85,0.75,0.34,1.05,4,Narela Terminal,Kapashera Border,962 -> 1667 -> 1409 -> 1424
+DTC_BUS_0490,08:25:00,30300,14:58:06,53886.0,6.55,5.28,0.25,0.0,1.02,2,Kendriya Terminal (Pt. Pant Marg),Wazir Pur JJ Colony,5139 -> 5576
+DTC_BUS_0491,08:25:00,30300,14:56:06,53766.0,6.52,6.52,0.0,0.0,0.0,1,Anand Vihar ISBT Terminal,Ali Pur Garhi,5140
+DTC_BUS_0492,08:25:00,30300,16:22:13,58933.0,7.95,5.03,0.75,0.61,1.56,4,N D R Station G No 2,R K Puram Sec 2,5175 -> 5932 -> 1949 -> 5726
+DTC_BUS_0493,08:25:00,30300,15:45:46,56746.0,7.35,5.98,0.75,0.23,0.38,4,ISBT Kashmere Gate Terminal,Lajpat Nagar (Ring Road),5198 -> 5665 -> 1040 -> 5410
+DTC_BUS_0494,08:25:00,30300,15:41:32,56492.0,7.28,5.7,0.5,0.2,0.88,3,Uttam Nagar Terminal,Shivaji Stadium Terminal,5288 -> 1897 -> 47
+DTC_BUS_0495,08:25:00,30300,15:40:57,56457.0,7.27,5.09,0.5,0.0,1.68,3,Sunehari Pulla Depot / Jawahar Lal Nehru Stadium Terminal,Mundka Village (Metro Station),5289 -> 2 -> 10062
+DTC_BUS_0496,08:25:00,30300,13:24:29,48269.0,4.99,3.81,0.25,0.01,0.92,2,Bankner Village,Nehru Place Terminal,5497 -> 5176
+DTC_BUS_0497,08:25:00,30300,15:34:20,56060.0,7.16,7.16,0.0,0.0,0.0,1,Shahbad Dairy,ISBT Anand Vihar,5535
+DTC_BUS_0498,08:27:00,30420,15:29:43,55783.0,7.05,4.81,0.5,0.01,1.73,3,Kashmere Gate City Bus Terminal,Jheel Terminal,183 -> 5211 -> 5130
+DTC_BUS_0499,08:27:00,30420,15:39:14,56354.0,7.2,5.59,0.5,0.05,1.06,3,Anand Vihar ISBT Terminal,Q-Block Mangolpuri,627 -> 667 -> 584
+DTC_BUS_0500,08:27:00,30420,12:54:08,46448.0,4.45,2.13,0.25,0.09,1.98,2,Nehru Place Terminal,Mori Gate Terminal,5126 -> 5559
+DTC_BUS_0501,08:27:00,30420,14:15:13,51313.0,5.8,4.26,0.25,0.42,0.87,2,Anand Vihar ISBT Terminal,Mori Gate Terminal,5401 -> 5427
+DTC_BUS_0502,08:30:00,30600,14:13:39,51219.0,5.73,4.29,0.5,0.23,0.71,3,Delhi Sachivalaya (Rajghat Power House),Patiala House,1039 -> 10407 -> 5763
+DTC_BUS_0503,08:30:00,30600,12:44:45,45885.0,4.25,1.88,0.25,0.08,2.04,2,ISBT Kashmere Gate Terminal,Mayur Vihar Phase III (T) Paper Market,5114 -> 10183
+DTC_BUS_0504,08:30:00,30600,16:09:13,58153.0,7.65,6.03,0.75,0.73,0.14,4,Dhool Siras,Old Delhi Railway Station,10383 -> 5419 -> 1590 -> 10565
+DTC_BUS_0505,08:30:00,30600,14:29:26,52166.0,5.99,3.93,0.25,0.0,1.81,2,Badli Village,Qutub Garh Village (T),10385 -> 292
+DTC_BUS_0506,08:31:00,30660,15:21:12,55272.0,6.84,4.18,0.5,0.23,1.93,3,Ramdev Chowk Narela Terminal,Shivaji Stadium Terminal,1654 -> 139 -> 5538
+DTC_BUS_0507,08:31:00,30660,16:23:04,58984.0,7.87,4.89,0.5,0.32,2.15,3,Tikri Border,Kanjhawala Village,5786 -> 517 -> 1203
+DTC_BUS_0508,08:35:00,30900,16:26:44,59204.0,7.86,5.48,0.5,0.54,1.34,3,Shahbad Dairy,New Delhi Railway Station Gate 2,10060 -> 5343 -> 10588
+DTC_BUS_0509,08:39:00,31140,16:36:30,59790.0,7.96,3.35,0.5,0.23,3.87,3,Satyapuram Jharoda,Gokul Puri,1319 -> 5767 -> 1743
+DTC_BUS_0510,08:39:00,31140,16:36:33,59793.0,7.96,4.56,0.5,0.15,2.75,3,Dwarka More Metro Station (Terminal),Azadpur Terminal,10021 -> 5120 -> 10405
+DTC_BUS_0511,08:45:00,31500,15:27:10,55630.0,6.7,5.3,0.5,0.12,0.78,3,CPWD Colony Vasant Vihar,Shivaji Stadium Terminal,5138 -> 5372 -> 105
+DTC_BUS_0512,08:45:00,31500,14:17:14,51434.0,5.54,2.52,0.5,0.07,2.44,3,Mayur Vihar Phase 2 (T),Anand Vihar ISBT Terminal,5612 -> 5125 -> 1200
+DTC_BUS_0513,08:45:00,31500,16:36:41,59801.0,7.86,4.35,0.75,0.95,1.82,4,Aya Nagar,Q Block Mangol Puri Terminal,5674 -> 10242 -> 10598 -> 5374
+DTC_BUS_0514,08:45:00,31500,16:29:02,59342.0,7.73,5.18,0.5,0.63,1.42,3,Najafgarh Terminal,ISBT Sarai Kale Khan,5692 -> 262 -> 5850
+DTC_BUS_0515,08:45:00,31500,15:59:13,57553.0,7.24,6.0,0.5,0.48,0.26,3,IGI Airport Terminal 2 (Air India Office),Anand Vihar ISBT Main Road,5737 -> 5216 -> 5929
+DTC_BUS_0516,08:45:00,31500,16:24:50,59090.0,7.66,4.18,0.75,0.45,2.28,4,Daulat Pur Village,Pandwala Kalan (T),5797 -> 1603 -> 788 -> 10413
+DTC_BUS_0517,08:45:00,31500,13:53:40,50020.0,5.14,3.25,0.25,0.0,1.64,2,Karampura Terminal,New Seema Puri,10131 -> 5876
+DTC_BUS_0518,08:45:00,31500,16:35:54,59754.0,7.85,5.63,0.5,0.13,1.59,3,Uttam Nagar Terminal,Inder Puri JJ Colony,10177 -> 5178 -> 5480
+DTC_BUS_0519,08:45:00,31500,15:27:42,55662.0,6.71,4.97,0.5,0.18,1.06,3,SND,Old Delhi Railway Station,10178 -> 5046 -> 10433
+DTC_BUS_0520,08:45:00,31500,16:28:11,59291.0,7.72,5.73,0.75,0.89,0.35,4,Badarpur Border (T),Q-Block Mangolpuri,10181 -> 5771 -> 10525 -> 10587
+DTC_BUS_0521,08:45:00,31500,15:05:10,54310.0,6.34,4.5,0.5,0.2,1.14,3,Nanak Heri Village,Safdurjung Terminal,10182 -> 5206 -> 5675
+DTC_BUS_0522,08:46:00,31560,16:18:07,58687.0,7.54,4.73,0.5,0.15,2.16,3,Tiggi Pur Village,Sarai Kale Khan ISBT,175 -> 615 -> 5337
+DTC_BUS_0523,08:46:00,31560,16:19:25,58765.0,7.56,3.92,0.5,0.94,2.2,3,Najafgarh Terminal,Bawana Sec 5 Cluster Depot,1993 -> 10575 -> 10627
+DTC_BUS_0524,08:48:00,31680,16:18:30,58710.0,7.51,5.05,0.75,0.14,1.57,4,Uttam Nagar Terminal,Kapashera Border,1308 -> 5714 -> 1459 -> 2004
+DTC_BUS_0525,08:50:00,31800,16:33:30,59610.0,7.72,6.46,0.5,0.18,0.59,3,IGI Airport Terminal 2 (Air India Office),hasthshal jj colony,5378 -> 5831 -> 5336
+DTC_BUS_0526,08:55:00,32100,16:50:46,60646.0,7.93,4.29,0.5,0.49,2.64,3,ISBT Sarai Kale Khan,Aya Nagar Terminal,5733 -> 425 -> 5971
+DTC_BUS_0527,09:06:00,32760,16:47:13,60433.0,7.69,3.97,0.5,0.67,2.54,3,Sarai Kale Khan ISBT,Johri Pur,5170 -> 5194 -> 10169
+DTC_BUS_0528,09:06:00,32760,16:32:24,59544.0,7.44,5.2,0.5,0.23,1.51,3,Noida Sec-62 (Electronic City),H-3 Vikas Puri Terminal,5621 -> 10547 -> 5338
+DTC_BUS_0529,09:06:00,32760,15:44:05,56645.0,6.63,3.31,0.5,0.01,2.82,3,Aya Nagar Terminal,Ambedkar Nagar Sec-4 virat Cinema,5951 -> 10251 -> 5205
+DTC_BUS_0530,09:06:00,32760,16:26:11,59171.0,7.34,4.86,0.5,0.08,1.9,3,Dwarka Sec 22 Cluster Depot,ISBT Anand Vihar Terminal,10659 -> 133 -> 5479
+DTC_BUS_0531,09:55:00,35700,22:11:24,79884.0,12.27,12.27,0.0,0.0,0.0,1,Najafgarh Terminal,Sarang Pur Village,5329
+DTC_BUS_0532,10:40:00,38400,18:33:09,66789.0,7.89,7.35,0.25,0.17,0.11,2,Anand Vihar ISBT Terminal,Kendriya Terminal (Church Road),5895 -> 5620
+DTC_BUS_0533,11:40:00,42000,19:33:33,70413.0,7.89,6.9,0.25,0.33,0.41,2,Anand Vihar ISBT Terminal,New Delhi Railway Station Gate 2,5068 -> 1045
+DTC_BUS_0534,11:40:00,42000,18:01:59,64919.0,6.37,6.37,0.0,0.0,0.0,1,Anand Vihar ISBT Main Road,Anand Vihar ISBT Terminal,5428
+DTC_BUS_0535,11:40:00,42000,18:51:52,67912.0,7.2,7.2,0.0,0.0,0.0,1,Shahbad Dairy A Block,ISBT Anand Vihar,5534
+DTC_BUS_0536,11:40:00,42000,19:22:25,69745.0,7.71,6.07,0.5,0.46,0.68,3,Harsh Vihar Terminal,NajafGarh Terminal,10323 -> 5716 -> 1000
+DTC_BUS_0537,11:49:00,42540,19:45:34,71134.0,7.94,5.65,0.75,0.92,0.63,4,Gokul Puri,R K Puram Sec-1,1651 -> 10094 -> 5703 -> 5247
+DTC_BUS_0538,11:50:00,42600,19:48:25,71305.0,7.97,7.03,0.5,0.36,0.08,3,J L Nehru Stadium,Uttam Nagar Terminal,5074 -> 5540 -> 2033
+DTC_BUS_0539,11:55:00,42900,18:16:57,65817.0,6.37,3.12,0.5,0.2,2.55,3,Gokul Puri,Bajitpur Mandir,1297 -> 10436 -> 458
+DTC_BUS_0540,11:55:00,42900,18:46:33,67593.0,6.86,4.32,0.5,0.61,1.42,3,Shahdara Terminal,NajafGarh Terminal,5134 -> 5268 -> 10483
+DTC_BUS_0541,11:55:00,42900,18:51:48,67908.0,6.95,6.95,0.0,0.0,0.0,1,E Block Jahangir Puri Terminal,ISBT Anand Vihar,5136
+DTC_BUS_0542,11:55:00,42900,19:05:27,68727.0,7.17,6.28,0.5,0.1,0.3,3,Shahdara Terminal,Dahisara Border,5272 -> 5794 -> 5062
+DTC_BUS_0543,11:55:00,42900,18:28:21,66501.0,6.56,4.53,0.5,0.14,1.39,3,Harsh Vihar Terminal,Rohini Sec 23 (Green Hill Aptt.),5563 -> 5926 -> 10614
+DTC_BUS_0544,11:55:00,42900,19:43:50,71030.0,7.81,6.02,0.75,0.67,0.37,4,Harsh Vihar Terminal,Kendriya Terminal / Gurudwara Rakab Gunj,5586 -> 1144 -> 5847 -> 10247
+DTC_BUS_0545,11:55:00,42900,18:38:05,67085.0,6.72,4.73,0.75,0.48,0.76,4,Jal Vihar Terminal,Mubarak Pur Crossing,5651 -> 5129 -> 10665 -> 10198
+DTC_BUS_0546,11:55:00,42900,19:07:44,68864.0,7.21,4.98,0.5,0.66,1.07,3,Mayur Vihar Phase III (T) Paper Market,Nanak Pura Comunity Centre,5661 -> 166 -> 5260
+DTC_BUS_0547,11:55:00,42900,19:49:43,71383.0,7.91,4.39,0.5,1.1,1.92,3,Jheer Khore Temple,Anand Vihar ISBT Terminal,5668 -> 5979 -> 10395
+DTC_BUS_0548,11:55:00,42900,18:55:13,68113.0,7.0,5.4,0.5,0.61,0.49,3,dera village,Mundka Village Metro Station,5673 -> 5141 -> 5233
+DTC_BUS_0549,11:55:00,42900,19:51:09,71469.0,7.94,4.94,0.5,0.54,1.96,3,Mayapuri Depot,Babar Pur Ext Terminal,5746 -> 10115 -> 5591
+DTC_BUS_0550,11:55:00,42900,19:37:44,70664.0,7.71,6.6,0.5,0.35,0.26,3,Uttam Nagar Terminal,CGO Complex,5869 -> 5551 -> 10234
+DTC_BUS_0551,11:55:00,42900,19:07:19,68839.0,7.21,4.83,0.75,0.88,0.75,4,Delhi Sachivalaya (Rajghat Power House),Surakh Pur Village,5962 -> 379 -> 120 -> 5339
+DTC_BUS_0552,11:55:00,42900,19:51:37,71497.0,7.94,6.16,0.5,0.69,0.6,3,Hamdard Nagar / Sangam Vihar,Daulat Pur Village,10156 -> 10330 -> 985
+DTC_BUS_0553,11:55:00,42900,18:31:07,66667.0,6.6,5.32,0.75,0.2,0.33,4,ISBT Nityanand Marg,Ambedkar Nagar Terminal / DIPSAR,10274 -> 498 -> 487 -> 5167
+DTC_BUS_0554,11:55:00,42900,19:51:51,71511.0,7.95,5.94,0.75,0.98,0.28,4,Kamla Market / Ajmeri Gate,NajafGarh Terminal,10315 -> 10329 -> 251 -> 1172
+DTC_BUS_0555,11:55:00,42900,19:51:26,71486.0,7.94,4.6,0.75,0.51,2.07,4,Indraprastha Depot,Kendriya Terminal (Pt. Pant Marg),10476 -> 5613 -> 5408 -> 5844
+DTC_BUS_0556,11:55:00,42900,18:41:45,67305.0,6.78,6.25,0.25,0.17,0.11,2,Uttam Nagar,Old Delhi Railway Station (T),10493 -> 5544
+DTC_BUS_0557,11:58:00,43080,19:13:49,69229.0,7.26,5.16,0.75,0.75,0.6,4,Dhaula Kuan,Kendriya Terminal (Church Road),5670 -> 5680 -> 10310 -> 1008
+DTC_BUS_0558,12:05:00,43500,19:22:11,69731.0,7.29,5.1,0.5,0.43,1.26,3,Badarpur Border (T),Galib Pur Village,5217 -> 5681 -> 505
+DTC_BUS_0559,12:05:00,43500,19:08:04,68884.0,7.05,5.57,0.75,0.36,0.37,4,Karampura Terminal,Poorvanchal Hostel,5367 -> 5849 -> 48 -> 5253
+DTC_BUS_0560,12:05:00,43500,19:16:40,69400.0,7.19,6.24,0.5,0.09,0.36,3,Karampura Terminal,Badarpur Border (T),5375 -> 5501 -> 5161
+DTC_BUS_0561,12:05:00,43500,19:16:46,69406.0,7.2,6.23,0.5,0.38,0.08,3,Anand Vihar ISBT Terminal,Auchandi Border,5376 -> 5541 -> 416
+DTC_BUS_0562,12:05:00,43500,19:17:35,69455.0,7.21,6.0,0.5,0.25,0.46,3,Bhalswa JJ Colony,NajafGarh Terminal,10373 -> 1444 -> 612
+DTC_BUS_0563,12:09:00,43740,20:07:20,72440.0,7.97,4.43,0.5,0.49,2.55,3,Shaheed Bhagat Singh Colony Karawal Nagar,Ghoga Village,66 -> 1497 -> 10567
+DTC_BUS_0564,12:09:00,43740,20:02:40,72160.0,7.89,6.13,0.75,0.49,0.53,4,Tilak Nagar Terminal,Sultanpuri Terminal,170 -> 1837 -> 1310 -> 608
+DTC_BUS_0565,12:10:00,43800,19:45:49,71149.0,7.6,6.25,0.5,0.46,0.39,3,Inderlok Metro Station,Inderlok Metro Station,696 -> 5155 -> 5984
+DTC_BUS_0566,12:10:00,43800,18:46:24,67584.0,6.61,5.72,0.5,0.05,0.33,3,Tilak Nagar Terminal,Madhu Vihar,1564 -> 1801 -> 19
+DTC_BUS_0567,12:10:00,43800,18:59:04,68344.0,6.82,4.97,0.5,0.45,0.9,3,Badarpur Border (T),Kalyan Puri Terminal,5269 -> 1370 -> 5153
+DTC_BUS_0568,12:10:00,43800,19:19:37,69577.0,7.16,5.12,0.75,0.43,0.86,4,Nehru Vihar Terminal,Hari Nagar Shaheed Pawan Sahni Chowk,10215 -> 5867 -> 10188 -> 10607
+DTC_BUS_0569,12:10:00,43800,19:36:07,70567.0,7.44,4.78,0.75,0.39,1.51,4,Old Delhi Railway Station (T) H C Sen Marg,Shivaji Stadium Terminal,10216 -> 1707 -> 10560 -> 10327
+DTC_BUS_0570,12:10:00,43800,19:14:05,69245.0,7.07,4.83,0.5,0.75,0.99,3,Gulabi Bagh DDA Flats,Zakhira (Rohtak Road),10292 -> 1604 -> 10586
+DTC_BUS_0571,12:10:00,43800,20:09:31,72571.0,7.99,6.38,0.75,0.25,0.6,4,Munirka Village (T),Nand Nagari Terminal,10293 -> 10218 -> 10018 -> 10370
+DTC_BUS_0572,12:10:00,43800,19:36:35,70595.0,7.44,4.98,0.5,0.54,1.42,3,Mangol Puri Y Block,Rani Khera Depot III,10511 -> 5988 -> 939
+DTC_BUS_0573,12:10:00,43800,19:47:16,71236.0,7.62,5.86,0.75,0.41,0.59,4,Gokul Puri,Rithala Village,10580 -> 423 -> 5507 -> 10465
+DTC_BUS_0574,12:10:00,43800,19:37:23,70643.0,7.46,4.55,0.5,1.06,1.35,3,Majlis Park DMRC Depot,Tilak Nagar Terminal,10651 -> 5348 -> 10380
+DTC_BUS_0575,12:42:00,45720,20:12:48,72768.0,7.51,5.27,1.0,0.81,0.44,5,New Seema Puri Depot Cluster,NajafGarh Terminal,5557 -> 6 -> 10440 -> 549 -> 1250
+DTC_BUS_0576,12:50:00,46200,19:52:49,71569.0,7.05,5.5,0.5,0.62,0.43,3,Qutub Garh Village (T),Dhool Siras,5493 -> 635 -> 10299
+DTC_BUS_0577,12:50:00,46200,20:02:46,72166.0,7.21,6.22,0.5,0.2,0.29,3,Katewara Village,Doulatpur,5495 -> 5327 -> 10038
+DTC_BUS_0578,12:50:00,46200,20:39:40,74380.0,7.83,5.69,0.75,0.48,0.91,4,Nehru Place Terminal,Rani Khera Depot 1,5742 -> 1249 -> 1318 -> 580
+DTC_BUS_0579,12:56:00,46560,19:55:41,71741.0,6.99,6.48,0.25,0.0,0.26,2,New Delhi Railway Station Gate 2,Ghuman Hera Depot 1,5961 -> 324
+DTC_BUS_0580,13:02:00,46920,20:52:43,75163.0,7.85,6.99,0.5,0.23,0.12,3,Jaffar Pur Kalan,Yamuna Vihar Cluster Depot,5784 -> 5783 -> 1554
+DTC_BUS_0581,13:15:00,47700,21:06:45,76005.0,7.86,6.31,0.5,0.33,0.72,3,Katewara Village,Rani Khera Depot 1,5537 -> 210 -> 1252
+DTC_BUS_0582,13:15:00,47700,20:47:39,74859.0,7.54,6.24,0.75,0.32,0.23,4,Holambi Khurd,Badarpur Border (T),5539 -> 5373 -> 10197 -> 1789
+DTC_BUS_0583,13:36:00,48960,19:39:56,70796.0,6.07,5.24,0.25,0.55,0.02,2,Narela Terminal,New Delhi Railway Station Gate 2,362 -> 1888
+DTC_BUS_0584,13:50:00,49800,19:38:09,70689.0,5.8,4.82,0.5,0.26,0.22,3,Qutub Garh Village (T),NHAI Building/ Dwarka Sec-10 Metro Station,1356 -> 10612 -> 10343
+DTC_BUS_0585,14:10:00,51000,20:06:03,72363.0,5.93,4.75,0.5,0.62,0.07,3,Narela Terminal,Tilak Nagar Terminal,5813 -> 996 -> 5782
+DTC_BUS_0586,14:18:00,51480,21:30:34,77434.0,7.21,6.61,0.5,0.01,0.09,3,Taj Pur Kalan,Kendriya Terminal (Pt. Pant Marg),5527 -> 590 -> 10348
+DTC_BUS_0587,14:40:00,52800,20:12:46,72766.0,5.55,5.55,0.0,0.0,0.0,1,Anand Vihar ISBT Terminal,Shahbad Dairy,5069
+DTC_BUS_0588,14:45:00,53100,19:42:19,70939.0,4.96,3.97,0.25,0.38,0.36,2,Mundka Village (Metro Station),Haider Pur Village,5700 -> 5259
+DTC_BUS_0589,14:45:00,53100,20:21:09,73269.0,5.6,4.45,0.5,0.42,0.23,3,Savda Village,Old Delhi Railway Station,5845 -> 10491 -> 5908
+DTC_BUS_0590,14:45:00,53100,22:41:13,81673.0,7.94,6.98,0.25,0.69,0.02,2,Ghevra Village,Loknayak Puram,5846 -> 5761
+DTC_BUS_0591,15:00:00,54000,20:43:27,74607.0,5.72,4.99,0.25,0.34,0.14,2,Majra Dabas Village,Satyapuram Jharoda,5824 -> 571
+DTC_BUS_0592,15:33:00,55980,22:29:49,80989.0,6.95,5.42,0.75,0.13,0.64,4,New Seema Puri Depot Cluster,Hari Nagar Depot,2050 -> 819 -> 1834 -> 2147
+DTC_BUS_0593,15:40:00,56400,20:05:25,72325.0,4.42,3.94,0.25,0.03,0.2,2,Pochan Pur Village Dwarka Sec 23,Uttam Nagar Terminal,870 -> 2052
+DTC_BUS_0594,15:40:00,56400,21:47:24,78444.0,6.12,5.07,0.5,0.36,0.19,3,E Block Jahangir Puri Terminal,Hari Nagar Shaheed Pawan Sahni Chowk,5306 -> 10168 -> 10338
+DTC_BUS_0595,15:42:00,56520,22:27:56,80876.0,6.77,5.8,0.5,0.41,0.05,3,Karampura Terminal,Rohini SFS Flats,900 -> 2101 -> 5405
+DTC_BUS_0596,15:42:00,56520,22:47:34,82054.0,7.09,4.98,0.75,0.14,1.22,4,Mundka Village (Metro Station),Bhati Mines (T),10167 -> 5930 -> 1099 -> 10490
+DTC_BUS_0597,15:44:00,56640,22:43:33,81813.0,6.99,4.42,0.5,0.06,2.01,3,Shahbad Dairy,Old Delhi Railway Station,579 -> 5148 -> 5572
+DTC_BUS_0598,15:44:00,56640,21:51:20,78680.0,6.12,5.39,0.5,0.0,0.24,3,Burari Crossing,Punjabi Bagh Terminal,1407 -> 5190 -> 5648
+DTC_BUS_0599,15:44:00,56640,23:07:46,83266.0,7.4,4.97,0.75,0.24,1.43,4,Singhu School (T),Shastri Park Metro Station,1630 -> 5104 -> 5615 -> 10605
+DTC_BUS_0600,15:44:00,56640,20:20:14,73214.0,4.6,3.29,0.5,0.49,0.32,3,Kanjhawala Village,Bawana Sec 1 Cluster Depot,1699 -> 1478 -> 1490
+DTC_BUS_0601,15:44:00,56640,19:52:38,71558.0,4.14,3.6,0.25,0.01,0.29,2,Nand Nagari Terminal,Uttri Pitam Pura,5616 -> 10272
+DTC_BUS_0602,15:44:00,56640,21:56:19,78979.0,6.21,5.51,0.5,0.12,0.07,3,Dilshad Garden GT Road,ISBT Anand Vihar,5617 -> 5760 -> 10367
+DTC_BUS_0603,15:44:00,56640,23:18:25,83905.0,7.57,4.82,1.0,0.69,1.06,5,Jal Vihar Terminal,Rewla Khanpur Depot,5630 -> 1697 -> 1228 -> 831 -> 1044
+DTC_BUS_0604,15:44:00,56640,22:24:16,80656.0,6.67,5.91,0.5,0.1,0.17,3,New Delhi Railway Station Gate 2,Delhi Gate / Ambedkar Stadium Terminal,5972 -> 5403 -> 5800
+DTC_BUS_0605,15:44:00,56640,22:47:32,82052.0,7.06,5.33,0.5,0.24,0.99,3,New Delhi Railway Station Gate 2,Indraprastha Cluster Depot,10121 -> 1635 -> 1209
+DTC_BUS_0606,15:45:00,56700,23:32:45,84765.0,7.8,4.95,0.75,0.21,1.89,4,Mundela Kalan Depot,Karampura Terminal,5947 -> 10639 -> 55 -> 5351
+DTC_BUS_0607,15:45:00,56700,23:14:02,83642.0,7.48,6.22,0.5,0.01,0.75,3,Mehrauli Terminal,Dwarka More Metro Station (Terminal),5948 -> 202 -> 10036
+DTC_BUS_0608,15:45:00,56700,23:03:45,83025.0,7.31,5.28,0.5,0.8,0.73,3,Najafgarh Terminal,Badarpur Border (T),5949 -> 1140 -> 5683
+DTC_BUS_0609,15:45:00,56700,19:58:32,71912.0,4.23,3.4,0.25,0.21,0.37,2,Nehru Place Terminal,Mangla Puri Terminal,5950 -> 5302
+DTC_BUS_0610,15:50:00,57000,22:27:15,80835.0,6.62,5.36,0.75,0.13,0.38,4,Old Delhi Railway Station (T),Bawana Sec 1 Cluster Depot,5060 -> 5491 -> 5079 -> 990
+DTC_BUS_0611,15:50:00,57000,21:06:14,75974.0,5.27,4.38,0.25,0.48,0.16,2,Kendriya Terminal (Church Road),Najafgarh Terminal,5092 -> 5301
+DTC_BUS_0612,15:50:00,57000,23:13:11,83591.0,7.39,5.72,0.5,0.3,0.87,3,Rohini Sec15 E2,Ghuman Hera Depot 1,5872 -> 1946 -> 456
+DTC_BUS_0613,15:53:00,57180,22:02:04,79324.0,6.15,4.58,0.75,0.38,0.44,4,Dwarka Sec-6 Telephone Exchange,Ghuman Hera Depot 2,5293 -> 32 -> 10640 -> 10592
+DTC_BUS_0614,15:54:00,57240,23:09:12,83352.0,7.25,5.53,0.5,0.29,0.92,3,R Block Rajendra Nagar,Rithala Metro Station,10026 -> 10342 -> 10469
+DTC_BUS_0615,15:54:00,57240,22:18:09,80289.0,6.4,4.05,0.5,0.18,1.67,3,Hamdard Nagar / Sangam Vihar,Indraprastha Cluster Depot,10328 -> 5822 -> 1073
+DTC_BUS_0616,15:55:00,57300,23:11:13,83473.0,7.27,5.86,0.75,0.01,0.65,4,Dwarka More Metro Station (Terminal),Galib Pur Village,5747 -> 1877 -> 10470 -> 10582
+DTC_BUS_0617,15:55:00,57300,23:27:02,84422.0,7.53,6.6,0.5,0.0,0.43,3,Najafgarh Terminal,Azadpur Terminal,5748 -> 465 -> 5873
+DTC_BUS_0618,16:05:00,57900,23:37:38,85058.0,7.54,6.1,0.75,0.08,0.61,4,Kapashera Border,Dichau Kalan Depot,236 -> 1739 -> 1340 -> 1718
+DTC_BUS_0619,16:05:00,57900,22:43:47,81827.0,6.65,4.05,0.5,0.8,1.3,3,Chauhan Patti (Terminal),Kalyan Puri Terminal,5008 -> 5676 -> 656
+DTC_BUS_0620,16:05:00,57900,22:23:58,80638.0,6.32,5.97,0.25,0.0,0.09,2,Chauhan Patti (Terminal),Indraprastha Cluster Depot,5009 -> 211
+DTC_BUS_0621,16:08:00,58080,21:45:34,78334.0,5.63,3.98,0.5,0.0,1.14,3,Najafgarh Terminal,Mehrauli Terminal,1341 -> 717 -> 168
+DTC_BUS_0622,16:15:00,58500,21:23:23,77003.0,5.14,3.8,0.5,0.69,0.15,3,Kair Depot,Kapashera Border,1913 -> 5708 -> 1086
+DTC_BUS_0623,16:15:00,58500,22:55:03,82503.0,6.67,4.39,0.5,0.16,1.61,3,CPWD Colony Vasant Vihar,Nehru Bus Stand Goyla Dairy,5721 -> 5100 -> 1934
+DTC_BUS_0624,16:15:00,58500,23:24:58,84298.0,7.17,5.82,0.75,0.0,0.59,4,CPWD Colony Vasant Vihar,Madhu Vihar,5722 -> 5443 -> 59 -> 884
+DTC_BUS_0625,16:20:00,58800,23:32:31,84751.0,7.21,5.37,0.5,0.49,0.85,3,Kendriya Terminal (Church Road),Rani Khera Depot 1,5151 -> 1367 -> 2066
+DTC_BUS_0626,16:20:00,58800,23:51:03,85863.0,7.52,5.83,0.5,0.7,0.5,3,Azadpur Terminal,Qamruddin Nagar Terminal,10194 -> 5231 -> 1488
+DTC_BUS_0627,16:22:00,58920,22:15:32,80132.0,5.89,3.77,0.5,1.11,0.51,3,Jhatikra Village,Tilak Nagar Terminal,1159 -> 2015 -> 5798
+DTC_BUS_0628,16:25:00,59100,23:50:01,85801.0,7.42,5.29,0.75,0.31,1.07,4,ISBT Kashmere Gate Terminal,Rani Khera Depot 1,5164 -> 5235 -> 2102 -> 1160
+DTC_BUS_0629,16:30:00,59400,19:53:28,71608.0,3.39,2.96,0.25,0.0,0.17,2,Mori Gate Terminal,Uttam Nagar Terminal,5282 -> 5738
+DTC_BUS_0630,16:30:00,59400,22:26:50,80810.0,5.95,4.52,0.5,0.04,0.89,3,Raghubir Nagar F Block,Badarpur Border (T),5801 -> 5219 -> 5684
+DTC_BUS_0631,16:30:00,59400,22:19:42,80382.0,5.83,4.29,0.5,0.16,0.88,3,H-3 Vikas Puri Terminal,Lajpat Nagar,10320 -> 436 -> 10186
+DTC_BUS_0632,16:30:00,59400,19:38:39,70719.0,3.14,2.56,0.25,0.17,0.16,2,Sheikh Sarai Phase II,Dwarka Court,10321 -> 5296
+DTC_BUS_0633,16:34:00,59640,23:55:26,86126.0,7.36,5.36,0.75,0.97,0.28,4,Jhatikra Village,Lajpat Nagar Ring Road,889 -> 10635 -> 5075 -> 10290
+DTC_BUS_0634,16:40:00,60000,21:04:09,75849.0,4.4,3.6,0.5,0.03,0.27,3,Sewa Nagar Flyover,Qutub Garh Village (T),5472 -> 501 -> 1844
+DTC_BUS_0635,16:40:00,60000,23:14:26,83666.0,6.57,5.68,0.5,0.35,0.04,3,Meethapuur Chowk,Kair Depot,5935 -> 5641 -> 1314
+DTC_BUS_0636,16:40:00,60000,23:54:10,86050.0,7.24,5.4,0.75,0.49,0.59,4,Karampura Terminal,Rani Khera Depot II,5936 -> 1244 -> 10431 -> 10489
+DTC_BUS_0637,16:40:00,60000,20:27:39,73659.0,3.79,3.39,0.25,0.07,0.09,2,Bahadurgarh,Bawana JJ Colony A-Block,5937 -> 5041
+DTC_BUS_0638,16:40:00,60000,23:33:23,84803.0,6.89,5.03,0.5,0.53,0.82,3,Uttam Nagar Terminal,Mundhela Khurd Village,5938 -> 1098 -> 1657
+DTC_BUS_0639,16:40:00,60000,23:29:27,84567.0,6.82,4.93,0.25,0.01,1.64,2,N D R Station G No 2,N D R Station G No 2,5939 -> 10237
+DTC_BUS_0640,16:40:00,60000,22:20:40,80440.0,5.68,3.35,0.5,0.57,1.26,3,Badarpur Border (T),Loknayak Puram,5940 -> 489 -> 10606
+DTC_BUS_0641,16:40:00,60000,24:11:48,87108.0,7.53,5.25,0.75,0.58,0.94,4,Narela Terminal,Zakhira (Rohtak Road),5941 -> 5775 -> 1030 -> 10540
+DTC_BUS_0642,16:40:00,60000,23:09:51,83391.0,6.5,5.93,0.25,0.0,0.32,2,Bahadurgarh,NajafGarh Terminal,5942 -> 1646
+DTC_BUS_0643,16:40:00,60000,23:35:41,84941.0,6.93,5.97,0.5,0.2,0.26,3,Bahadurgarh,Shahbad Dairy,5943 -> 10219 -> 5344
+DTC_BUS_0644,16:40:00,60000,19:58:57,71937.0,3.32,3.0,0.25,0.0,0.06,2,Gurugram ISBT,Kapashera Border,5944 -> 5271
+DTC_BUS_0645,16:40:00,60000,23:17:39,83859.0,6.63,5.26,0.5,0.0,0.87,3,Gurugram ISBT,NajafGarh Terminal,5945 -> 1836 -> 10488
+DTC_BUS_0646,16:40:00,60000,22:00:24,79224.0,5.34,3.9,0.5,0.55,0.38,3,Tilak Nagar Terminal,Okhla Depot IV CWS II,5946 -> 597 -> 1575
+DTC_BUS_0647,16:40:00,60000,23:33:16,84796.0,6.89,5.09,0.75,0.34,0.71,4,Sayed Gaon Nangloi (T),Yamuna Vihar Cluster Depot,10201 -> 5039 -> 2151 -> 10569
+DTC_BUS_0648,16:40:00,60000,19:58:20,71900.0,3.31,2.85,0.25,0.0,0.2,2,NHAI Building/ Dwarka Sec-10 Metro Station,Madanpur Khadar JJ Colony,10202 -> 5187
+DTC_BUS_0649,16:45:00,60300,19:45:16,71116.0,3.0,2.51,0.25,0.11,0.13,2,Kendriya Terminal (Church Road),Ramdev Chowk Narela Terminal,5065 -> 10620
+DTC_BUS_0650,16:45:00,60300,23:27:23,84443.0,6.71,4.49,0.25,0.18,1.79,2,Sarai Kale Khan ISBT,Old Delhi Railway Station (T),5383 -> 5573
+DTC_BUS_0651,16:49:00,60540,23:24:06,84246.0,6.58,4.47,0.5,0.45,1.16,3,Dhaula Kuan ARSD College,Dwarka More Metro Station (Sewak Park),39 -> 5662 -> 5424
+DTC_BUS_0652,16:49:00,60540,23:36:05,84965.0,6.78,4.14,0.5,0.08,2.06,3,Dwarka Sec 22 Cluster Depot,Dwarka Sec-23,405 -> 5893 -> 10046
+DTC_BUS_0653,16:49:00,60540,19:43:14,70994.0,2.9,2.38,0.25,0.22,0.05,2,Safdurjung Terminal,Shakti Nagar Nangia Park,528 -> 10647
+DTC_BUS_0654,16:49:00,60540,23:55:07,86107.0,7.1,5.79,0.5,0.07,0.73,3,Bawana Sec 1 Cluster Depot,Qutub Garh Village (T),887 -> 1815 -> 474
+DTC_BUS_0655,16:49:00,60540,22:16:33,80193.0,5.46,4.36,0.5,0.46,0.14,3,Inderlok Metro Station,Safdurjung Terminal,1115 -> 5308 -> 5705
+DTC_BUS_0656,16:49:00,60540,20:23:23,73403.0,3.57,3.02,0.25,0.22,0.08,2,Nizamuddin Railway Station,Nehru Vihar Terminal,1142 -> 260
+DTC_BUS_0657,16:49:00,60540,22:58:49,82729.0,6.16,3.57,0.75,1.12,0.73,4,Bawana Sec 1 Cluster Depot,Loknayak Puram,1457 -> 10273 -> 10532 -> 10555
+DTC_BUS_0658,16:49:00,60540,23:25:35,84335.0,6.61,5.21,0.5,0.05,0.85,3,Bakauli Village (GT Road),Rani Khera Depot II,1600 -> 5101 -> 10507
+DTC_BUS_0659,16:49:00,60540,19:41:53,70913.0,2.88,2.52,0.25,0.01,0.1,2,Badli Railway Staion,Bakauli Village (GT Road),5556 -> 1832
+DTC_BUS_0660,16:49:00,60540,19:55:22,71722.0,3.11,2.61,0.25,0.17,0.08,2,Chauhan Patti (Terminal),Dwarka Sec-22/25,5584 -> 5297
+DTC_BUS_0661,16:49:00,60540,22:36:36,81396.0,5.79,4.1,0.75,0.38,0.56,4,Chauhan Patti (Terminal),Mundka Village Metro Station,5585 -> 5098 -> 296 -> 10458
+DTC_BUS_0662,16:49:00,60540,23:05:44,83144.0,6.28,5.1,0.75,0.06,0.37,4,Najafgarh Terminal,Yamuna Vihar Cluster Depot,5966 -> 5894 -> 343 -> 1418
+DTC_BUS_0663,16:49:00,60540,22:37:16,81436.0,5.8,5.08,0.5,0.01,0.22,3,Pandwala Kalan (T),Rewla Khanpur Depot,5967 -> 2046 -> 2136
+DTC_BUS_0664,16:49:00,60540,23:04:22,83062.0,6.26,5.06,0.5,0.2,0.49,3,Badarpur Border (T),Sannoth Village,5975 -> 5996 -> 684
+DTC_BUS_0665,16:49:00,60540,23:28:31,84511.0,6.66,4.94,0.5,0.11,1.1,3,Punjabi Bagh Terminal,Bawana JJ Colony A-Block,10080 -> 5907 -> 5040
+DTC_BUS_0666,16:49:00,60540,23:57:26,86246.0,7.14,4.79,0.5,0.64,1.21,3,Jonti Village,Bajitpur Village,10637 -> 10344 -> 5043
+DTC_BUS_0667,16:49:00,60540,22:58:53,82733.0,6.16,4.79,0.5,0.45,0.42,3,Jonti Village,N D R Station G No 2,10654 -> 10485 -> 5909
+DTC_BUS_0668,16:50:00,60600,21:54:10,78850.0,5.07,3.43,0.75,0.21,0.68,4,Shivaji Stadium Terminal,ISBT Nityanand Marg,5132 -> 5592 -> 10392 -> 10429
+DTC_BUS_0669,16:50:00,60600,22:10:15,79815.0,5.34,4.56,0.5,0.16,0.12,3,Karampura Terminal,Safiabad Border,5353 -> 428 -> 1674
+DTC_BUS_0670,16:50:00,60600,22:06:24,79584.0,5.27,5.27,0.0,0.0,0.0,1,Anand Vihar ISBT Terminal,E Block Jahangir Puri Terminal,5603
+DTC_BUS_0671,16:50:00,60600,22:56:29,82589.0,6.11,4.83,0.5,0.05,0.74,3,Neelwal Village,Qamruddin Nagar Terminal,10313 -> 10283 -> 1747
+DTC_BUS_0672,16:51:00,60660,23:45:18,85518.0,6.91,4.75,0.75,0.49,0.91,4,Safdurjung Terminal,Lal Kuan,1137 -> 5303 -> 341 -> 5735
+DTC_BUS_0673,16:55:00,60900,20:38:48,74328.0,3.73,3.26,0.25,0.21,0.01,2,Azadpur Terminal,Dwarka Sec-23,1066 -> 10235
+DTC_BUS_0674,16:55:00,60900,21:25:25,77125.0,4.51,3.63,0.25,0.26,0.36,2,Bawana Soap Factory,Loknayak Puram,2103 -> 1304
+DTC_BUS_0675,16:55:00,60900,23:33:24,84804.0,6.64,4.58,0.75,0.34,0.97,4,Nehru Place Terminal,NajafGarh Terminal,10187 -> 993 -> 1569 -> 10297
+DTC_BUS_0676,17:00:00,61200,19:52:17,71537.0,2.87,2.38,0.25,0.2,0.05,2,Kendriya Terminal (Church Road),Mori Gate Terminal,5152 -> 5440
+DTC_BUS_0677,17:07:00,61620,24:22:55,87775.0,7.27,5.07,0.75,0.22,1.22,4,C 4 Yamuna Vihar,Anand Parvat Terminal,1166 -> 10300 -> 5694 -> 10435
+DTC_BUS_0678,17:07:00,61620,25:00:06,90006.0,7.88,6.35,0.75,0.17,0.62,4,Hamdard Nagar / Sangam Vihar,Rani Khera Depot 1,10004 -> 5113 -> 5380 -> 72
+DTC_BUS_0679,17:07:00,61620,23:00:50,82850.0,5.9,3.99,0.5,0.23,1.18,3,Safdurjung Terminal,D Block Janak Puri,10029 -> 539 -> 5792
+DTC_BUS_0680,17:07:00,61620,22:03:38,79418.0,4.94,4.21,0.25,0.42,0.07,2,Hamdard Nagar / Sangam Vihar,Narela Terminal,10119 -> 243
+DTC_BUS_0681,17:07:00,61620,19:17:13,69433.0,2.17,2.17,0.0,0.0,0.0,1,Shahbad Mohammadpur Village,Badarpur Border (T),10396
+DTC_BUS_0682,17:15:00,62100,22:17:16,80236.0,5.04,4.45,0.25,0.12,0.22,2,Uttam Nagar Terminal,New Delhi Railway Station Gate 2,5404 -> 5991
+DTC_BUS_0683,17:16:00,62160,23:14:39,83679.0,5.98,4.9,0.75,0.0,0.32,4,Kendriya Terminal (Church Road),Shahbad Mohammad Pur Village,1713 -> 332 -> 10432 -> 10505
+DTC_BUS_0684,17:20:00,62400,24:02:06,86526.0,6.7,4.93,0.75,0.02,1.0,4,Nand Nagari Terminal,Rajghat Depot,364 -> 110 -> 5749 -> 1691
+DTC_BUS_0685,17:20:00,62400,19:31:33,70293.0,2.19,2.19,0.0,0.0,0.0,1,Azadpur Metro station,Katewara Village,5037
+DTC_BUS_0686,17:20:00,62400,24:06:54,86814.0,6.78,4.86,0.25,0.15,1.53,2,Old Delhi Railway Station,Rani Khera Depot 1,5054 -> 1841
+DTC_BUS_0687,17:20:00,62400,19:50:30,71430.0,2.51,1.99,0.25,0.11,0.16,2,Old Delhi Railway Station (T),Bawana Soap Factory,5055 -> 10411
+DTC_BUS_0688,17:20:00,62400,23:12:01,83521.0,5.87,4.56,0.5,0.6,0.21,3,Anand Vihar ISBT Terminal,A Block Dilshad Garden Bloomfield Public School,10322 -> 5706 -> 10568
+DTC_BUS_0689,17:22:00,62520,24:19:54,87594.0,6.96,5.39,0.75,0.35,0.48,4,Kanjhawala Village,Rani Khera Depot III,1429 -> 5727 -> 5369 -> 1
+DTC_BUS_0690,17:22:00,62520,20:03:02,72182.0,2.68,2.07,0.25,0.32,0.05,2,Kendriya Terminal (Church Road),Chauhan Patti (Terminal),1460 -> 5117
+DTC_BUS_0691,17:25:00,62700,23:57:43,86263.0,6.55,4.24,0.5,0.18,1.62,3,Holambi Kalan JJ Colony,Kair Depot,1261 -> 5305 -> 10442
+DTC_BUS_0692,17:25:00,62700,23:31:34,84694.0,6.11,5.25,0.5,0.1,0.26,3,Anand Vihar ISBT Terminal,Rohini Sec-16 Xing,5013 -> 5865 -> 5397
+DTC_BUS_0693,17:25:00,62700,19:28:45,70125.0,2.06,2.06,0.0,0.0,0.0,1,Inder Puri JJ Colony,Tehkhand Depot DTC,5014
+DTC_BUS_0694,17:25:00,62700,20:17:26,73046.0,2.87,2.31,0.25,0.3,0.01,2,Anand Parvat Terminal,Shalimar Village,10287 -> 5048
+DTC_BUS_0695,17:30:00,63000,24:31:16,88276.0,7.02,4.8,0.5,0.23,1.49,3,Old Delhi Railway Station,Dwarka Sec 22 Cluster Depot,5360 -> 5989 -> 1714
+DTC_BUS_0696,17:30:00,63000,22:07:18,79638.0,4.62,2.75,0.5,0.36,1.0,3,Dhaula Kuan,Yamuna Vihar Cluster Depot,5717 -> 956 -> 1386
+DTC_BUS_0697,17:33:00,63180,19:54:55,71695.0,2.37,2.37,0.0,0.0,0.0,1,Noida Sec 43 Police Chowki,Chauhan Patti (Terminal),5474
+DTC_BUS_0698,17:33:00,63180,21:47:37,78457.0,4.24,3.44,0.25,0.53,0.02,2,Anand Vihar ISBT Terminal,Tikri Border Metro Station,5475 -> 1375
+DTC_BUS_0699,17:37:00,63420,19:49:57,71397.0,2.22,2.22,0.0,0.0,0.0,1,Anand Vihar ISBT Main Road,Mangla Puri Terminal,5284
+DTC_BUS_0700,18:07:00,65220,20:04:13,72253.0,1.95,1.55,0.25,0.0,0.16,2,Shivaji Stadium Terminal,Rani Khera Depot III,10120 -> 10638
+DTC_BUS_0701,18:13:00,65580,19:46:09,71169.0,1.55,1.55,0.0,0.0,0.0,1,Ramdev Chowk / Pitori Johad,Azadpur Terminal,820
+DTC_BUS_0702,18:13:00,65580,22:49:45,82185.0,4.61,3.4,0.25,0.0,0.96,2,Bankner Village,Sultanpuri Terminal,1009 -> 1231
+DTC_BUS_0703,18:13:00,65580,22:21:03,80463.0,4.13,3.38,0.5,0.12,0.13,3,Kapashera Border,Zakhira (Rohtak Road),1092 -> 5377 -> 10447
+DTC_BUS_0704,18:13:00,65580,23:54:07,86047.0,5.69,3.97,0.25,0.05,1.41,2,Old Delhi Railway Station (T),Nangloi Bus Stand,1760 -> 5874
+DTC_BUS_0705,18:13:00,65580,23:25:43,84343.0,5.21,3.42,0.25,0.02,1.52,2,Narela Terminal,Okhla Extension (Abul Fazl Encalve),5554 -> 5437
+DTC_BUS_0706,18:13:00,65580,28:27:02,102422.0,10.23,10.23,0.0,0.0,0.0,1,Daraula Border,Nangali Jalib,5788
+DTC_BUS_0707,18:13:00,65580,23:30:27,84627.0,5.29,5.29,0.0,0.0,0.0,1,Galib Pur Village,Nangali Jalib,5789
+DTC_BUS_0708,18:13:00,65580,24:27:19,88039.0,6.24,5.74,0.25,0.12,0.13,2,Sarangpur,Karampura Terminal,5790 -> 5807
+DTC_BUS_0709,18:13:00,65580,19:49:51,71391.0,1.61,1.61,0.0,0.0,0.0,1,New Delhi Railway Station Gate 2,NHAI Building/ Dwarka Sec-10 Metro Station,5973
+DTC_BUS_0710,18:13:00,65580,25:27:53,91673.0,7.25,4.37,0.5,0.07,2.31,3,Shahdara Terminal,Katewara Village,5985 -> 5505 -> 138
+DTC_BUS_0711,18:13:00,65580,23:32:48,84768.0,5.33,3.99,0.25,0.32,0.77,2,Delhi Gate,Badarpur Border (T),10248 -> 10241
+DTC_BUS_0712,18:13:00,65580,21:37:21,77841.0,3.41,3.12,0.25,0.0,0.04,2,D Block Janak Puri (Pankha Road),Lado Sarai Firni Road,10585 -> 490
+DTC_BUS_0713,18:13:00,65580,20:20:03,73203.0,2.12,1.79,0.25,0.04,0.03,2,PM Sangrahalaya (Out Gate),Mubarak Pur Crossing,10649 -> 5391
+DTC_BUS_0714,18:13:00,65580,23:08:32,83312.0,4.93,3.41,0.5,0.52,0.5,3,Yamuna Vihar Cluster Depot,New Delhi Railway Station Gate 2,10650 -> 10091 -> 1425
+DTC_BUS_0715,18:15:00,65700,23:24:51,84291.0,5.16,3.73,0.25,0.0,1.18,2,Delhi Sectt,Nehru Place Terminal,10340 -> 10238
+DTC_BUS_0716,18:15:00,65700,23:48:16,85696.0,5.55,4.41,0.5,0.23,0.41,3,Inderlok Metro Station,Rewla Khanpur Depot,10341 -> 787 -> 1523
+DTC_BUS_0717,18:17:00,65820,22:42:31,81751.0,4.43,3.18,0.5,0.35,0.39,3,Tilak Nagar Terminal,Kair Depot,171 -> 10443 -> 10524
+DTC_BUS_0718,18:18:00,65880,20:10:39,72639.0,1.88,1.88,0.0,0.0,0.0,1,Nehru Place Terminal,Azadpur Metro station,5643
+DTC_BUS_0719,18:18:00,65880,23:11:27,83487.0,4.89,3.15,0.75,0.52,0.48,4,Okhla Extension (Abul Fazl Encalve),Dwarka Sec 22 Cluster Depot,5669 -> 10644 -> 10609 -> 1964
+DTC_BUS_0720,18:20:00,66000,21:54:52,78892.0,3.58,2.11,0.25,0.0,1.22,2,Dera Kalan Terminal,Okhla Depot IV CWS II,1804 -> 1463
+DTC_BUS_0721,18:20:00,66000,23:21:32,84092.0,5.03,3.41,0.25,0.02,1.34,2,Narela Terminal,Uttam Nagar Terminal,5490 -> 5311
+DTC_BUS_0722,18:20:00,66000,21:42:38,78158.0,3.38,2.42,0.25,0.14,0.56,2,Nehru Place Terminal,Dwarka Sec 22 Cluster Depot,5745 -> 10629
+DTC_BUS_0723,18:20:00,66000,21:37:00,77820.0,3.28,2.39,0.25,0.0,0.65,2,Garhi R Vill,Rohini Sec 23 (Green Hill Aptt.),5832 -> 413
+DTC_BUS_0724,18:20:00,66000,23:13:33,83613.0,4.89,3.79,0.5,0.0,0.6,3,Nangloi JJ Colony Lokesh Cinema,Bawana Sec 1 Cluster Depot,5833 -> 5078 -> 1183
+DTC_BUS_0725,18:20:00,66000,25:18:06,91086.0,6.97,5.8,0.5,0.15,0.52,3,Mori Gate Terminal,Qamruddin Nagar Terminal,10145 -> 5723 -> 5110
+DTC_BUS_0726,18:21:00,66060,22:36:01,81361.0,4.25,3.68,0.25,0.0,0.32,2,Najafgarh Terminal,Bakuli Temple,2005 -> 5089
+DTC_BUS_0727,18:26:00,66360,24:01:02,86462.0,5.58,4.17,0.5,0.25,0.67,3,Mubarakpur Xing,Dwarka More Metro Station (Terminal),10381 -> 1263 -> 5280
+DTC_BUS_0728,18:26:00,66360,22:43:11,81791.0,4.29,3.61,0.25,0.07,0.36,2,Nangloi Metro Station,ISBT Sarai Kale Khan,10382 -> 92
+DTC_BUS_0729,18:30:00,66600,24:03:25,86605.0,5.56,4.53,0.5,0.06,0.47,3,Tikri Khurd,Delhi Sectt,242 -> 2069 -> 5519
+DTC_BUS_0730,18:30:00,66600,23:59:30,86370.0,5.49,4.02,0.5,0.19,0.78,3,Delhi Sachivalaya (Rajghat Power House),Ghuman Hera Depot 2,562 -> 10564 -> 320
+DTC_BUS_0731,18:30:00,66600,23:27:27,84447.0,4.96,4.69,0.25,0.0,0.02,2,Kendriya Terminal (Church Road),Rani Khera Depot III,1036 -> 932
+DTC_BUS_0732,18:30:00,66600,23:31:02,84662.0,5.02,3.63,0.5,0.04,0.84,3,Shivaji Stadium Terminal,Dhansa Border (T),1281 -> 209 -> 1371
+DTC_BUS_0733,18:30:00,66600,21:22:21,76941.0,2.87,2.87,0.0,0.0,0.0,1,YMCA / Palika Kendra,Qutub Garh Village (T),1872
+DTC_BUS_0734,18:30:00,66600,22:46:21,81981.0,4.27,2.52,0.25,0.0,1.5,2,Azadpur Terminal,Singhu Border Ramdev Marg,5034 -> 10636
+DTC_BUS_0735,18:30:00,66600,23:24:33,84273.0,4.91,2.46,0.25,0.05,2.15,2,Old Delhi Railway Station (T),Bawana Sec 1 Cluster Depot,5050 -> 14
+DTC_BUS_0736,18:30:00,66600,22:26:52,80812.0,3.95,2.64,0.5,0.23,0.57,3,Kendriya Terminal (Church Road),Yamuna Vihar Cluster Depot,5258 -> 2070 -> 1472
+DTC_BUS_0737,18:30:00,66600,20:52:28,75148.0,2.37,2.37,0.0,0.0,0.0,1,Katewara Village,Uttam Nagar Terminal,5402
+DTC_BUS_0738,18:30:00,66600,23:11:01,83461.0,4.68,2.87,0.25,0.01,1.55,2,Ghoga Village,Holambi Kalan Terminal,5500 -> 995
+DTC_BUS_0739,18:30:00,66600,22:39:38,81578.0,4.16,2.69,0.5,0.28,0.69,3,Shalimar Village,Indraprastha Cluster Depot,5514 -> 534 -> 460
+DTC_BUS_0740,18:30:00,66600,20:00:24,72024.0,1.51,1.51,0.0,0.0,0.0,1,Khera Khurd,Mori Gate Terminal,5515
+DTC_BUS_0741,18:30:00,66600,24:06:07,86767.0,5.6,5.23,0.25,0.04,0.08,2,Ghoga Village,Mangolpuri Y Block,5520 -> 10550
+DTC_BUS_0742,18:30:00,66600,24:47:48,89268.0,6.3,4.77,0.5,0.06,0.97,3,Holambi Kalan Terminal,Bawana Sec 1 Cluster Depot,5521 -> 5024 -> 1852
+DTC_BUS_0743,18:30:00,66600,22:32:13,81133.0,4.04,3.55,0.25,0.17,0.07,2,Noida Sec 62 (Eletronic City),Shahbad Mohammad Pur Village,5622 -> 10430
+DTC_BUS_0744,18:30:00,66600,23:15:37,83737.0,4.76,3.28,0.25,0.01,1.23,2,West Enclave (ORR),Rohini Sector-1 Avantika,5866 -> 5396
+DTC_BUS_0745,18:40:00,67200,22:48:39,82119.0,4.14,3.46,0.25,0.4,0.03,2,Karawal Nagar Terminal,New Seema Puri Depot Cluster,1076 -> 1972
+DTC_BUS_0746,18:40:00,67200,23:14:48,83688.0,4.58,3.92,0.25,0.0,0.41,2,Karawal Nagar Terminal,Ghuman Hera Depot 1,1280 -> 382
+DTC_BUS_0747,18:40:00,67200,22:00:47,79247.0,3.35,3.35,0.0,0.0,0.0,1,Badli Railway Staion,JAT KHOR,5035
+DTC_BUS_0748,18:40:00,67200,21:00:06,75606.0,2.33,2.33,0.0,0.0,0.0,1,Old Delhi Railway Station (T),Majra Dabas Village,5363
+DTC_BUS_0749,18:40:00,67200,21:00:17,75617.0,2.34,2.34,0.0,0.0,0.0,1,Shivaji Stadium Terminal,Majra Dabas Village,5390
+DTC_BUS_0750,18:40:00,67200,22:55:04,82504.0,4.25,3.71,0.25,0.06,0.24,2,Sunehari Pulla Depot / Jawahar Lal Nehru Stadium Terminal,Ghuman Hera Depot 1,5399 -> 149
+DTC_BUS_0751,18:40:00,67200,23:33:52,84832.0,4.9,4.56,0.25,0.0,0.09,2,Old Delhi Railway Station,Bahadur Garh,5441 -> 10239
+DTC_BUS_0752,18:40:00,67200,23:25:05,84305.0,4.75,4.75,0.0,0.0,0.0,1,Old Delhi Railway Station,Anand Vihar ISBT Terminal,5442
+DTC_BUS_0753,18:40:00,67200,20:28:05,73685.0,1.8,1.8,0.0,0.0,0.0,1,E Block Jahangir Puri Terminal,Nizamuddin Railway Station,5469
+DTC_BUS_0754,18:40:00,67200,24:33:31,88411.0,5.89,2.98,0.25,0.01,2.65,2,Noida Sector-32 Terminal,Seemapuri Old J / K,5614 -> 10454
+DTC_BUS_0755,18:40:00,67200,20:15:09,72909.0,1.59,1.59,0.0,0.0,0.0,1,Jhatikra Village,Tilak Nagar Jail Road,5781
+DTC_BUS_0756,18:40:00,67200,21:53:07,78787.0,3.22,2.87,0.25,0.1,0.0,2,Old Delhi Railway Station,Nehru Place Terminal,10301 -> 10281
+DTC_BUS_0757,18:40:00,67200,20:16:57,73017.0,1.62,1.62,0.0,0.0,0.0,1,Madhuban Chowk Outer Ring Road,Qutub Garh Village (T),10302
+DTC_BUS_0758,18:40:00,67200,23:45:10,85510.0,5.09,3.94,0.25,0.01,0.88,2,Kashmere Gate City bus Terminal,ISBT Bridge,10397 -> 5803
+DTC_BUS_0759,18:40:00,67200,23:36:13,84973.0,4.94,2.39,0.5,0.11,1.94,3,Qutub Garh Village (T),Metro Vihar Holambi Khurd Terminal,10658 -> 2021 -> 10554
+DTC_BUS_0760,18:45:00,67500,23:02:36,82956.0,4.29,3.68,0.25,0.0,0.36,2,Auchandi Bordr,Ghoga Village,5502 -> 2139
+DTC_BUS_0761,18:45:00,67500,24:10:46,87046.0,5.43,3.64,0.25,0.02,1.52,2,Bakhtawar Pur Garhi,Najafgarh Terminal,5532 -> 5438
+DTC_BUS_0762,18:45:00,67500,26:49:32,96572.0,8.08,8.08,0.0,0.0,0.0,1,Sec A-9 Narela,Anand Vihar ISBT Terminal,5533
+DTC_BUS_0763,18:50:00,67800,22:53:11,82391.0,4.05,3.58,0.25,0.16,0.07,2,Babar Pur Ext Terminal,Nizamuddin Railway Station,435 -> 5862
+DTC_BUS_0764,18:50:00,67800,20:36:49,74209.0,1.78,1.78,0.0,0.0,0.0,1,Inderlok Metro Station,Kair Village,767
+DTC_BUS_0765,18:50:00,67800,23:54:17,86057.0,5.07,2.19,0.5,0.16,2.22,3,E Block Jahangir Puri Terminal,Dwarka Sec-23,1285 -> 10561 -> 10616
+DTC_BUS_0766,18:50:00,67800,24:31:57,88317.0,5.7,4.29,0.5,0.13,0.78,3,Old Delhi Railway Station (Terminal),Bakkarwala Village,1470 -> 5834 -> 10296
+DTC_BUS_0767,18:50:00,67800,24:14:02,87242.0,5.4,3.92,0.75,0.11,0.62,4,Mori Gate Terminal,Indraprastha Cluster Depot,1893 -> 5776 -> 10628 -> 164
+DTC_BUS_0768,18:50:00,67800,23:29:37,84577.0,4.66,2.89,0.25,0.01,1.51,2,Inder Puri JJ Colony,Nizamuddin Railway Station,5064 -> 5546
+DTC_BUS_0769,18:50:00,67800,24:33:23,88403.0,5.72,4.52,0.25,0.0,0.96,2,Old Delhi Railway Station (T),Lampur Border,5090 -> 5077
+DTC_BUS_0770,18:50:00,67800,20:44:21,74661.0,1.91,1.91,0.0,0.0,0.0,1,Nehru Place Terminal,Noida Sec 62 (Eletronic City),5193
+DTC_BUS_0771,18:50:00,67800,22:58:09,82689.0,4.14,2.59,0.25,0.16,1.14,2,Netaji Subhash Palace (Wazirpur Depot) Road No 41,Chhatarpur Ext / Nanda Hospital,5245 -> 1344
+DTC_BUS_0772,18:50:00,67800,22:58:08,82688.0,4.14,2.97,0.5,0.1,0.56,3,Anand Parvat Terminal,South Moti Bagh (Ring Road),5246 -> 1452 -> 10577
+DTC_BUS_0773,18:50:00,67800,23:15:09,83709.0,4.42,4.01,0.25,0.0,0.16,2,Anand Vihar ISBT Main Road,Bawana Village,5285 -> 5870
+DTC_BUS_0774,18:50:00,67800,20:58:10,75490.0,2.14,2.14,0.0,0.0,0.0,1,Anand Vihar ISBT Main Road,Binda Pur 60 Foota Road,5286
+DTC_BUS_0775,18:50:00,67800,20:56:01,75361.0,2.1,2.1,0.0,0.0,0.0,1,Mangla Puri Terminal,Jonti Village,5287
+DTC_BUS_0776,18:50:00,67800,23:18:20,83900.0,4.47,3.45,0.25,0.06,0.72,2,vishnu garden nw chowk,Anand Vihar ISBT Terminal,5356 -> 1518
+DTC_BUS_0777,18:50:00,67800,20:16:56,73016.0,1.45,1.45,0.0,0.0,0.0,1,Noida Ph 2 Phool Mandi,Nehru Place,5467
+DTC_BUS_0778,18:50:00,67800,22:44:40,81880.0,3.91,2.84,0.25,0.64,0.18,2,Mehrauli Terminal,Dhaula Kuan,5632 -> 5602
+DTC_BUS_0779,18:50:00,67800,23:32:20,84740.0,4.71,2.83,0.25,0.04,1.59,2,Ambedkar Nagar Terminal,Rohini Sec 22 Terminal,5634 -> 2125
+DTC_BUS_0780,18:50:00,67800,24:34:27,88467.0,5.74,3.84,0.25,0.02,1.62,2,DDA Flats Kalkaji,Qutub Garh Village (T),5638 -> 5439
+DTC_BUS_0781,18:50:00,67800,23:38:45,85125.0,4.81,2.79,0.25,0.09,1.68,2,Mehrauli Terminal,Dwarka Sec 19 Pocket B (T),5664 -> 10128
+DTC_BUS_0782,18:50:00,67800,20:38:10,74290.0,1.8,1.8,0.0,0.0,0.0,1,Q Block Mangolpuri,Safdurjung Terminal,5701
+DTC_BUS_0783,18:50:00,67800,23:20:08,84008.0,4.5,3.02,0.25,0.0,1.23,2,Chhattarpur Metro Station,NHAI Building/ Dwarka Sec-10 Metro Station,5710 -> 928
+DTC_BUS_0784,18:50:00,67800,23:12:14,83534.0,4.37,3.35,0.5,0.01,0.52,3,Prehlad Vihar (Deep Vihar) Rohini Sec 25,Indraprastha Cluster Depot,5881 -> 707 -> 738
+DTC_BUS_0785,18:50:00,67800,22:29:02,80942.0,3.65,2.86,0.25,0.2,0.34,2,Old Delhi Railway Station (Terminal),Bawana Sec 5 Cluster Depot,10082 -> 10479
+DTC_BUS_0786,18:50:00,67800,24:42:33,88953.0,5.88,4.11,0.5,0.02,1.25,3,Mori Gate Terminal,Pandwala Kalan (T),10350 -> 5799 -> 10011
+DTC_BUS_0787,18:50:00,67800,23:45:03,85503.0,4.92,3.64,0.25,0.0,1.02,2,Poorvanchal Hostel,Ramdev Chowk Narela Terminal,10351 -> 1999
+DTC_BUS_0788,18:50:00,67800,23:50:43,85843.0,5.01,3.51,0.25,0.01,1.24,2,IGI Airport Terminal 3,H 3 Vikas Puri,10371 -> 5312
+DTC_BUS_0789,18:50:00,67800,23:32:39,84759.0,4.71,2.51,0.5,0.22,1.48,3,Old Delhi Railway Station,Keshav Nagar Mukti Ashram,10446 -> 10408 -> 10519
+DTC_BUS_0790,18:56:00,68160,20:52:55,75175.0,1.95,1.95,0.0,0.0,0.0,1,Jheel Terminal,Uttam Nagar Terminal,10233
+DTC_BUS_0791,18:56:00,68160,20:27:23,73643.0,1.52,1.52,0.0,0.0,0.0,1,Sultanpuri Terminal,Bawana Sec 1 Cluster Depot,10646
+DTC_BUS_0792,18:56:00,68160,21:04:34,75874.0,2.14,2.14,0.0,0.0,0.0,1,Uttam Nagar,Badarpur Border (T),10648
+DTC_BUS_0793,19:00:00,68400,27:03:02,97382.0,8.05,8.05,0.0,0.0,0.0,1,NARELA RAILWAY X-ING,Mori Gate Terminal,5518
+DTC_BUS_0794,19:05:00,68700,23:54:16,86056.0,4.82,3.29,0.25,0.01,1.27,2,Saket J Block,Mangla Puri Terminal,5663 -> 5310
+DTC_BUS_0795,19:05:00,68700,22:44:36,81876.0,3.66,2.64,0.25,0.0,0.77,2,Badarpur Border (T),Mori Gate Terminal,5906 -> 10448
+DTC_BUS_0796,19:05:00,68700,25:02:37,90157.0,5.96,5.12,0.5,0.0,0.34,3,Q Block Mangolpuri,Rani Khera Depot II,10225 -> 1269 -> 1174
+DTC_BUS_0797,19:05:00,68700,20:32:04,73924.0,1.45,1.45,0.0,0.0,0.0,1,ISBT Sarai Kale Khan,Shalimar Bagh Desu Colony,10278
+DTC_BUS_0798,19:05:00,68700,23:26:06,84366.0,4.35,3.3,0.25,0.0,0.8,2,Dwarka Sec-23,A Block Dilshad Garden Bloomfield Public School,10345 -> 10153
+DTC_BUS_0799,19:05:00,68700,20:59:48,75588.0,1.91,1.91,0.0,0.0,0.0,1,Nizamuddin Railway Station,Uttam Nagar,10346
+DTC_BUS_0800,19:05:00,68700,20:45:59,74759.0,1.68,1.68,0.0,0.0,0.0,1,IGI Airport Terminal 2 (Air India Office),Uttam Nagar Terminal,10347
+DTC_BUS_0801,19:05:00,68700,23:29:40,84580.0,4.41,3.46,0.25,0.18,0.52,2,Hamdard Nagar / Sangam Vihar,Dichau Village,10349 -> 5340
+DTC_BUS_0802,19:05:00,68700,25:29:00,91740.0,6.4,5.37,0.25,0.64,0.14,2,Dwarka Sec 22 Cluster Depot,Tilak Nagar Terminal,10506 -> 5815
+DTC_BUS_0803,19:06:00,68760,23:36:51,85011.0,4.51,2.87,0.5,0.34,0.8,3,Rohini Sec 16 (T),Rewla Khanpur Depot,5997 -> 10451 -> 31
+DTC_BUS_0804,19:06:00,68760,21:09:55,76195.0,2.07,2.07,0.0,0.0,0.0,1,IGI Airport Terminal 2 (Air India Office),NajafGarh Terminal,5998
+DTC_BUS_0805,19:08:00,68880,23:19:43,83983.0,4.2,3.62,0.25,0.0,0.33,2,Kanjhawala Depot (Narela Road),Uttam Nagar Terminal,5548 -> 991
+DTC_BUS_0806,19:10:00,69000,20:16:14,72974.0,1.1,1.1,0.0,0.0,0.0,1,Surakh Pur Village,Tilak Nagar Terminal,5806
+DTC_BUS_0807,19:16:00,69360,24:41:29,88889.0,5.42,3.49,0.25,0.0,1.69,2,Qamruddin Nagar Terminal,Sultanpuri Terminal,187 -> 5395
+DTC_BUS_0808,19:16:00,69360,22:46:09,81969.0,3.5,2.75,0.25,0.02,0.48,2,NHAI Building/ Dwarka Sec-10 Metro Station,Poorvanchal Hostel,464 -> 5251
+DTC_BUS_0809,19:16:00,69360,23:07:38,83258.0,3.86,2.2,0.25,0.18,1.23,2,Madipur JJ Colony Terminal,B R Ambedkar College (Loni Road Xing),1710 -> 5123
+DTC_BUS_0810,19:16:00,69360,22:16:38,80198.0,3.01,1.82,0.25,0.0,0.94,2,N D R Station G No 2,BBM Cluster Depot,5118 -> 1506
+DTC_BUS_0811,19:16:00,69360,23:58:36,86316.0,4.71,3.18,0.25,0.0,1.27,2,New Delhi Railway Station Gate 2,Madipur JJ Colony,5174 -> 5650
+DTC_BUS_0812,19:16:00,69360,21:08:16,76096.0,1.87,1.87,0.0,0.0,0.0,1,Old Delhi Railway Station (T) H C Sen Marg,PALAM COLONY,5295
+DTC_BUS_0813,19:16:00,69360,29:33:09,106389.0,10.29,10.29,0.0,0.0,0.0,1,Tilak Nagar Jail Road,Daraula Border,5321
+DTC_BUS_0814,19:16:00,69360,24:39:33,88773.0,5.39,5.39,0.0,0.0,0.0,1,Nangali Jalib,Galib Pur Village,5322
+DTC_BUS_0815,19:16:00,69360,23:55:28,86128.0,4.66,4.66,0.0,0.0,0.0,1,Najafgarh Terminal,Sarangpur,5323
+DTC_BUS_0816,19:17:00,69420,23:11:10,83470.0,3.9,2.91,0.5,0.28,0.2,3,Maharana Pratap ISBT,Uttam Nagar Terminal,10067 -> 1223 -> 5309
+DTC_BUS_0817,19:17:00,69420,22:47:31,82051.0,3.51,2.61,0.25,0.03,0.61,2,Hastsal JJ Colony,Shahbad Dairy,10512 -> 5411
+DTC_BUS_0818,19:18:00,69480,23:46:12,85572.0,4.47,3.04,0.25,0.0,1.18,2,Mori Gate Terminal,Rani Khera Depot 1,1373 -> 265
+DTC_BUS_0819,19:18:00,69480,22:43:13,81793.0,3.42,1.73,0.25,0.0,1.44,2,Old Delhi Railway Station,Kashmere Gate City bus Terminal,5091 -> 10534
+DTC_BUS_0820,19:18:00,69480,22:29:02,80942.0,3.18,2.49,0.25,0.16,0.28,2,Shalimar Bagh BH Block,Indraprastha Cluster Depot,5868 -> 737
+DTC_BUS_0821,19:20:00,69600,23:56:14,86174.0,4.6,4.24,0.25,0.08,0.04,2,Najafgarh Terminal,Ramdev Chowk Narela Terminal,850 -> 10240
+DTC_BUS_0822,19:20:00,69600,20:40:58,74458.0,1.35,1.35,0.0,0.0,0.0,1,Mori Gate Terminal,Khera Khurd School,5049
+DTC_BUS_0823,19:20:00,69600,23:14:26,83666.0,3.91,3.37,0.25,0.01,0.28,2,Uttam Nagar,Tilak Nagar Crossing,5266 -> 5804
+DTC_BUS_0824,19:20:00,69600,22:23:26,80606.0,3.06,1.66,0.25,0.15,1.0,2,Delhi Gate / Ambedkar Stadium Terminal,Karampura Terminal,5358 -> 1501
+DTC_BUS_0825,19:20:00,69600,25:00:40,90040.0,5.68,5.41,0.25,0.0,0.01,2,Majra Dabas Village,NajafGarh Terminal,5830 -> 2121
+DTC_BUS_0826,19:22:00,69720,23:00:26,82826.0,3.64,2.21,0.25,0.22,0.96,2,Kair Village,Delhi Gate / Ambedkar Stadium Terminal,845 -> 5825
+DTC_BUS_0827,19:30:00,70200,22:45:07,81907.0,3.25,2.67,0.25,0.1,0.23,2,Azadpur Terminal,Bawana Sec 5 Cluster Depot,905 -> 686
+DTC_BUS_0828,19:33:00,70380,22:24:45,80685.0,2.86,2.32,0.25,0.0,0.29,2,Najafgarh Terminal,NajafGarh Terminal,1693 -> 823
+DTC_BUS_0829,19:33:00,70380,21:47:55,78475.0,2.25,2.25,0.0,0.0,0.0,1,Lado Sarai(Firni Road),NajafGarh Terminal,2080
+DTC_BUS_0830,19:33:00,70380,24:38:09,88689.0,5.09,3.65,0.25,0.0,1.19,2,Ghuman Hera Depot 1,Rohini Sec 16 (T),10017 -> 10103
+DTC_BUS_0831,19:35:00,70500,23:47:37,85657.0,4.21,3.66,0.25,0.01,0.29,2,Mitraon Village (Kair Village Road),Kapashera Border,5780 -> 5304
+DTC_BUS_0832,19:36:00,70560,23:27:21,84441.0,3.86,3.31,0.25,0.11,0.19,2,Mundhela Khurd Village,Nizamuddin Railway Station,526 -> 5805
+DTC_BUS_0833,19:45:00,71100,24:12:07,87127.0,4.45,3.8,0.25,0.0,0.4,2,Dhaula Kuan,Uttam Nagar Terminal,10037 -> 10603
+DTC_BUS_0834,19:46:00,71160,23:07:17,83237.0,3.35,3.05,0.25,0.01,0.04,2,Ch Brahm Parkash Ayurvedic Hospital,Malik Pur Village,1741 -> 240
+DTC_BUS_0835,19:50:00,71400,22:09:30,79770.0,2.33,2.33,0.0,0.0,0.0,1,ISBT Sarai Kale Khan,Pochan Pur Village Dwarka Sec 23,2054
+DTC_BUS_0836,19:50:00,71400,21:58:37,79117.0,2.14,2.14,0.0,0.0,0.0,1,Nehru Place Terminal,Mundka Village Metro Station,10642
+DTC_BUS_0837,19:54:00,71640,21:44:13,78253.0,1.84,1.18,0.25,0.14,0.26,2,Holambi Kalan Terminal,Majlis Park DMRC Depot,1914 -> 10544
+DTC_BUS_0838,19:57:00,71820,26:58:03,97083.0,7.02,7.02,0.0,0.0,0.0,1,Tilak Nagar Jail Road,Malik Pur Village,5341
+DTC_BUS_0839,19:58:00,71880,23:11:09,83469.0,3.22,2.28,0.5,0.15,0.29,3,Shivaji Stadium Terminal,Rani Khera Depot I,5354 -> 10390 -> 206
+DTC_BUS_0840,19:58:00,71880,23:05:30,83130.0,3.12,2.73,0.25,0.13,0.01,2,Tilak Nagar Terminal,Rewla Khanpur Depot,5990 -> 348
+DTC_BUS_0841,19:58:00,71880,23:25:08,84308.0,3.45,3.08,0.25,0.0,0.12,2,Mori Gate Terminal,Nilothi Crossing,5992 -> 10185
+DTC_BUS_0842,19:58:00,71880,21:56:59,79019.0,1.98,1.66,0.25,0.07,0.01,2,D Block Mangol Puri (T),Bawana Sec 5 Cluster Depot,5993 -> 259
+DTC_BUS_0843,19:58:00,71880,24:27:39,88059.0,4.49,4.06,0.25,0.0,0.18,2,New Delhi Railway Station Gate 2,Najafgarh Terminal,5994 -> 5281
+DTC_BUS_0844,19:58:00,71880,22:50:58,82258.0,2.88,2.27,0.25,0.02,0.34,2,Anand Vihar ISBT Terminal,Q-Block Mangolpuri,10602 -> 10236
+DTC_BUS_0845,20:00:00,72000,23:34:28,84868.0,3.57,3.21,0.25,0.09,0.02,2,Malik Pur Village,Babar Pur Ext Terminal,422 -> 1591
+DTC_BUS_0846,20:00:00,72000,23:52:09,85929.0,3.87,2.5,0.25,0.0,1.11,2,GTK Depot,Rani Khera Depot III,1084 -> 1403
+DTC_BUS_0847,20:00:00,72000,22:47:42,82062.0,2.79,2.44,0.25,0.08,0.03,2,Azadpur Terminal,Bawana Sec 1 Cluster Depot,5025 -> 1122
+DTC_BUS_0848,20:00:00,72000,23:19:25,83965.0,3.32,2.89,0.25,0.09,0.1,2,Gandhi Darshan,Shivaji Stadium Terminal,5359 -> 5887
+DTC_BUS_0849,20:00:00,72000,23:49:02,85742.0,3.82,3.53,0.25,0.01,0.03,2,Savda Village,Rajghat Depot,5578 -> 127
+DTC_BUS_0850,20:00:00,72000,21:55:33,78933.0,1.93,1.3,0.25,0.1,0.28,2,New Seema Puri Depot Cluster,PM Sangrahalaya (In Gate),5579 -> 10459
+DTC_BUS_0851,20:00:00,72000,22:50:08,82208.0,2.84,2.48,0.25,0.02,0.08,2,Nand Nagari Terminal,Shahdara Terminal,5606 -> 789
+DTC_BUS_0852,20:00:00,72000,27:47:50,100070.0,7.8,7.8,0.0,0.0,0.0,1,Holambi Kalan JJ Colony,Anand Vihar ISBT Terminal,5607
+DTC_BUS_0853,20:00:00,72000,21:22:04,76924.0,1.37,1.37,0.0,0.0,0.0,1,Kalyan Puri Terminal,Hauz Khas,5608
+DTC_BUS_0854,20:00:00,72000,21:52:44,78764.0,1.88,1.88,0.0,0.0,0.0,1,bhati mines,Dhaula Kuan,5682
+DTC_BUS_0855,20:00:00,72000,24:58:17,89897.0,4.97,4.71,0.25,0.0,0.01,2,Majra Dabas Village,Kapashera Border,5835 -> 10298
+DTC_BUS_0856,20:00:00,72000,24:20:21,87621.0,4.34,3.51,0.25,0.02,0.56,2,Majra Dabas Village,New Seema Puri Depot Cluster,5857 -> 5112
+DTC_BUS_0857,20:00:00,72000,25:51:55,93115.0,5.87,4.55,0.5,0.53,0.29,3,Shahbad Dairy Block A,Savda Village,5878 -> 1525 -> 5111
+DTC_BUS_0858,20:00:00,72000,23:30:44,84644.0,3.51,3.11,0.25,0.0,0.15,2,Old Delhi Railway Station,Nehru Place Terminal,10353 -> 5685
+DTC_BUS_0859,20:00:00,72000,22:13:42,80022.0,2.23,1.62,0.25,0.01,0.34,2,Ghoga Village,Majlis Park DMRC Depot,10354 -> 10576
+DTC_BUS_0860,20:00:00,72000,23:28:58,84538.0,3.48,3.14,0.25,0.04,0.06,2,Nilothi Village,C 9 Vasant Kunj,10355 -> 5244
+DTC_BUS_0861,20:00:00,72000,23:00:52,82852.0,3.01,3.01,0.0,0.0,0.0,1,Anand Vihar ISBT Main Road,Gurugram ISBT,10368
+DTC_BUS_0862,20:00:00,72000,22:54:12,82452.0,2.9,2.61,0.25,0.01,0.03,2,Mayur Vihar Phase III (T) Paper Market,Noida Ph 2 Phool Mandi,10369 -> 5001
+DTC_BUS_0863,20:02:00,72120,22:22:02,80522.0,2.33,1.33,0.25,0.17,0.58,2,Mayur Vihar Phase III (T) Paper Market,Indraprastha Cluster Depot,2039 -> 2012
+DTC_BUS_0864,20:05:00,72300,21:39:00,77940.0,1.57,1.57,0.0,0.0,0.0,1,A Block Dilshad Garden Bloomfield Public School,Nehru Place Terminal,10118
+DTC_BUS_0865,20:10:00,72600,21:48:35,78515.0,1.64,1.64,0.0,0.0,0.0,1,ISIC Hospital,Mori Gate Terminal,5711
+DTC_BUS_0866,20:50:00,75000,26:43:48,96228.0,5.9,5.9,0.0,0.0,0.0,1,Malik Pur Village,Sant Pura Tilak Nagar,5808
+DTC_BUS_0867,21:30:00,77400,27:50:51,100251.0,6.35,6.35,0.0,0.0,0.0,1,Uttam Nagar Terminal,Uttam Nagar Terminal,10040
+DTC_BUS_0868,22:02:00,79320,28:23:03,102183.0,6.35,6.35,0.0,0.0,0.0,1,Anand Vihar ISBT Terminal,Anand Vihar ISBT Main Road,10423

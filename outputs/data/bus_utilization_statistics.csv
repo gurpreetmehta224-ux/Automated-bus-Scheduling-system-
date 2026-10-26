@@ -1,0 +1,11 @@
+metric,unlinked_schedule,linked_schedule,percentage_change
+Fleet Size Required (Buses),2403.0,868.0,"63.9% modeled reduction (1,535 buses fewer)"
+Total Fleet Duty Hours,3781.1,5306.7,"+1,525.7h (+40.3%)"
+In-Service Driving Hours,3781.1,3781.1,0.0% (Identical Coverage)
+Turnaround / Recovery Hours,0.0,383.8,N/A (Added buffer)
+Deadhead Repositioning Hours,0.0,189.9,N/A (Trip chaining)
+Idle Waiting Hours,0.0,951.9,N/A
+Active Driving Fleet Utilization (%),100.0,71.3,-28.7%
+Average Trips per Bus,1.0,2.77,+176.8%
+Max Trips on Single Vehicle,1.0,6.0,+5
+Average Vehicle Duty Duration (Hours),1.57,6.11,+288.5%
